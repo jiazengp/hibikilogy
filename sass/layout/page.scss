@@ -1,0 +1,239 @@
+@use "../config.scss";
+
+.post > #app > .Layout > .Content {
+  /**
+ * Headings
+ * -------------------------------------------------------------------------- */
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    position: relative;
+    font-weight: 600;
+    outline: none;
+  }
+
+  h1 {
+    letter-spacing: -0.02em;
+    line-height: 40px;
+    font-size: 28px;
+  }
+
+  h2 {
+    margin: 48px 0 16px;
+    border-top: 1px solid var(--joh-c-divider);
+    padding-top: 24px;
+    letter-spacing: -0.02em;
+    line-height: 32px;
+    font-size: 24px;
+  }
+
+  h3 {
+    margin: 32px 0 0;
+    letter-spacing: -0.01em;
+    line-height: 28px;
+    font-size: 20px;
+  }
+
+  h4 {
+    margin: 24px 0 0;
+    letter-spacing: -0.01em;
+    line-height: 24px;
+    font-size: 18px;
+  }
+
+  .header-anchor {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: -0.87em;
+    font-weight: 500;
+    user-select: none;
+    opacity: 0;
+    text-decoration: none;
+    transition:
+      color 0.25s,
+      opacity 0.25s;
+  }
+
+  .header-anchor:before {
+    content: var(--joh-header-anchor-symbol);
+  }
+
+  h1:hover .header-anchor,
+  h1 .header-anchor:focus,
+  h2:hover .header-anchor,
+  h2 .header-anchor:focus,
+  h3:hover .header-anchor,
+  h3 .header-anchor:focus,
+  h4:hover .header-anchor,
+  h4 .header-anchor:focus,
+  h5:hover .header-anchor,
+  h5 .header-anchor:focus,
+  h6:hover .header-anchor,
+  h6 .header-anchor:focus {
+    opacity: 1;
+  }
+
+  @media (min-width: config.$tablet) {
+    h1 {
+      letter-spacing: -0.02em;
+      line-height: 40px;
+      font-size: 32px;
+    }
+  }
+
+  h2 .header-anchor {
+    top: 24px;
+  }
+
+  /**
+ * Paragraph and inline elements
+ * -------------------------------------------------------------------------- */
+
+  p,
+  summary {
+    margin: 16px 0;
+  }
+
+  p {
+    line-height: 28px;
+  }
+
+  blockquote {
+    margin: 16px 0;
+    border-left: 2px solid var(--joh-c-divider);
+    padding-left: 16px;
+    transition: border-color 0.5s;
+    color: var(--joh-c-text-2);
+  }
+
+  blockquote > p {
+    margin: 0;
+    font-size: 16px;
+    transition: color 0.5s;
+  }
+
+  a {
+    font-weight: 500;
+    color: var(--joh-c-brand-1);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition:
+      color 0.25s,
+      opacity 0.25s;
+  }
+
+  a:hover {
+    color: var(--joh-c-brand-2);
+  }
+
+  strong {
+    font-weight: 600;
+  }
+
+  /**
+ * Lists
+ * -------------------------------------------------------------------------- */
+
+  ul,
+  ol {
+    padding-left: 1.25rem;
+    margin: 16px 0;
+  }
+
+  ul {
+    list-style: disc;
+  }
+
+  ol {
+    list-style: decimal;
+  }
+
+  li + li {
+    margin-top: 8px;
+  }
+
+  li > ol,
+  li > ul {
+    margin: 8px 0 0;
+  }
+
+  /**
+ * Table
+ * -------------------------------------------------------------------------- */
+
+  table {
+    display: block;
+    border-collapse: collapse;
+    margin: 20px 0;
+    overflow-x: auto;
+  }
+
+  tr {
+    background-color: var(--joh-c-bg);
+    border-top: 1px solid var(--joh-c-divider);
+    transition: background-color 0.5s;
+  }
+
+  tr:nth-child(2n) {
+    background-color: var(--joh-c-bg-soft);
+  }
+
+  th,
+  td {
+    border: 1px solid var(--joh-c-divider);
+    padding: 8px 16px;
+  }
+
+  th {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--joh-c-text-2);
+    background-color: var(--joh-c-bg-soft);
+  }
+
+  td {
+    font-size: 14px;
+  }
+
+  /**
+ * Decorational elements
+ * -------------------------------------------------------------------------- */
+
+  hr {
+    margin: 16px 0;
+    border: none;
+    border-top: 1px solid var(--joh-c-divider);
+  }
+
+  /**
+ * Code
+ * -------------------------------------------------------------------------- */
+
+  /* inline code */
+  :not(pre, h1, h2, h3, h4, h5, h6) > code {
+    font-size: var(--joh-code-font-size);
+    color: var(--joh-code-color);
+  }
+
+  :not(pre) > code {
+    border-radius: 4px;
+    padding: 3px 6px;
+    background-color: var(--joh-code-bg);
+    transition:
+      color 0.25s,
+      background-color 0.5s;
+  }
+
+  h1 > code,
+  h2 > code,
+  h3 > code,
+  h4 > code {
+    font-size: 0.9em;
+  }
+}

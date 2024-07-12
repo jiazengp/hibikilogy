@@ -1,0 +1,14 @@
+@use "../config.scss";
+
+.Content {
+  @media (max-width: config.$tablet) {
+    & {
+      padding: 32px;
+    }
+  }
+
+  .container {
+    margin: 0 auto;
+    max-width: var(--joh-layout-max-width);
+  }
+}
