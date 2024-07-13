@@ -95,8 +95,8 @@ webmanifest = "/icons/site.webmanifest"
 [extra.analytics]
 google = ""
 
-[features]
-default = ["rust-tls"]
-indexing-zh = ["libs/indexing-zh"]
-native-tls = ["libs/native-tls"]
-rust-tls = ["libs/rust-tls"]
+# [features]
+# default = ["rust-tls"]
+# indexing-zh = ["libs/indexing-zh"]
+# native-tls = ["libs/native-tls"]
+# rust-tls = ["libs/rust-tls"]
