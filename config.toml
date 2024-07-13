@@ -6,8 +6,8 @@ output_dir = "build"
 compile_sass = true
 minify_html = false
 ignored_content = ["temp.*"]
-generate_feed = true
-feed_filename = "rss.xml"
+# generate_feed = true
+# feed_filename = "rss.xml"
 hard_link_static = false
 taxonomies = [
   { name = "categories", feed = true, paginate_by = 10 },
