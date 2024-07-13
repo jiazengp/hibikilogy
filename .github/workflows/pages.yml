@@ -36,30 +36,7 @@ jobs:
         with:
           # fetch all commits to get last updated time or other git log info
           fetch-depth: 0
-
-      - name: build_and_deploy
-        uses: shalzz/zola-deploy-action@v0.17.2
+      - name: Build and deploy
+        uses: shalzz/zola-deploy-action@master
         env:
-         # Target branch
-         PAGES_BRANCH: gh-pages
-         TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Build site
-        run: pnpm build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: ./build/
-
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    name: Deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
