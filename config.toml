@@ -58,13 +58,6 @@ include_path = false
 # Whether to include the rendered content of the page/section in the index
 include_content = true
 
-[translations]
-
-[languages.zh]
-author_text = "作者"
-publish_text = "发布于"
-date_fromat = ""
-
 [extra]
 chart.enabled = true
 footer = [
