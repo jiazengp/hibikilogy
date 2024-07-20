@@ -2,7 +2,7 @@ base_url = "https://hibikilogy.github.io"
 title = "京吹学报"
 description = "吹学著作集锦"
 default_language = "en"
-output_dir = "build"
+# output_dir = "build"
 compile_sass = true
 minify_html = false
 ignored_content = ["temp.*"]
@@ -95,8 +95,8 @@ webmanifest = "/icons/site.webmanifest"
 [extra.analytics]
 google = ""
 
-[features]
-default = ["rust-tls"]
-indexing-zh = ["libs/indexing-zh"]
-native-tls = ["libs/native-tls"]
-rust-tls = ["libs/rust-tls"]
+# [features]
+# default = ["rust-tls"]
+# indexing-zh = ["libs/indexing-zh"]
+# native-tls = ["libs/native-tls"]
+# rust-tls = ["libs/rust-tls"]
