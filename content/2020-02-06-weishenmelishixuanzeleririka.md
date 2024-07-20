@@ -1,13 +1,20 @@
 +++
-title="为什么剑崎梨梨花是北宇治吹奏部的下届部长？"
-discription=" ——驳《为什么历史选择了久石奏》"
-original="https://www.bilibili.com/read/cv4947159"
-cover="https://i.loli.net/2020/03/11/PtGjWaq3AvSoYlB.png"
-catalog="true"
+title = "为什么剑崎梨梨花是北宇治吹奏部的下届部长？"
+date = "2020-02-06"
+description = "——驳《为什么历史选择了久石奏》"
+
 [taxonomies]
-tags=["剑崎梨梨花","久石奏","黄前久美子", "黄前十八年", "驳文", "NGA"]
-author=["JF123258"]
+tags = ["剑崎梨梨花", "久石奏", "黄前久美子", "黄前十八年", "驳文", "NGA"]
+author = ["JF123258"]
+
+[extra]
+original = "https://www.bilibili.com/read/cv4947159"
+catalog = true
+cover = "https://i.loli.net/2020/03/11/PtGjWaq3AvSoYlB.png"
+# origin 
+abstract = "本文系统性的驳斥了《[为什么历史选择了久石奏](/2020/01/07/weishenmelishixuanzelekanade/)》中种种错误观点，并对于黄前四年北宇治吹奏部新一代领导核心，建立了自己的科学预测成果  关键词：吹响吧上低音号 政治光谱 性格分析"
 +++
+
 
 ## 摘要：
 本文系统性的驳斥了《[为什么历史选择了久石奏](/2020/01/07/weishenmelishixuanzelekanade/)》中种种错误观点，并对于黄前四年北宇治吹奏部新一代领导核心，建立了自己的科学预测成果
@@ -19,7 +26,7 @@ author=["JF123258"]
 2. 《青鸟经》 
 3. 《誓言经》 
 4. 《黄前久美子本纪》武田版全本 
-5. 《吹学经史子集汇编》<https://www.saraba1st.com/2b/thread-1336553"680-1.html>--子部《京吹人物谱录》 
+5. 《吹学经史子集汇编》<https://www.saraba1st.com/2b/thread-1336553- 680-1.html>--子部《京吹人物谱录》 
 6. 《吹学经史子集汇编》--集部《[北宇治吹奏部权力博弈考察](/2019/01/27/beiyuzhichuizoubuquanliboyikaocha/)》<https://bbs.saraba1st.com/2b/thread-1806922-0-1.html>
 7. 《[北宇治高中吹奏乐部止步关西大赛，如何问责](/2020/01/10/ruhewenze/)》<https://tieba.baidu.com/p/6438643209>
 8. 《[一个有良心的吹学研究者带你深入剖析伞木希美](/2020/02/01/%E4%B8%80%E4%B8%AA%E6%9C%89%E8%89%AF%E5%BF%83%E7%9A%84%E5%90%B9%E5%AD%A6%E7%A0%94%E7%A9%B6%E8%80%85%E5%B8%A6%E4%BD%A0%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90%E4%BC%9E%E6%9C%A8%E5%B8%8C%E7%BE%8E/)》<https://tieba.baidu.com/p/6468593437> 

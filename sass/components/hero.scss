@@ -6,7 +6,6 @@
   .container {
     width: 100vw;
     height: 100%;
-    background-color: #222;
 
     .post-heading {
       display: flex;
@@ -14,17 +13,28 @@
       flex-direction: column;
       max-height: 600px;
       overflow: hidden;
+      background-color: #bfbfbf;
       color: #fff;
 
       img {
+        z-index: 1;
         width: 100%;
         height: 45vh;
         object-fit: cover;
+        pointer-events: none;
+      }
+
+      .default-bg {
+        filter: opacity(0.05);
       }
 
       .post-heading-info {
+        z-index: var(--joh-z-index-layout-top);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
         margin: 0 auto;
-        max-width: var(--joh-layout-max-width);
+        width: var(--joh-layout-max-width);
         min-height: 35vh;
         margin-top: -35vh;
       }
@@ -118,9 +128,11 @@
       background-position: center 0;
       background-size: cover;
       background-repeat: no-repeat;
+      background-color: #222;
     }
 
     .taxonomies-meta {
+      z-index: var(--joh-z-index-layout-top);
       position: absolute;
 
       h2 {
@@ -133,12 +145,17 @@
           font-weight: bold;
         }
       }
+
       p {
         font-size: 1rem;
         line-height: 30px;
         color: #999;
         text-align: center;
         margin-top: 1rem;
+      }
+
+      .banner-title {
+        color: #999;
       }
     }
 

@@ -16,4 +16,21 @@ function initWaterFall(container, child) {
   }
 }
 
-initWaterFall('.Journal > div', '.Journal > div > article,.FrontPage ')
+document.addEventListener('DOMContentLoaded', async () => {
+  const images = document.querySelectorAll('.FrontPage > img');
+
+  async function imageLoaded(img) {
+    return new Promise((resolve, reject) => {
+      if (img.complete && img.naturalHeight !== 0) {
+        resolve();
+      } else {
+        img.addEventListener('load', resolve, { once: true });
+        img.addEventListener('error', reject, { once: true });
+      }
+    });
+  }
+
+  await Promise.all(Array.from(images).map(img => imageLoaded(img)));
+
+  initWaterFall('.Journal > div', '.Journal > div > article,.FrontPage ')
+});

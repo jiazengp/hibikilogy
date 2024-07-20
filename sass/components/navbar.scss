@@ -1,6 +1,7 @@
 @use "../config.scss";
 
 .NavBar {
+  z-index: var(--joh-z-index-nav);
   position: relative;
   height: var(--joh-nav-height);
   white-space: nowrap;

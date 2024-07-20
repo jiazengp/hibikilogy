@@ -42,6 +42,13 @@
     }
   }
 
+  .footer-tags > .footer-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
   .footer-siteinfo-nav {
     a {
       --padding: 16px;

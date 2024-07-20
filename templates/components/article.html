@@ -11,7 +11,7 @@
         alt="{% if page.extra.cover_alt %}{{ page.extra.cover_alt }}{% else %}{{ page.title }}{% endif %}" />
       {% endif %}
       <div class="article-content">
-        {{ page.summary | safe }}
+        {{ page.extra.abstract }}
       </div>
     </div>
   </a>
