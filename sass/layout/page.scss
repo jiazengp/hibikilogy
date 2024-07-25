@@ -1,6 +1,6 @@
 @use "../config.scss";
 
-.post > #app > .Layout > .Content {
+.content-container {
   /**
  * Headings
  * -------------------------------------------------------------------------- */
@@ -230,10 +230,261 @@
       background-color 0.5s;
   }
 
+  a > code {
+    color: var(--joh-code-link-color);
+  }
+
+  a:hover > code {
+    color: var(--joh-code-link-hover-color);
+  }
+
   h1 > code,
   h2 > code,
   h3 > code,
   h4 > code {
     font-size: 0.9em;
+  }
+
+  div[data-lang] {
+    position: relative;
+    margin: 16px -24px;
+    background-color: var(--joh-code-block-bg);
+    overflow-x: auto;
+    transition: background-color 0.5s;
+  }
+
+  @media (max-width: 639px) {
+    li div[data-lang] {
+      border-radius: 8px 0 0 8px;
+    }
+  }
+
+  div[data-lang] + div[data-lang],
+  div[class$="-api"] + div[data-lang],
+  div[data-lang] + div[class$="-api"] > div[data-lang] {
+    margin-top: -8px;
+  }
+
+  [data-lang] pre,
+  code[class*="language-"] {
+    /*rtl:ignore*/
+    direction: ltr;
+    /*rtl:ignore*/
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
+
+  pre[data-lang] {
+    position: relative;
+    z-index: 1;
+    margin: 0;
+    padding: 20px 0;
+    border-radius: 8px;
+    background: transparent;
+    overflow-x: auto;
+  }
+
+  code[class*="language-"] {
+    display: block;
+    padding: 0 24px;
+    width: fit-content;
+    min-width: 100%;
+    line-height: var(--joh-code-line-height);
+    font-size: var(--joh-code-font-size);
+    color: var(--joh-code-block-color);
+    transition: color 0.5s;
+  }
+
+  code[class*="language-"] .highlighted {
+    background-color: var(--joh-code-line-highlight-color);
+    transition: background-color 0.5s;
+    margin: 0 -24px;
+    padding: 0 24px;
+    width: calc(100% + 2 * 24px);
+    display: inline-block;
+  }
+
+  code[class*="language-"] .highlighted.error {
+    background-color: var(--joh-code-line-error-color);
+  }
+
+  code[class*="language-"] .highlighted.warning {
+    background-color: var(--joh-code-line-warning-color);
+  }
+
+  code[class*="language-"] .diff {
+    transition: background-color 0.5s;
+    margin: 0 -24px;
+    padding: 0 24px;
+    width: calc(100% + 2 * 24px);
+    display: inline-block;
+  }
+
+  code[class*="language-"] .diff::before {
+    position: absolute;
+    left: 10px;
+  }
+
+  [data-lang] .has-focused-lines .line:not(.has-focus) {
+    filter: blur(0.095rem);
+    opacity: 0.4;
+    transition:
+      filter 0.35s,
+      opacity 0.35s;
+  }
+
+  [data-lang] .has-focused-lines .line:not(.has-focus) {
+    opacity: 0.7;
+    transition:
+      filter 0.35s,
+      opacity 0.35s;
+  }
+
+  [data-lang]:hover .has-focused-lines .line:not(.has-focus) {
+    filter: blur(0);
+    opacity: 1;
+  }
+
+  code[class*="language-"] .diff.remove {
+    background-color: var(--joh-code-line-diff-remove-color);
+    opacity: 0.7;
+  }
+
+  code[class*="language-"] .diff.remove::before {
+    content: "-";
+    color: var(--joh-code-line-diff-remove-symbol-color);
+  }
+
+  code[class*="language-"] .diff.add {
+    background-color: var(--joh-code-line-diff-add-color);
+  }
+
+  code[class*="language-"] .diff.add::before {
+    content: "+";
+    color: var(--joh-code-line-diff-add-symbol-color);
+  }
+
+  div[data-lang].line-numbers-mode {
+    /*rtl:ignore*/
+    padding-left: 32px;
+  }
+
+  .line-numbers-wrapper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    /*rtl:ignore*/
+    left: 0;
+    z-index: 3;
+    /*rtl:ignore*/
+    border-right: 1px solid var(--joh-code-block-divider-color);
+    padding-top: 20px;
+    width: 32px;
+    text-align: center;
+    font-family: var(--joh-font-family-mono);
+    line-height: var(--joh-code-line-height);
+    font-size: var(--joh-code-font-size);
+    color: var(--joh-code-line-number-color);
+    transition:
+      border-color 0.5s,
+      color 0.5s;
+  }
+
+  [data-lang] > button.copy {
+    /*rtl:ignore*/
+    direction: ltr;
+    position: absolute;
+    top: 12px;
+    /*rtl:ignore*/
+    right: 12px;
+    z-index: 3;
+    border: 1px solid var(--joh-code-copy-code-border-color);
+    border-radius: 4px;
+    width: 40px;
+    height: 40px;
+    background-color: var(--joh-code-copy-code-bg);
+    opacity: 0;
+    cursor: pointer;
+    background-image: var(--joh-icon-copy);
+    background-position: 50%;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    transition:
+      border-color 0.25s,
+      background-color 0.25s,
+      opacity 0.25s;
+  }
+
+  [data-lang]:hover > button.copy,
+  [data-lang] > button.copy:focus {
+    opacity: 1;
+  }
+
+  [data-lang] > button.copy:hover,
+  [data-lang] > button.copy.copied {
+    border-color: var(--joh-code-copy-code-hover-border-color);
+    background-color: var(--joh-code-copy-code-hover-bg);
+  }
+
+  [data-lang] > button.copy.copied,
+  [data-lang] > button.copy:hover.copied {
+    /*rtl:ignore*/
+    border-radius: 0 4px 4px 0;
+    background-color: var(--joh-code-copy-code-hover-bg);
+    background-image: var(--joh-icon-copied);
+  }
+
+  [data-lang] > button.copy.copied::before,
+  [data-lang] > button.copy:hover.copied::before {
+    position: relative;
+    top: -1px;
+    /*rtl:ignore*/
+    transform: translateX(calc(-100% - 1px));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--joh-code-copy-code-hover-border-color);
+    /*rtl:ignore*/
+    border-right: 0;
+    border-radius: 4px 0 0 4px;
+    padding: 0 10px;
+    width: fit-content;
+    height: 40px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--joh-code-copy-code-active-text);
+    background-color: var(--joh-code-copy-code-hover-bg);
+    white-space: nowrap;
+    content: var(--joh-code-copy-copied-text-content);
+  }
+
+  [data-lang] > span.lang {
+    position: absolute;
+    top: 2px;
+    /*rtl:ignore*/
+    right: 8px;
+    z-index: 2;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--joh-code-lang-color);
+    transition:
+      color 0.4s,
+      opacity 0.4s;
+  }
+
+  [data-lang]:hover > button.copy + span.lang,
+  [data-lang] > button.copy:focus + span.lang {
+    opacity: 0;
   }
 }

@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- 2024-07-26 Fri 00:33 -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,viewport-fit=cover">
+  <meta name="apple-mobile-web-app-status-bar-style" content="lack-translucent">
+  <meta name="applicable-device" content="pc,mobile">
+  <meta name="google" content="notranslate">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="color-scheme" content="dark light">
+  <link rel="alternate" hreflang="en" href="https:&#x2F;&#x2F;hibikilogy.github.io">
+  <link rel="alternate" hreflang="en" href="https://hibikilogy.github.io/en">
+  <link rel="canonical" href="https://hibikilogy.github.io/author/" />
+  <meta name="theme" content="Zola-Theme-Journal">
+
+  <title>
+    
+京吹学报
+
+
+  </title>
+
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  <meta property="og:site" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:widgets:csp" content="on">
+  <meta property="og:site_name" content="
+京吹学报
+
+">
+  <meta property="og:locale" content="en">
+  <meta property="og:title" content="
+京吹学报
+
+">
+  <meta property="og:locale:alternate" content="en">
+  <meta property="og:url" content="https://hibikilogy.github.io/author/" />
+  <meta property="og:description" content="吹学著作集锦" />
+
+  
+  <link href='&#x2F;site.webmanifest' rel="manifest" />
+  
+  
+  <link color="#5bbad5" href='&#x2F;apple-touch-icon.svg' rel="mask-icon" />
+  
+  
+  <link href='&#x2F;favicon-16x16.png' rel="icon" sizes="16x16" type="image/png" />
+  
+  
+  <link href='&#x2F;favicon-32x32.png' rel="icon" sizes="32x32" type="image/png" />
+  
+  
+  <link href='apple-touch-icon.png' rel="apple-touch-icon" sizes="180x180" />
+  
+
+  <link href="https://hibikilogy.github.io/index.css" rel="stylesheet" />
+
+  
+  
+
+  
+  
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css"
+    integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js"
+    integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx"
+    crossorigin="anonymous"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/mathtex-script-type.min.js"
+    integrity="sha384-jiBVvJ8NGGj5n7kJaiWwWp9AjC+Yh8rhZY3GtAX8yU28azcLgoRo4oukO87g7zDT"
+    crossorigin="anonymous"></script>
+  
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js"
+    integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR"
+    crossorigin="anonymous"></script>
+  
+  
+  <script src="https://hibikilogy.github.io/js/ui.js" type="module"></script>
+  <script>(() => { const e = localStorage.getItem("theme-appearance") || "auto", a = window.matchMedia("(prefers-color-scheme: dark)").matches; (!e || e === "auto" ? a : e === "dark") && document.documentElement.classList.add("dark") })();</script>
+  <script>document.documentElement.classList.toggle("mac", /Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
+
+  
+  
+
+  
+  
+</head>
+
+<body class="">
+  <div id="app">
+    <div class="Layout">
+      <span class="joh-chevron-up visually-hidden"></span>
+
+      
+<header class="NavBar" v-scope :class="NavScreenClasses">
+  <div class="wrapper">
+    <div class="container">
+      <button type="button" class="NavBarHamburger hamburger" aria-label="mobile navigation" aria-expanded="false"
+        aria-controls="NavScreen" :class="NavScreenClasses" @click="store.toggleNavScreen">
+        <span class="container">
+          <span class="top"></span>
+          <span class="middle"></span>
+          <span class="bottom"></span>
+        </span>
+      </button>
+      
+<div class="NavScreen" :class="NavScreenClasses"
+  @click="navScreenHandleClick">
+  <div class="container">
+    <nav aria-labelledby="main-nav-aria-label" role="navigation"
+      aria-label="section navigation"
+      class="NavScreenMenu menu">
+      
+      
+      
+      
+      <a class="Link link NavScreenMenuLink" aria-expanded="false"
+        aria-label="menu" role="button"
+        href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;docs&#x2F;join-us"
+        tabindex="0">
+        <span>我要投稿</span>
+      </a>
+      
+        
+      
+      <a class="Link link NavScreenMenuLink" aria-expanded="false"
+        aria-label="menu" role="button"
+        href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;docs&#x2F;assessment"
+        tabindex="0">
+        <span>能力鉴定</span>
+      </a>
+      
+        
+      
+      <a class="Link link NavScreenMenuLink" aria-expanded="false"
+        aria-label="menu" role="button"
+        href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;"
+        tabindex="0">
+        <span>实体版特刊</span>
+      </a>
+      
+        
+        
+        
+      </nav>
+      
+      
+      <a class="Link link NavScreenMenuLink NavBarSocialLink"
+        aria-expanded="false" aria-label="menu"
+        role="button"
+        href="&#x2F;"
+        tabindex="0">
+        <span>吹学著作集锦</span>
+        
+        
+      </a>
+    </nav>
+  </div>
+</div>
+
+      <div class="title">
+        <div class="NavBarTitle">
+          <a class="title" href="/">
+            <img class="Image logo" src="/logo.svg" alt>
+            <span>京吹学报</span>
+          </a>
+        </div>
+      </div>
+      <div class="content">
+        <div class="content-body">
+          <nav aria-labelledby="main-nav-aria-label" role="navigation" aria-label="section navigation"
+            class="NavBarMenu menu">
+            <span id="main-nav-aria-label" class="visually-hidden">
+              Main Navigation
+            </span>
+            
+            
+            
+            
+            <a class="Link link NavBarMenuLink" aria-expanded="false" aria-label="menu" role="button"
+              href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;docs&#x2F;join-us" tabindex="0">
+              <span>我要投稿</span>
+            </a>
+            
+            
+            
+            <a class="Link link NavBarMenuLink" aria-expanded="false" aria-label="menu" role="button"
+              href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;docs&#x2F;assessment" tabindex="0">
+              <span>能力鉴定</span>
+            </a>
+            
+            
+            
+            <a class="Link link NavBarMenuLink" aria-expanded="false" aria-label="menu" role="button"
+              href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;" tabindex="0">
+              <span>实体版特刊</span>
+            </a>
+            
+            
+            
+            
+            
+            
+          </nav>
+          <a class="Link link NavBarMenuLink NavBarSocialLink no-hide" aria-expanded="false" aria-label="menu"
+            role="button" href="&#x2F;" tabindex="0">
+            <span>吹学著作集锦</span>
+            
+            
+          </a>
+          <div class="NavBarSearch search no-hide">
+            <div id="docsearch">
+              <button type="button" class="DocSearch DocSearch-Button" aria-label="Search"
+                @click="window.location.href ='https://www.bing.com/search?q=site%3Ahibikilogy.github.io'">
+                <div class="DocSearch-Button-Tips">
+                  <span class="DocSearch-Button-Placeholder">Search</span>
+                  <span class="DocSearch-Button-Keys">
+                    <kbd class="DocSearch-Button-Key"></kbd>
+                    <kbd class="DocSearch-Button-Key">K</kbd>
+                  </span>
+                </div>
+                <span class="DocSearch-Button-Container">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none"
+                    version="1.1" width="14.299999237060547" height="14.69999885559082"
+                    viewBox="0 0 14.299999237060547 14.69999885559082">
+                    <g>
+                      <path
+                        d="M12.5,10.2C13.7,9,14.3,7.6,14.3,6C14.3,4.4,13.7,2.9,12.5,1.8C11.4,0.6,9.9,0,8.3,0C6.6,0,5.2,0.6,4,1.8C2.8,3,2.3,4.3,2.3,6C2.3,7.4,2.7,8.7,3.6,9.7L0.3,13C-0.0999999,13.4,-0.0999999,14,0.3,14.4C0.7,14.8,1.3,14.8,1.7,14.4L5,11.1C5.9,11.7,7,12,8.2,12C9.9,12,11.4,11.4,12.5,10.2ZM5.8,9.2C6.5,9.7,7.3,10,8.3,10C10.5,10,12.3,8.2,12.3,6C12.3,3.8,10.5,2,8.3,2C6.1,2,4.3,3.8,4.3,6C4.3,7.1,4.7,8.1,5.5,8.8C5.6,9,5.7,9.1,5.8,9.2Z"
+                        fill-rule="evenodd" fill="#000000" fill-opacity="1" />
+                    </g>
+                  </svg>
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="divider">
+      <div class="divider-line"></div>
+    </div>
+  </div>
+</header>
+
+
+      
+
+<header class="Hero">
+  <div class="container">
+    
+  <div class="taxonomies-banner">
+    <div class="taxonomies-meta">
+      <h2 class="title">
+        <span class="banner-title">作者</span>
+        
+      </h2>
+      
+    </div>
+  </div>
+  
+</header>
+
+
+
+      <main class="Content ">
+        
+<section class="section">
+  <div class="container">
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/0walking0/"
+      target="_blank"
+      title="0walking0">
+      <span>0walking0</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/a-xu-dian-hua/"
+      target="_blank"
+      title="阿虚电话">
+      <span>阿虚电话</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/amadeus-romulus-lee/"
+      target="_blank"
+      title="Amadeus·Romulus·Lee">
+      <span>Amadeus·Romulus·Lee</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/ayaklee/"
+      target="_blank"
+      title="Ayaklee">
+      <span>Ayaklee</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/ban-xiao-xiu/"
+      target="_blank"
+      title="半小朽">
+      <span>半小朽</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/bei-ji-wo-xuan/"
+      target="_blank"
+      title="北极涡旋">
+      <span>北极涡旋</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/bilibili-uid-180170130/"
+      target="_blank"
+      title="bilibili_uid_180170130">
+      <span>bilibili_uid_180170130</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/btn754/"
+      target="_blank"
+      title="btn754">
+      <span>btn754</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/carausius/"
+      target="_blank"
+      title="Carausius">
+      <span>Carausius</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/carl-w-sun/"
+      target="_blank"
+      title="Carl W. Sun">
+      <span>Carl W. Sun</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/cbrfpjosh-zhong-ye-zi/"
+      target="_blank"
+      title="CBRFPJosh、中野-梓">
+      <span>CBRFPJosh、中野-梓</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/cureetoile/"
+      target="_blank"
+      title="CureEtoile">
+      <span>CureEtoile</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/dang-dai-xian-ren/"
+      target="_blank"
+      title="当代闲人">
+      <span>当代闲人</span>
+      <span class="tag-count">4</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/euphoriahysteria/"
+      target="_blank"
+      title="EuphoriaHysteria">
+      <span>EuphoriaHysteria</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/fan-qian/"
+      target="_blank"
+      title="帆前">
+      <span>帆前</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/foffer/"
+      target="_blank"
+      title="FoffeR">
+      <span>FoffeR</span>
+      <span class="tag-count">3</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/fu-rong-cheng-li-jin-zhao-hui/"
+      target="_blank"
+      title="芙蓉城里尽朝晖">
+      <span>芙蓉城里尽朝晖</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/gao-tan-mei-ying/"
+      target="_blank"
+      title="高谭魅影">
+      <span>高谭魅影</span>
+      <span class="tag-count">3</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/gonturium/"
+      target="_blank"
+      title="Gonturium">
+      <span>Gonturium</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/hang-ji-yun-zhu/"
+      target="_blank"
+      title="航迹云丶">
+      <span>航迹云丶</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/hao-lee/"
+      target="_blank"
+      title="Hao Lee">
+      <span>Hao Lee</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/hong-cha-jia-yan-pai/"
+      target="_blank"
+      title="红茶加盐派">
+      <span>红茶加盐派</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/hong-mo-liao/"
+      target="_blank"
+      title="触摸了">
+      <span>触摸了</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/hu-bu-yong-hu-296438/"
+      target="_blank"
+      title="虎扑用户296438">
+      <span>虎扑用户296438</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/huan-yu-tian-ming/"
+      target="_blank"
+      title="幻羽天命">
+      <span>幻羽天命</span>
+      <span class="tag-count">3</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/humphrey-a/"
+      target="_blank"
+      title="humphrey_a">
+      <span>humphrey_a</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/jf123258/"
+      target="_blank"
+      title="JF123258">
+      <span>JF123258</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/jia-sheng/"
+      target="_blank"
+      title="佳生">
+      <span>佳生</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/k622/"
+      target="_blank"
+      title="K622">
+      <span>K622</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/kanis-vasilei/"
+      target="_blank"
+      title="Kanis Vasilei">
+      <span>Kanis Vasilei</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/lan-he/"
+      target="_blank"
+      title="兰鹤">
+      <span>兰鹤</span>
+      <span class="tag-count">3</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/lan-ting-qu-shui/"
+      target="_blank"
+      title="兰亭曲水">
+      <span>兰亭曲水</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/lao-cang-wei/"
+      target="_blank"
+      title="老仓唯">
+      <span>老仓唯</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/liu-li-zhong-jiu-cheng-jin/"
+      target="_blank"
+      title="琉璃终究成烬">
+      <span>琉璃终究成烬</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/lljiao-huang/"
+      target="_blank"
+      title="LL教皇">
+      <span>LL教皇</span>
+      <span class="tag-count">6</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/min-ke-fu-si-ji-kong-jian-bie-luo-fu/"
+      target="_blank"
+      title="闵可夫斯基空间、别洛夫">
+      <span>闵可夫斯基空间、别洛夫</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/mtde-yi-song/"
+      target="_blank"
+      title="MT德意松">
+      <span>MT德意松</span>
+      <span class="tag-count">7</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/nan-yan-fu-ti-wang-shi/"
+      target="_blank"
+      title="南阎浮提往事">
+      <span>南阎浮提往事</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/ni-er-si-ai-yin-si-tan/"
+      target="_blank"
+      title="尼尔斯哀因斯坦">
+      <span>尼尔斯哀因斯坦</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/niu-nan-bao-chao-bge/"
+      target="_blank"
+      title="牛腩爆炒BGE">
+      <span>牛腩爆炒BGE</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/pu-tong-meng/"
+      target="_blank"
+      title="普通萌">
+      <span>普通萌</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/qi-e-du-mei-you/"
+      target="_blank"
+      title="企鹅都没有">
+      <span>企鹅都没有</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/qian-chi-yi/"
+      target="_blank"
+      title="迁尺亦">
+      <span>迁尺亦</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/qin-ai-de-wei-suo-zhu/"
+      target="_blank"
+      title="亲爱的猥琐猪">
+      <span>亲爱的猥琐猪</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/rychard/"
+      target="_blank"
+      title="RyChard">
+      <span>RyChard</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/sheng-yin-xiao-cang-wei/"
+      target="_blank"
+      title="圣音小仓唯">
+      <span>圣音小仓唯</span>
+      <span class="tag-count">3</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/shi-wa-xing-guo/"
+      target="_blank"
+      title="施瓦兴国">
+      <span>施瓦兴国</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/simiovo/"
+      target="_blank"
+      title="SimiOVO">
+      <span>SimiOVO</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/sosa-xu/"
+      target="_blank"
+      title="SOS阿虚">
+      <span>SOS阿虚</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/stonecastle/"
+      target="_blank"
+      title="stonecastle">
+      <span>stonecastle</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/sylvan/"
+      target="_blank"
+      title="Sylvan">
+      <span>Sylvan</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/uid-42549807/"
+      target="_blank"
+      title="UID:42549807">
+      <span>UID:42549807</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/uid-60504697/"
+      target="_blank"
+      title="UID:60504697">
+      <span>UID:60504697</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/upeter/"
+      target="_blank"
+      title="UPeter">
+      <span>UPeter</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/wayne/"
+      target="_blank"
+      title="Wayne">
+      <span>Wayne</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/wo-ye-shi-san-chu/"
+      target="_blank"
+      title="我也是伞厨">
+      <span>我也是伞厨</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/wonderkindom/"
+      target="_blank"
+      title="WonderKindom">
+      <span>WonderKindom</span>
+      <span class="tag-count">4</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/wu-hong-ling/"
+      target="_blank"
+      title="舞红铃">
+      <span>舞红铃</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/wu-wei-bing/"
+      target="_blank"
+      title="巫卫兵">
+      <span>巫卫兵</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/xi-huan-dan-bai-zhi-de-rna/"
+      target="_blank"
+      title="喜欢蛋白质的RNA">
+      <span>喜欢蛋白质的RNA</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/xing-chui-yu-ye/"
+      target="_blank"
+      title="星垂於野">
+      <span>星垂於野</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/xing-ye-hang/"
+      target="_blank"
+      title="星野航">
+      <span>星野航</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/xx123258/"
+      target="_blank"
+      title="XX123258">
+      <span>XX123258</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/yi-nan-ping-bot/"
+      target="_blank"
+      title="意难平bot--">
+      <span>意难平bot--</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/yi-ru-zhi-shang/"
+      target="_blank"
+      title="呓儒之殇">
+      <span>呓儒之殇</span>
+      <span class="tag-count">1</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/zi-chuan-feng/"
+      target="_blank"
+      title="梓川楓">
+      <span>梓川楓</span>
+      <span class="tag-count">4</span>
+    </a>
+    
+    <a class="joh-tag"
+      href="https://hibikilogy.github.io/author/zi-chuan-feng-kaede/"
+      target="_blank"
+      title="梓川楓かえで">
+      <span>梓川楓かえで</span>
+      <span class="tag-count">2</span>
+    </a>
+    
+  </div>
+</section>
+
+
+        
+        
+
+
+
+        
+      </main>
+
+      
+      
+      
+<footer class="Footer" role="contentinfo">
+  <div class="container">
+    
+    
+    <section class="footer-column footer-siteinfo">
+      <div class="footer-siteinfo-nav">
+        
+        
+        
+        <a class="Link link FoooterNavLink"
+          aria-expanded="false" aria-label="menu" role="button"
+          href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;"
+          tabindex="0">
+          <span>京吹学报</span>
+          <span class="icon"></span>
+        </a>
+        
+        <a class="Link link FoooterNavLink"
+          aria-expanded="false" aria-label="menu" role="button"
+          href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;"
+          tabindex="0">
+          <span>RSS</span>
+          <span class="icon"></span>
+        </a>
+        
+        <a class="Link link FoooterNavLink"
+          aria-expanded="false" aria-label="menu" role="button"
+          href="https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;docs&#x2F;contribute"
+          tabindex="0">
+          <span>如何贡献</span>
+          <span class="icon"></span>
+        </a>
+        
+        <a class="Link link FoooterNavLink"
+          aria-expanded="false" aria-label="menu" role="button"
+          href="https:&#x2F;&#x2F;github.com&#x2F;hibikilogy&#x2F;hibikilogy.github.io"
+          tabindex="0">
+          <span>GitHub</span>
+          <span class="icon"></span>
+        </a>
+        
+        <a class="Link footer-contact-link"
+          rel="noreferrer"
+          href="mailto:journal@kyoani.cn">
+          投稿邮箱 journal@kyoani.cn
+        </a>
+        
+        
+      </div>
+      <div class="footer-siteinfo-meta">
+        
+        
+        <p class="footer-siteinfo-count">总查询数:
+          <span></span>
+        </p>
+        <p
+          class="footer-siteinfo-copyright">本站收录文章著作权归原作者所有</p>
+        
+        
+      </div>
+    </section>
+  </div>
+</footer>
+
+      
+      
+    </div>
+  </div>
+
+  
+  
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.5/dist/mermaid.min.js"
+    integrity="sha384-0yWn54pSGtfKCU+skfA69l25VsCw+MZt4LQov3xNRoS7YkAMrFokGgSBnAWSK4pv"
+    crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.13/dist/chart.xkcd.min.js"
+    integrity="sha384-xC3h1+IHXK8seA+8KfT79Z4e0GPsznjXBoMa5nd8ooWKplPyXx92NOmljWxLC/cs"
+    crossorigin="anonymous"></script>
+  
+  
+
+  
+  <script src="https://unpkg.com/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
+  <script>
+    mediumZoom(document.querySelectorAll('.content-container :where(img)'))
+  </script>
+  
+
+  <script src="https://hibikilogy.github.io/elasticlunr.min.js"></script>
+  <script src="https://hibikilogy.github.io/index.title.md"></script>
+  <script src="https://hibikilogy.github.io/search_index.en.js"></script>
+  
+
+  
+  
+</body>
+
+</html>

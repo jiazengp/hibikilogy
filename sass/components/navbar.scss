@@ -107,20 +107,20 @@
     margin-right: -8px;
   }
 
-  .divider {
-    width: 100%;
-    height: 1px;
-  }
+  // .divider {
+  //   width: 100%;
+  //   height: 1px;
+  // }
 
-  .divider-line {
-    width: 100%;
-    height: 1px;
-    transition: background-color 0.5s;
-  }
+  // .divider-line {
+  //   width: 100%;
+  //   height: 1px;
+  //   transition: background-color 0.5s;
+  // }
 
-  &:not(.home) .divider-line {
-    background-color: var(--joh-c-gutter);
-  }
+  // &:not(.home) .divider-line {
+  //   background-color: var(--joh-c-gutter);
+  // }
 
   @media (min-width: config.$pad) {
     &:not(.home.top) .divider-line {

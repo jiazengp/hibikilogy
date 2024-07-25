@@ -17,8 +17,8 @@ html.dark {
   --joh-c-gray-3: #ebebef;
   --joh-c-gray-soft: rgba(142, 150, 170, 0.14);
 
-  --joh-c-indigo-1: #3451b2;
-  --joh-c-indigo-2: #3a5ccc;
+  --joh-c-indigo-1: #2076df;
+  --joh-c-indigo-2: #00a0e9;
   --joh-c-indigo-3: #5672cd;
   --joh-c-indigo-soft: rgba(100, 108, 255, 0.14);
 
@@ -142,9 +142,9 @@ html.dark {
  * -------------------------------------------------------------------------- */
 
 :root {
-  --joh-c-text-1: rgba(60, 60, 67);
-  --joh-c-text-2: rgba(60, 60, 67, 0.78);
-  --joh-c-text-3: rgba(60, 60, 67, 0.56);
+  --joh-c-text-1: rgba(34, 34, 34);
+  --joh-c-text-2: rgba(34, 34, 34, 0.78);
+  --joh-c-text-3: rgba(34, 34, 34, 0.56);
 }
 
 html.dark {
@@ -259,6 +259,7 @@ html.dark {
 
 :root {
   --joh-z-index-footer: 10;
+  --joh-z-index-header-hero: 15;
   --joh-z-index-local-nav: 20;
   --joh-z-index-nav: 30;
   --joh-z-index-layout-top: 40;

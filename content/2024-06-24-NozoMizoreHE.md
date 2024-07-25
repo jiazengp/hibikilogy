@@ -24,4 +24,4 @@ abstract = "本文深入探讨了伞木希美和铠冢霙在《利兹与青鸟�
 
 &emsp;&emsp;那么一瞬，就是笔者所认为的伞霙易碎的美好，但同时笔者也希望那么一瞬将至永恒。
 
-![](https://hibikilogy.github.io/images/2024-06-24/1.jpg)
+![](/imgs/2024-06-24/1.jpg)

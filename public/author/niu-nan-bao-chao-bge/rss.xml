@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>京吹学报 - 牛腩爆炒BGE</title>
+      <link>https://hibikilogy.github.io</link>
+      <description>吹学著作集锦</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://hibikilogy.github.io/author/niu-nan-bao-chao-bge/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 10 Jun 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>北宇治拳王争霸赛</title>
+          <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://hibikilogy.github.io/bei-yu-zhi-quan-wang-zheng-ba-sai/</link>
+          <guid>https://hibikilogy.github.io/bei-yu-zhi-quan-wang-zheng-ba-sai/</guid>
+          <description xml:base="https://hibikilogy.github.io/bei-yu-zhi-quan-wang-zheng-ba-sai/">&lt;p&gt;  小奏打拳固然可爱，但我如果说真正的北宇治拳王另有其人，阁下又该如何应对？&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;%E5%8C%97%E5%AE%87%E6%B2%BB%E6%8B%B3%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>宇治日出之谜</title>
+          <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://hibikilogy.github.io/yu-zhi-de-ri-chu/</link>
+          <guid>https://hibikilogy.github.io/yu-zhi-de-ri-chu/</guid>
+          <description xml:base="https://hibikilogy.github.io/yu-zhi-de-ri-chu/">&lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;%E5%AE%87%E6%B2%BB%E7%9A%84%E6%97%A5%E5%87%BA.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;  题外话，和随天老师交流的时候还想到一个更细节的问题，那就是区时与地方时的关系，而如果要这算的话，我们就会发现，东京在东九区的区时经度右侧，宇治（或者说京都）则在东京西侧（并远大于15度），当东京地方时在五点附近的时候，宇治地方时还在四点呢！&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

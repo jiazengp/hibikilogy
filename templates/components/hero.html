@@ -3,21 +3,22 @@
   <div class="container">
     {% if isPost %}
     <div class="post-heading">
-      <img
-        src="{% if page.extra.cover %} {{page.extra.cover}} {% else %} /imgs/tag-cloud.svg {% endif %}"
+      <img src="{% if page.extra.cover %} {{page.extra.cover}} {% else %} /imgs/tag-cloud.svg {% endif %}"
         class="post-heading-bg {% if not page.extra.cover %}default-bg{% endif %}">
       <div class="post-heading-info">
-        <div class="post-heading-tags">
-          {% if page.taxonomies.tags %}
-          {{ macros::post_tags_list(page=page) }}
-          {% endif %}
-        </div>
-        <h1 class="post-heading-title">
-          {{ page.title }}
-        </h1>
-        <p class="post-heading-subtitle">{{ page.description }}</p>
-        <div class="post-heading-meta">
-          {{ macros::page_publish_metadata(page=page) }}
+        <div class="post-heading-info-container">
+          <div class="post-heading-tags">
+            {% if page.taxonomies.tags %}
+            {{ macros::post_tags_list(page=page) }}
+            {% endif %}
+          </div>
+          <h1 class="post-heading-title">
+            {{ page.title }}
+          </h1>
+          <p class="post-heading-subtitle">{{ page.description }}</p>
+          <div class="post-heading-meta">
+            {{ macros::page_publish_metadata(page=page) }}
+          </div>
         </div>
       </div>
     </div>

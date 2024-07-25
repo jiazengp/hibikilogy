@@ -21,7 +21,7 @@ abstract = "本文深入分析了《京吹》第三季中久美子在上低音�
 
 <center><p style="color:red;"><b>剧透示警！</b></p></center><br />
 
-![](https://hibikilogy.github.io/images/2024-06-23/QkVKR1slP0Uwd15OSXN0LQ==.w1320.h740.jpg)
+![](/imgs/2024-06-23/QkVKR1slP0Uwd15OSXN0LQ==.w1320.h740.jpg)
 
 # 写在前面
 
