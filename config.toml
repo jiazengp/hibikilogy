@@ -1,13 +1,11 @@
-base_url = "https://hibikilogy.github.io"
+base_url = "https://hibikilogy.vercel.app/"
 title = "京吹学报"
 description = "吹学著作集锦"
 default_language = "en"
-# output_dir = "build"
 compile_sass = true
 minify_html = false
 ignored_content = ["temp.*"]
 generate_feed = true
-feed_filename = "rss.xml"
 hard_link_static = false
 taxonomies = [
   { name = "categories", feed = true, paginate_by = 12 },
@@ -28,7 +26,6 @@ smart_punctuation = false
 
 [link_checker]
 skip_prefixes = ["http://[2001:db8::]/"]
-skip_anchor_prefixes = ["https://caniuse.com/"]
 
 [slugify]
 anchors = "on"
@@ -49,8 +46,8 @@ footer = [
     { text = "如何贡献", link = "$BASE_URL/docs/contribute" },
     { text = "GitHub", link = "https://github.com/hibikilogy/hibikilogy.github.io" },
   ], frendlinks = [
-    { text = "中国珂学院维基", link = "$BASE_URL/" },
-    { text = "粳米团子", link = "$BASE_URL/" },
+    { text = "中国珂学院维基", link = "https://wiki.sukasuka.cn/" },
+    { text = "粳米团子", link = "https://kyoani.cn/" },
   ], contact = { text = "投稿邮箱 journal@kyoani.cn", link = "journal@kyoani.cn" } },
 ]
 section = [{ code = "en", publish = "发表于", author = "作者" }]
@@ -78,9 +75,3 @@ webmanifest = "/site.webmanifest"
 
 [extra.analytics]
 google = ""
-
-[features]
-default = ["rust-tls"]
-indexing-zh = ["libs/indexing-zh"]
-native-tls = ["libs/native-tls"]
-rust-tls = ["libs/rust-tls"]

@@ -1,17 +1,11 @@
 @use "../config.scss";
 
 .Content {
-  padding: 32px 24px 96px;
+  padding: 24px 24px 96px;
   width: 100%;
 
   &:not(.has-aside) > .container > .Aside {
     display: none;
-  }
-
-  @media (max-width: config.$tablet) {
-    & {
-      padding: 32px;
-    }
   }
 
   .container {

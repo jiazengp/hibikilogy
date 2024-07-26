@@ -9,16 +9,16 @@
 <head>
   <!-- {{ now() | date(format='%F %a %R') }} -->
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,viewport-fit=cover">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
   <meta name="apple-mobile-web-app-status-bar-style" content="lack-translucent">
   <meta name="applicable-device" content="pc,mobile">
   <meta name="google" content="notranslate">
   <meta name="theme-color" content="#ffffff">
   <meta name="color-scheme" content="dark light">
+  <meta name="theme" content="Zola-Theme-Journal">
   <link rel="alternate" hreflang="{{config.default_language}}" href="{{ config.base_url }}">
   <link rel="alternate" hreflang="{{lang}}" href="{{ config.base_url ~ '/' ~ lang}}">
   <link rel="canonical" href="{{ current_url | default(value='/') | safe }}" />
-  <meta name="theme" content="Zola-Theme-Journal">
 
   <title>
     {% include 'title.html' %}
@@ -34,6 +34,8 @@
   <meta property="og:locale:alternate" content="{{ lang }}">
   <meta property="og:url" content="{{ current_url | default(value='/') | safe }}" />
   <meta property="og:description" content="{{ page.subtitle | default(value=config.description) }}" />
+
+  <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="京吹学报 Atom Feed">
 
   {% if config.extra.favicon.webmanifest %}
   <link href='{{ config.extra.favicon.webmanifest }}' rel="manifest" />
@@ -89,7 +91,8 @@
   <script src="{{ get_url(path='js/ui.js') }}" type="module"></script>
   <script>(() => { const e = localStorage.getItem("theme-appearance") || "auto", a = window.matchMedia("(prefers-color-scheme: dark)").matches; (!e || e === "auto" ? a : e === "dark") && document.documentElement.classList.add("dark") })();</script>
   <script>document.documentElement.classList.toggle("mac", /Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
-
+  <script
+    type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"{% include 'title.html' %}"}</script>
   {% block script %}
   {% endblock %}
 

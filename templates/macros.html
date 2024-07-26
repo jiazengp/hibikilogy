@@ -3,7 +3,7 @@
   发布于 {{page.date | date(format='%Y 年 %m 月 %d 日') }}
 </time>
 <a class="article-author"
-  href=" {% if page.taxonomies.author[0] %} {{ get_taxonomy_url(kind='author', name=page.taxonomies.author[0]) }} {% endif %}">
+  href="{% if page.taxonomies.author[0] %} {{ get_taxonomy_url(kind='author', name=page.taxonomies.author[0]) }} {% endif %}">
   <span class="author-title">作者</span class="author-name">
   {% if page.taxonomies.author[0] %}
   {{ page.taxonomies.author[0] }}
