@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - CBRFPJosh、中野-梓</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/cbrfpjosh-zhong-ye-zi/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/cbrfpjosh-zhong-ye-zi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-23T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/cbrfpjosh-zhong-ye-zi/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/cbrfpjosh-zhong-ye-zi/atom.xml</id>
     <entry xml:lang="en">
         <title>考据：《京吹》中的手机</title>
         <published>2024-04-23T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/shouji/"/>
-        <id>https://hibikilogy.github.io/shouji/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/shouji/"/>
+        <id>https://hibikilogy.vercel.app/shouji/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/shouji/">&lt;p&gt;  &lt;em&gt;编者注：京吹作为一部时代背景为2015年至2017年的动画，无论在场景还是道具上都注重还原时代本色。作为此时代必不可少的道具，手机也是考据工作的重要内容之一。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/shouji/">&lt;p&gt;  &lt;em&gt;编者注：京吹作为一部时代背景为2015年至2017年的动画，无论在场景还是道具上都注重还原时代本色。作为此时代必不可少的道具，手机也是考据工作的重要内容之一。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;jiu-mei-zi&quot;&gt;久美子&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;shouji&#x2F;%E4%B9%85%E7%BE%8E%E5%AD%901.png&quot; alt=&quot;&quot; &#x2F;&gt;
 &lt;img src=&quot;&#x2F;imgs&#x2F;shouji&#x2F;%E4%B9%85%E7%BE%8E%E5%AD%902.jpg&quot; alt=&quot;&quot; &#x2F;&gt;

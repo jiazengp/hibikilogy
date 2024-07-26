@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 高谭魅影</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/gao-tan-mei-ying/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/gao-tan-mei-ying/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-04-12T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/gao-tan-mei-ying/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/gao-tan-mei-ying/atom.xml</id>
     <entry xml:lang="en">
         <title>田中明日香本纪</title>
         <published>2020-04-12T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/tian-zhong-ming-ri-xiang-ben-ji/"/>
-        <id>https://hibikilogy.github.io/tian-zhong-ming-ri-xiang-ben-ji/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/tian-zhong-ming-ri-xiang-ben-ji/"/>
+        <id>https://hibikilogy.vercel.app/tian-zhong-ming-ri-xiang-ben-ji/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/tian-zhong-ming-ri-xiang-ben-ji/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;05&#x2F;09&#x2F;J2mCDQKUAZGkt4e.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/tian-zhong-ming-ri-xiang-ben-ji/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;05&#x2F;09&#x2F;J2mCDQKUAZGkt4e.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;1-kan-ke-jia-ting&quot;&gt;1、坎坷家庭&lt;&#x2F;h2&gt;
 &lt;p&gt;评价明日香其人，首先要提到的就是她的家庭。她的父亲近藤正和是著名的音乐家，然而却因受不了她母亲近乎病态的控制欲选择离婚。明日香从此和父亲断绝了联系，从姓氏到经济再到养育之情，都被她的母亲完全隔开。从此明日香对父亲的称呼变成了“近藤先生”，和他再无交集。&lt;&#x2F;p&gt;
 &lt;p&gt;除了音乐。&lt;&#x2F;p&gt;
@@ -82,10 +82,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/gao-ban-li-nai-zu-yin-he-zhan-jian-jin-huo-di-si-ru-he-wen-ze/"/>
-        <id>https://hibikilogy.github.io/gao-ban-li-nai-zu-yin-he-zhan-jian-jin-huo-di-si-ru-he-wen-ze/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/gao-ban-li-nai-zu-yin-he-zhan-jian-jin-huo-di-si-ru-he-wen-ze/"/>
+        <id>https://hibikilogy.vercel.app/gao-ban-li-nai-zu-yin-he-zhan-jian-jin-huo-di-si-ru-he-wen-ze/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/gao-ban-li-nai-zu-yin-he-zhan-jian-jin-huo-di-si-ru-he-wen-ze/">&lt;p&gt;北宇治在久二年止步关西后，优子为避免大赛后部员的懈怠，同时加强紧迫感，在退位前夕下达了最后一道诏令———北宇治全员参加合奏大赛。这是所有部员分成一个个人数不限小组，自选曲目和队友参赛的比赛。在校内评比后，排名第一的队伍代表学校参加全国大赛。这对于选手的吹奏能力组织能力和选曲能力都是一个很好的检验。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/gao-ban-li-nai-zu-yin-he-zhan-jian-jin-huo-di-si-ru-he-wen-ze/">&lt;p&gt;北宇治在久二年止步关西后，优子为避免大赛后部员的懈怠，同时加强紧迫感，在退位前夕下达了最后一道诏令———北宇治全员参加合奏大赛。这是所有部员分成一个个人数不限小组，自选曲目和队友参赛的比赛。在校内评比后，排名第一的队伍代表学校参加全国大赛。这对于选手的吹奏能力组织能力和选曲能力都是一个很好的检验。&lt;&#x2F;p&gt;
 &lt;p&gt;在铠冢霙隐退后，高坂丽奈成了北宇治高音部分当之无愧的王牌。在二年级时，
 &lt;strong&gt;高坂丽奈曾因泷升在战术上过于向铠冢霙倾斜心生不满，甚至认为自己才是北宇治真正的一姐&lt;&#x2F;strong&gt;
 ，最终还是因为自己对泷升的迷信而作罢。这次合奏比赛不吝是高坂丽奈证明自己的一次好机会，如果自己能在这次小单元的pk中碾压全场，在全国大赛中斩获金奖，那么她就可以向心爱的泷老师证明
@@ -134,10 +134,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/"/>
-        <id>https://hibikilogy.github.io/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/"/>
+        <id>https://hibikilogy.vercel.app/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/">&lt;h1 id=&quot;yi-quan-li-lai-yuan&quot;&gt;一、权力来源&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/">&lt;h1 id=&quot;yi-quan-li-lai-yuan&quot;&gt;一、权力来源&lt;&#x2F;h1&gt;
 &lt;p&gt;吉川优子的部长之位来自小笠原晴香朝的真正核心田中明日香的强烈要求，最终由三香共同授权，可谓根正苗红的正统继承人（相比之下小笠原更像是临危授命被推上去顶吉祥物）。三香本身在小笠原朝拥有无可比拟的影响力，几乎覆盖整个社团，因此她们授权的部长就像德高望重的老皇帝任命的太子，上位基本无可置疑。&lt;&#x2F;p&gt;
 &lt;p&gt;优子的上位既有自身的努力，又有明日香的慧眼和三香间的信任。根据短篇《犬猿之交》，优子自来熟的性格让她交到了不少朋友，而且颇受异性欢迎。根据《波乱的第二乐章》中加部友惠的回忆，优子入部的第一年就和香织一起帮助有困难的部员，积累了不少人望。在“香织派”遍布整个吹奏部的局面下，优子成了香织派名副其实的二号人物。在“伞木希美”之乱后，优子还成了南中派残党的领袖。即使伞木希美回归也不得不被优子的领导气质折服，奉优子为首。一旦三香毕业，“优子派”势必成为吹奏部第一大派。这也是明日香立优子为继承人的最重要原因。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;er-ji-quan-di-guo&quot;&gt;二、集权帝国&lt;&#x2F;h1&gt;

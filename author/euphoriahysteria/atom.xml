@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - EuphoriaHysteria</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/euphoriahysteria/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/euphoriahysteria/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-08T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/euphoriahysteria/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/euphoriahysteria/atom.xml</id>
     <entry xml:lang="en">
         <title>论明日香的传位顾虑与隔代指认事</title>
         <published>2024-04-08T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/gedaizhirenshi/"/>
-        <id>https://hibikilogy.github.io/gedaizhirenshi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/gedaizhirenshi/"/>
+        <id>https://hibikilogy.vercel.app/gedaizhirenshi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/gedaizhirenshi/">&lt;p&gt;  历来的吹学家多集中精力讨论三代之治中历届首领在任内的贡献，却鲜有讨论吹部部长大位传承的因果、细节，以及众旁人的言行。但大位交接是权力轮转的象征，标志着老人的影响力的逐渐消退，使得后来者居上在严格的年龄制度下也成为可能。正所谓一朝天子一朝臣，无论是争夺部长大位，还是争取权臣要职，各种围绕这个目的的行动都是最能见人心性、智慧处，也是最能洞悉大局处。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/gedaizhirenshi/">&lt;p&gt;  历来的吹学家多集中精力讨论三代之治中历届首领在任内的贡献，却鲜有讨论吹部部长大位传承的因果、细节，以及众旁人的言行。但大位交接是权力轮转的象征，标志着老人的影响力的逐渐消退，使得后来者居上在严格的年龄制度下也成为可能。正所谓一朝天子一朝臣，无论是争夺部长大位，还是争取权臣要职，各种围绕这个目的的行动都是最能见人心性、智慧处，也是最能洞悉大局处。&lt;&#x2F;p&gt;
 &lt;p&gt;  久一年小笠原晴香任部长，田中明日香摄部政的局面众人皆知，因此传位时也是明日香主事，晴香从旁附和。根据武田所著《北宇治秘史·其十二》记载：&lt;&#x2F;p&gt;
 &lt;div style=&quot;width: 50%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  优子启匣取旨，以手抚台，朗然宣诏曰：“吉川优子机敏练达，克己奉公，深合朕意。着传位于吉川优子。”复问百官曰：“众卿其有异者？”群臣默不语。复曰：“然者拜。”后藤卓也宣，群臣拊掌行礼。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;gedaizhirenshi&#x2F;1%E5%90%89%E5%B7%9D%E4%BC%98%E5%AD%90%E7%99%BB%E5%9F%BA%E5%A4%A7%E5%85%B8.png&quot; alt=&quot;吉川优子登基大典&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

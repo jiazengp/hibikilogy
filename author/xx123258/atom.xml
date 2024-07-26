@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - XX123258</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/xx123258/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/xx123258/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-03-21T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/xx123258/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/xx123258/atom.xml</id>
     <entry xml:lang="en">
         <title>论高坂丽奈在部长失格事件中的政治立场</title>
         <published>2020-03-21T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/lun-gao-ban-li-nai-zai-bu-chang-shi-ge-shi-jian-zhong-de-zheng-zhi-li-chang/"/>
-        <id>https://hibikilogy.github.io/lun-gao-ban-li-nai-zai-bu-chang-shi-ge-shi-jian-zhong-de-zheng-zhi-li-chang/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/lun-gao-ban-li-nai-zai-bu-chang-shi-ge-shi-jian-zhong-de-zheng-zhi-li-chang/"/>
+        <id>https://hibikilogy.vercel.app/lun-gao-ban-li-nai-zai-bu-chang-shi-ge-shi-jian-zhong-de-zheng-zhi-li-chang/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/lun-gao-ban-li-nai-zai-bu-chang-shi-ge-shi-jian-zhong-de-zheng-zhi-li-chang/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/lun-gao-ban-li-nai-zai-bu-chang-shi-ge-shi-jian-zhong-de-zheng-zhi-li-chang/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;  本文辩证的剖析了高坂丽奈本人的性格。驳斥了部分吹学家认为黄前三年高坂丽奈人设崩塌的观点。同时，探讨了高坂丽奈——作为北宇治极少数从始至终没有成长变化的人物——在吹奏部历史上所代表的政治派系和对久美子的影响。&lt;&#x2F;p&gt;
 &lt;p&gt;  对那些不了解黄前三年丽奈“部长失格”事件的同志，建议先参考《没看过小说的想听泥潭大佬讲解下黄前3年的丽奈事件》（参考文献已引用），或直接阅读《黄前久美子本纪》。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;05&#x2F;02&#x2F;8uQfFZq3np7vRow.jpg&quot; alt=&quot;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

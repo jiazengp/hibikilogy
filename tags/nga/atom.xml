@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - NGA</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/nga/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/nga/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-21T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/nga/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/nga/atom.xml</id>
     <entry xml:lang="en">
         <title>为什么“北宇治一个都不能少”？</title>
         <published>2024-04-21T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/s3e03thinking1/"/>
-        <id>https://hibikilogy.github.io/s3e03thinking1/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/s3e03thinking1/"/>
+        <id>https://hibikilogy.vercel.app/s3e03thinking1/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/s3e03thinking1/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bbs.nga.cn&#x2F;read.php?&amp;amp;tid=39453882&amp;amp;pid=754826010&amp;amp;to=1&quot;&gt;闵可夫斯基空间&lt;&#x2F;a&gt;：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/s3e03thinking1/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bbs.nga.cn&#x2F;read.php?&amp;amp;tid=39453882&amp;amp;pid=754826010&amp;amp;to=1&quot;&gt;闵可夫斯基空间&lt;&#x2F;a&gt;：&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;bei-yu-zhi-xu-yao-jin-ke-neng-duo-de-ren-cai-chu-bei&quot;&gt;北宇治需要尽可能多的人才储备&lt;&#x2F;h1&gt;
 &lt;p&gt;  黑江佛祖的观点是“想上强度的上强度，不想上的退部就完事了，何必勉强他人呢？” 一年级部分吹奏乐新人和沙里在这一集中有类似的观点。&lt;&#x2F;p&gt;
 &lt;p&gt;  乍一看，这个观点好像非常有道理。确实，在黑江之前在的清良高中，这句话事实上完全能够成立：在清良，“你不想吹有的是帕鲁吹”并非是一句玩笑话，像清良这样的吹奏乐强校，能够吸引大量音乐特长生和有基础的爱好者。它在现实中的参照物就是大阪桐荫高中这一类的特长培养极其突出的日本高中。我认为，在这种高中，完全没有必要追求“一个都不能少”：因为这种高中的人才总是过剩的。就好比曼城或者皇马青训，会要求“一个青训球员都不能少”吗？（笑）&lt;&#x2F;p&gt;
@@ -79,10 +79,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/"/>
-        <id>https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/"/>
+        <id>https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;众所周知，《京吹》属于群像剧。其中监督等创作者极少发布对剧中人物的评判。因此对南中之乱的历史意义，&lt;span style=&quot;font-weight:bold&quot;&gt;大多数吹学家只是通过臆测和推论等主观方法进行研究&lt;&#x2F;span&gt;，这种研究方法毫无疑问的会产生错谬。事实上在此之前，主流吹学家一直对南中之乱，以及参与南中之乱的伞木希美持有着否定的态度。因此，从原作中找出直接证据显得尤为的重要。&lt;&#x2F;p&gt;
 &lt;p&gt;幸而，石原立也监督，在第二季第二集描述南中之乱的少数画面中，留下了《乐毅论》这个重要的线索，我们也因此能从乐毅论中，&lt;span style=&quot;font-weight:bold&quot;&gt;找到官方对“伞木希美之乱”的盖棺定论&lt;&#x2F;span&gt;，即：“伞木没有结党抱团等待三年级隐退，分裂吹奏部，而是选择退出争斗，并不是一个历史错误”。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;04&#x2F;30&#x2F;dIRKr49othCDVgm.jpg&quot; alt=&quot;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -145,10 +145,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/xi-mei-ai-qing-gu-shi/"/>
-        <id>https://hibikilogy.github.io/xi-mei-ai-qing-gu-shi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/xi-mei-ai-qing-gu-shi/"/>
+        <id>https://hibikilogy.vercel.app/xi-mei-ai-qing-gu-shi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/xi-mei-ai-qing-gu-shi/">&lt;h2 id=&quot;qian-yan&quot;&gt;前言：&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/xi-mei-ai-qing-gu-shi/">&lt;h2 id=&quot;qian-yan&quot;&gt;前言：&lt;&#x2F;h2&gt;
 &lt;p&gt;作为一名坚定的伞厨，伞哥哥的幸福就是我最大的人生追求。而研究伞木希美是吹学诸多课题中最具有挑战性的一个，她细腻又难以捉摸，擅长隐藏自己的真实想法，更是无数矛盾与冲突的集合体。在写完了多个吹学相关研究文章之后，我准备向伞哥哥发起挑战，拨开围绕在她身边的层层迷雾，去寻找她内心的真实世界。我要用极具说服力的论证告诉大家，伞木希美她喜欢铠冢霙，是love不是like，即使伞哥哥在很长的时间里并未发觉自己的真实情感，甚至直到故事结束也没能完全直面自己的感情，但她真真切切地喜欢着霙，并且在最后实现了和霙的相互理解，释怀了自己的内心，注定会将彼此的依恋进化为彼此的爱。《利兹与青鸟》的结局，是利兹长出翅膀与青鸟一起飞上蓝天，也是一个苦尽甘来的Happy End！&lt;&#x2F;p&gt;
 &lt;p&gt;很多观点受到了S1、NGA等论坛讨论以及吹学相关著作的启发，参考文献和鸣谢部分将详细列出，如有不妥还请指正。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;zheng-wen&quot;&gt;正文：&lt;&#x2F;h2&gt;
@@ -209,10 +209,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/huang-qian-shi-qi-nian-shang-di-yin-hao-soloshi-jian-quan-mian-kao-cha/"/>
-        <id>https://hibikilogy.github.io/huang-qian-shi-qi-nian-shang-di-yin-hao-soloshi-jian-quan-mian-kao-cha/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/huang-qian-shi-qi-nian-shang-di-yin-hao-soloshi-jian-quan-mian-kao-cha/"/>
+        <id>https://hibikilogy.vercel.app/huang-qian-shi-qi-nian-shang-di-yin-hao-soloshi-jian-quan-mian-kao-cha/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/huang-qian-shi-qi-nian-shang-di-yin-hao-soloshi-jian-quan-mian-kao-cha/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: crimson;&quot;&gt;前言：&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/huang-qian-shi-qi-nian-shang-di-yin-hao-soloshi-jian-quan-mian-kao-cha/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: crimson;&quot;&gt;前言：&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
 &lt;p&gt;黄前十七年的上低音号solo选拔是这一年北宇治吹奏部最大的事件，由此更是引申出了诸多矛盾冲突点，包括泷指导在指导理念上的举棋不定，黄前内阁成员的治部理念冲突，黄前主席和黑江佛祖的理念冲突，黄前主席在吹奏和前程两方面的迷茫，吹奏部其他部员的分裂等等，可以说上低音号solo选拔事件就是黄前十七年的绝对核心，读懂了上低音号solo就读懂了整个黄前十七年的人和事，更会对黄前主席的科学治部思想有更深刻的认识。本文将对武田著《黄前久美子本纪——第三乐章》的诸多细节进行分析，全面梳理关西赛上低音号solo事件发生后各方的态度和后续事件走向，并对“泷升为何在两次选拔中做出了不同的选择？黄前主席和黑江佛祖之间的差距到底在哪里？黄前主席的迷茫和理念是什么？吹奏部各位的态度和反应又是什么？黄前主席是如何圆满解决这一系列矛盾？”等热点问题进行解答。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;zheng-wen&quot;&gt;&lt;span style=&quot;color: crimson;&quot;&gt;正文：&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
 &lt;p&gt;本文将部分摘录《本纪》内容并对其做出分析和点评(部分原文较长请酌情阅读)，按照事件发展顺序并在某一个主要课题内容全部分析完后进行总结。关西赛选拔和府赛选拔的主要区别和冲突点集中在低音部，上低音号A编由3个减为2个，久石奏落选，与之对应的是大号增加为4个，另外上低音号solo由黄前久美子换成黑江真由。选拔结束后久石奏主动找黄前主席谈论此事，原文如下(实在太长了我选择一部分摘录)：&lt;&#x2F;p&gt;
@@ -395,10 +395,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/wei-san-mu-xi-mei-zheng-ming-qian-xi-li-zi-yu-qing-niao-di-san-le-zhang-de-zuo-qu-yu-pei-qi/"/>
-        <id>https://hibikilogy.github.io/wei-san-mu-xi-mei-zheng-ming-qian-xi-li-zi-yu-qing-niao-di-san-le-zhang-de-zuo-qu-yu-pei-qi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/wei-san-mu-xi-mei-zheng-ming-qian-xi-li-zi-yu-qing-niao-di-san-le-zhang-de-zuo-qu-yu-pei-qi/"/>
+        <id>https://hibikilogy.vercel.app/wei-san-mu-xi-mei-zheng-ming-qian-xi-li-zi-yu-qing-niao-di-san-le-zhang-de-zuo-qu-yu-pei-qi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/wei-san-mu-xi-mei-zheng-ming-qian-xi-li-zi-yu-qing-niao-di-san-le-zhang-de-zuo-qu-yu-pei-qi/">&lt;p&gt;长久以来，部分吹学家迫害伞哥哥的一条主要论据，就是在自由选曲的第三乐章中，伞哥哥的长笛完全跟不上小肥宅的双簧管。前有《利兹与青鸟》影片中，伞哥哥在排练中落寞地放下长笛为证；后有《誓言的终章》的演奏会里，频频出现小肥宅独奏的镜头而偶有伞哥哥的正面镜头，以至于一些不明真相的弹幕都评论道“伞哥哥跟不上小天使了，没给单独分镜。”这些观念百传十十传千，以至有好事者还炮制出了“亿伞级”、“超伞级”等戏谑性的分级方式。&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/wei-san-mu-xi-mei-zheng-ming-qian-xi-li-zi-yu-qing-niao-di-san-le-zhang-de-zuo-qu-yu-pei-qi/">&lt;p&gt;长久以来，部分吹学家迫害伞哥哥的一条主要论据，就是在自由选曲的第三乐章中，伞哥哥的长笛完全跟不上小肥宅的双簧管。前有《利兹与青鸟》影片中，伞哥哥在排练中落寞地放下长笛为证；后有《誓言的终章》的演奏会里，频频出现小肥宅独奏的镜头而偶有伞哥哥的正面镜头，以至于一些不明真相的弹幕都评论道“伞哥哥跟不上小天使了，没给单独分镜。”这些观念百传十十传千，以至有好事者还炮制出了“亿伞级”、“超伞级”等戏谑性的分级方式。&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;05&#x2F;02&#x2F;FeLhwmcr4TObuo7.jpg&quot; alt=&quot;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;05&#x2F;02&#x2F;zj8Z27IhrAVC4sR.jpg&quot; alt=&quot;2.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;span style=&quot;font-weight:bold&quot;&gt;&lt;span style=&quot;font-size:130%;line-height:183%&quot;&gt;实为大谬！&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
@@ -493,10 +493,10 @@ C-A，A是主题乐段(也就是第三乐章一开始演奏的8个小节)，B和
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/why-yoshikawayuuko/"/>
-        <id>https://hibikilogy.github.io/why-yoshikawayuuko/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/why-yoshikawayuuko/"/>
+        <id>https://hibikilogy.vercel.app/why-yoshikawayuuko/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
 &lt;p&gt;近日观泥潭吹学新作《&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;2020&#x2F;03&#x2F;04&#x2F;qizhixianmingfanduiruhewenze&#x2F;&quot;&gt;旗帜鲜明反对《如何问责》中的部分观点--伞木希美之我见&lt;&#x2F;a&gt;》(下文中简称《反问责》)有感，故作此文。&lt;&#x2F;p&gt;
 &lt;p&gt;该文主要围绕伞木希美同志是否该为久二年北宇治高中吹奏乐止步关西大赛负责展开讨论,我本人对这个问题是持中立态度的——这段历史是由人民群众共同缔造的，非一人之责也，但若非要从中选出一个最大的责任人，那毫无疑问是伞木希美。我本对吹学思想的多样性持开放态度，可是该文在为伞木希美同志洗清罪名时，无所不用其极，尤其是在3.1伞木希美历史地位探讨中，将伞木希美排在南中四姬之首，实属一派胡言。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;heng-xiang-dui-bi-san-mu-xi-mei-de-zhen-zheng-di-wei&quot;&gt;&lt;span style=&quot;color: darkblue;&quot;&gt;横向对比-伞木希美的真正地位&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
@@ -541,10 +541,10 @@ C-A，A是主题乐段(也就是第三乐章一开始演奏的8个小节)，B和
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/qingxueshijiao/"/>
-        <id>https://hibikilogy.github.io/qingxueshijiao/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/qingxueshijiao/"/>
+        <id>https://hibikilogy.vercel.app/qingxueshijiao/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/qingxueshijiao/">&lt;p&gt;我接触京吹这个系列比较晚，也很少和别人讨论过这个系列的作品。在接触了吹学以后，发现很多人都通过中国的特色文化对京吹这部作品做出了不同的解读，我看的也十分开心。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/qingxueshijiao/">&lt;p&gt;我接触京吹这个系列比较晚，也很少和别人讨论过这个系列的作品。在接触了吹学以后，发现很多人都通过中国的特色文化对京吹这部作品做出了不同的解读，我看的也十分开心。&lt;&#x2F;p&gt;
 &lt;p&gt;但是京吹毕竟是一个描述高中青春社团生活的作品，高中生之间的人际关系，真的有吹学视角下描绘那么的复杂吗？回想我高中自己在乐团的亲身经历(姑且我还曾算个声部长)，曾想过什么乐团是部长集权制，还是声部议会制吗？曾想过大赛不利问责于谁吗？&lt;&#x2F;p&gt;
 &lt;p&gt;全部从吹学角度出发来解读虽然有趣，但是也未必能正确解读作品。也会丧失原作中很多其他的细节和乐趣。现在nga对于京吹的讨论大多都是吹学，我想作为一个百合厨&#x2F;曾是高中乐团成员的角度，从作品本身出发，来说一说自己发现的利兹与青鸟中的一些细节和个人的观点。&lt;&#x2F;p&gt;
 &lt;p&gt;这些想法有部分是受到推特和pixiv的太太们启发，还有很多可能是被人提过的过时之谈，请大家多包容。&lt;&#x2F;p&gt;
@@ -692,10 +692,10 @@ C-A，A是主题乐段(也就是第三乐章一开始演奏的8个小节)，B和
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/tan-yi-tan-jiu-mei-zi-wei-shen-me-yao-he-xiu-yi-ming-yi-fen-shou/"/>
-        <id>https://hibikilogy.github.io/tan-yi-tan-jiu-mei-zi-wei-shen-me-yao-he-xiu-yi-ming-yi-fen-shou/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/tan-yi-tan-jiu-mei-zi-wei-shen-me-yao-he-xiu-yi-ming-yi-fen-shou/"/>
+        <id>https://hibikilogy.vercel.app/tan-yi-tan-jiu-mei-zi-wei-shen-me-yao-he-xiu-yi-ming-yi-fen-shou/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/tan-yi-tan-jiu-mei-zi-wei-shen-me-yao-he-xiu-yi-ming-yi-fen-shou/">&lt;p&gt;看过誓言的终章动画的许多观众肯定会对久美子和秀一这一对的感情描写感到非常莫名其妙，一开始突然就好上了，中间也没有多少甜蜜的场景，后面约个会还没接上吻，然后就咣当一声分手了。这是什么奇特的操作啊？&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/tan-yi-tan-jiu-mei-zi-wei-shen-me-yao-he-xiu-yi-ming-yi-fen-shou/">&lt;p&gt;看过誓言的终章动画的许多观众肯定会对久美子和秀一这一对的感情描写感到非常莫名其妙，一开始突然就好上了，中间也没有多少甜蜜的场景，后面约个会还没接上吻，然后就咣当一声分手了。这是什么奇特的操作啊？&lt;&#x2F;p&gt;
 &lt;p&gt;其实仔细思考一下，结合之前和之后的剧情，我们很容易就能分析出久美子打出这样操作背后有着怎样的深思熟虑。这里就抛砖引玉，试着对久美子的决定做一个简单的解析。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;1-shen-ti-yuan-yin&quot;&gt;1. 身体原因&lt;&#x2F;h2&gt;
 &lt;p&gt;俗话说得好，身体是革命的本钱，常年吹奏沉重的低音号的久美子对此当然是深有体会。即将升入高三，同时面临着学业和社团活动的双重压力，这时候的高中生无疑是非常需要健康的体魄、饱满的精气的。&lt;&#x2F;p&gt;
@@ -746,10 +746,10 @@ C-A，A是主题乐段(也就是第三乐章一开始演奏的8个小节)，B和
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/qizhixianmingfanduiruhewenze/"/>
-        <id>https://hibikilogy.github.io/qizhixianmingfanduiruhewenze/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/qizhixianmingfanduiruhewenze/"/>
+        <id>https://hibikilogy.vercel.app/qizhixianmingfanduiruhewenze/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/qizhixianmingfanduiruhewenze/">&lt;h2 id=&quot;zhai-yao&quot;&gt;摘要：&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/qizhixianmingfanduiruhewenze/">&lt;h2 id=&quot;zhai-yao&quot;&gt;摘要：&lt;&#x2F;h2&gt;
 &lt;p&gt;本文首先系统的驳斥了《&lt;a href=&quot;&#x2F;2020&#x2F;01&#x2F;10&#x2F;ruhewenze&#x2F;&quot;&gt;北宇治高中吹奏乐部止步关西大赛，如何问责？&lt;&#x2F;a&gt;》一文中问责伞木希美的部分论点。其次通过揭露网络社区“赢了吹，输了黑”的不良现象，深入阐述为什么北宇治获得关西废金，只需甘拜下风而不需追责。最后，本文利用了唯物史观和矛盾论的研究方法，通过对伞木希美历史地位探讨，和对伞木希美在学界有着高讨论度这一现象的深入解析。建立了自己的伞木希美历史观以及价值观。同时本文指出了学界的二个错误思潮，分别是：不能正确的看待《利兹与青鸟》和《吹学吧上低音号》之间的辩证关系，和学界对于考证的浮躁之风。并对此加以辨析和呼吁，以望对吹学盛世添砖加瓦。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;guan-jian-ci&quot;&gt;关键词：&lt;&#x2F;h2&gt;
 &lt;p&gt;吹响吧上低音号，影评，迫害，伞木希美，矛盾论，史考，翻案，政治光谱，LGD，社会现象，吹学&lt;&#x2F;p&gt;
@@ -967,10 +967,10 @@ Festival的重要演出场景。第二季里不同的是第四集既出现了矛
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/roman/"/>
-        <id>https://hibikilogy.github.io/roman/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/roman/"/>
+        <id>https://hibikilogy.vercel.app/roman/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/roman/">&lt;p&gt;看了泥潭网友 @yzt416 的帖子，其中谈到罗马的问题，令人耳目一新。所以新开一帖，开始整活偷笑&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/roman/">&lt;p&gt;看了泥潭网友 @yzt416 的帖子，其中谈到罗马的问题，令人耳目一新。所以新开一帖，开始整活偷笑&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;原文链接：&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ngabbs.com&#x2F;read.php?pid=401056009&amp;amp;amp;opt=128&quot;&gt;https:&#x2F;&#x2F;ngabbs.com&#x2F;read.php?pid=401056009&amp;amp;amp;opt=128&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -1023,10 +1023,10 @@ Festival的重要演出场景。第二季里不同的是第四集既出现了矛
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/xiang-tao-lun-tao-lun-san-mu-xi-mei/"/>
-        <id>https://hibikilogy.github.io/xiang-tao-lun-tao-lun-san-mu-xi-mei/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/xiang-tao-lun-tao-lun-san-mu-xi-mei/"/>
+        <id>https://hibikilogy.vercel.app/xiang-tao-lun-tao-lun-san-mu-xi-mei/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/xiang-tao-lun-tao-lun-san-mu-xi-mei/">&lt;p&gt;京吹一直是各大论坛讨论的热门，尤其是自从去年吹学兴起之后更是换了副新面貌。喜欢京吹的人多了是好事，不过我对于其中部分主流看法不是很认同，所以想发一下自己的看法和大家讨论。(因为不少观点已经成为许多吹学贴中大家的共识，所以就不回原贴啦)&lt;br &#x2F;&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/xiang-tao-lun-tao-lun-san-mu-xi-mei/">&lt;p&gt;京吹一直是各大论坛讨论的热门，尤其是自从去年吹学兴起之后更是换了副新面貌。喜欢京吹的人多了是好事，不过我对于其中部分主流看法不是很认同，所以想发一下自己的看法和大家讨论。(因为不少观点已经成为许多吹学贴中大家的共识，所以就不回原贴啦)&lt;br &#x2F;&gt;
 &lt;br &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;首先是关于“同情”的问题：伞木希美的经历很惨，因而经常表示同情。确实，希美初中时代带领的南中成为了唯一拉胯的一代，高中时高一退部，高二回归但只是边缘人，高三时则又成了北宇治三年里成绩最差的一届，对于理想，希美一直是努力过却求而不得的状态。另一方面和霙的感情和是磕磕绊绊，虽然最后达成了“joint”，但也因认识到了自己与天才的差距而陷入自卑，从而放弃了事业上对音乐的继续追逐。对这类看法我&lt;span style=&quot;font-weight:bold&quot;&gt;表示理解，并不反对&lt;&#x2F;span&gt;，只是想换一个角度谈谈我的想法。&lt;&#x2F;p&gt;
 &lt;p&gt;在高中时代结识了值得结交一生的死党，遇见了值得陪伴一生的爱情，进路上则更加理性地选择了适合自己的道路，说实话我还挺羡慕有这样的高中经历的。别说是上帝视角，如果带入主角，一个人如果有着这样的经历，他二三十年后回忆这段时间会是怎样的心情呢？假如希美执意考音大，她的家庭条件也不能支持她充分地上补习备考，就算考上了也会因为实力问题一直活在霙的荫蔽之下，她仍然是笼中鸟。天生我材必有用吧，就算意识到了自己的平凡，也只是在一个领域里的，希美在短暂的痛苦之后并不迷茫，换个方向前进，还有找到新天地的可能。总之，我觉得希美的中学生活有遗憾，但说不上惨。&lt;&#x2F;p&gt;
@@ -1068,10 +1068,10 @@ Festival的重要演出场景。第二季里不同的是第四集既出现了矛
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/weishenmelishixuanzeleririka/"/>
-        <id>https://hibikilogy.github.io/weishenmelishixuanzeleririka/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/weishenmelishixuanzeleririka/"/>
+        <id>https://hibikilogy.vercel.app/weishenmelishixuanzeleririka/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/weishenmelishixuanzeleririka/">&lt;h2 id=&quot;zhai-yao&quot;&gt;摘要：&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/weishenmelishixuanzeleririka/">&lt;h2 id=&quot;zhai-yao&quot;&gt;摘要：&lt;&#x2F;h2&gt;
 &lt;p&gt;本文系统性的驳斥了《&lt;a href=&quot;&#x2F;2020&#x2F;01&#x2F;07&#x2F;weishenmelishixuanzelekanade&#x2F;&quot;&gt;为什么历史选择了久石奏&lt;&#x2F;a&gt;》中种种错误观点，并对于黄前四年北宇治吹奏部新一代领导核心，建立了自己的科学预测成果&lt;&#x2F;p&gt;
 &lt;p&gt;关键词：吹响吧上低音号 政治光谱 性格分析&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;can-kao-wen-xian&quot;&gt;参考文献：&lt;&#x2F;h2&gt;

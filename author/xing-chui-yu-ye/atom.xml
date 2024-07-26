@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 星垂於野</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/xing-chui-yu-ye/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/xing-chui-yu-ye/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-03T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/xing-chui-yu-ye/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/xing-chui-yu-ye/atom.xml</id>
     <entry xml:lang="en">
         <title>黄前久美子的两个身体——北宇治吹奏部的政教二元体系研究</title>
         <published>2024-06-03T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/huang-qian-jiu-mei-zi-de-liang-ge-shen-ti/"/>
-        <id>https://hibikilogy.github.io/huang-qian-jiu-mei-zi-de-liang-ge-shen-ti/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/huang-qian-jiu-mei-zi-de-liang-ge-shen-ti/"/>
+        <id>https://hibikilogy.vercel.app/huang-qian-jiu-mei-zi-de-liang-ge-shen-ti/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/huang-qian-jiu-mei-zi-de-liang-ge-shen-ti/">&lt;p&gt;  吹学家对于北宇治吹奏部的权力体系及其演变已有诸多研究，但对于部长与顾问之间关系的着墨仍然较少，对顾问究竟有何职责有所争议。由于久三年“部长失格”事件中，部长与顾问是主要矛盾，有必要重新审视二者的权力关系。本文认为，此次事件本质上反映了黄前部长作为世俗的政治权威，与泷升顾问作为神性的宗教权威之间存在的张力。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/huang-qian-jiu-mei-zi-de-liang-ge-shen-ti/">&lt;p&gt;  吹学家对于北宇治吹奏部的权力体系及其演变已有诸多研究，但对于部长与顾问之间关系的着墨仍然较少，对顾问究竟有何职责有所争议。由于久三年“部长失格”事件中，部长与顾问是主要矛盾，有必要重新审视二者的权力关系。本文认为，此次事件本质上反映了黄前部长作为世俗的政治权威，与泷升顾问作为神性的宗教权威之间存在的张力。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;yi-yin-le-zhi-shen-de-xuan-ba-zhu-jiao-long-sheng-zhang-wo-de-zong-jiao-quan-li&quot;&gt;一、音乐之神的选拔：“主教”泷升掌握的宗教权力&lt;&#x2F;h1&gt;
 &lt;p&gt;  很多吹学家都对顾问这个职位到底有何权责感到疑惑，根据已有研究我们可以发现，顾问拥有决定选拔结果的绝对权力，但又不参与吹奏的实际管理、不干预吹奏部干部的人事安排，超然于社团之外。选拔决定权的本质，是顾问所掌握的音乐（神学）知识，远超作为“凡民”的吹奏部学生，以“主教”的姿态代表“音乐之神”来评判学生们的音乐水平。能够入选A编即是音乐之神的选民，被淘汰之人则是神的弃民。这种选拔是非世俗的，因为无论是否入选，都不影响普通社员参与社团日常活动。同理，吹奏部的实际管理、社团氛围属于世俗事务，应由部长及干部自行完成，不在泷升的教权范围内，落选A编也不影响之后的干部晋升（有夏纪的先例在，小奏在久四年仍可进入领导层），这就是北宇治吹奏部的政教二元体系。然而，所谓“神选”的标准本来就是非常模糊的，甚至是神秘的、不可言说的，完全依赖顾问（主教）对音乐（神学）的理解和诠释，这就为学生质疑选拔标准、引发冲突埋下伏笔。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;er-huang-qian-jiu-mei-zi-de-zi-ran-zhi-ti-yu-zheng-zhi-zhi-ti&quot;&gt;二、黄前久美子的自然之体与政治之体&lt;&#x2F;h1&gt;

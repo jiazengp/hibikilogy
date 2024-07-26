@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - Gonturium</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/gonturium/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/gonturium/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-23T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/gonturium/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/gonturium/atom.xml</id>
     <entry xml:lang="en">
         <title>久三年全国赛上低音号选拔结果分析</title>
         <published>2024-06-23T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/auditionanalysis/"/>
-        <id>https://hibikilogy.github.io/auditionanalysis/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/auditionanalysis/"/>
+        <id>https://hibikilogy.vercel.app/auditionanalysis/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/auditionanalysis/">&lt;center&gt;&lt;p style=&quot;color:red;&quot;&gt;&lt;b&gt;剧透示警！&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;&lt;&#x2F;center&gt;&lt;br &#x2F;&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/auditionanalysis/">&lt;center&gt;&lt;p style=&quot;color:red;&quot;&gt;&lt;b&gt;剧透示警！&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;&lt;&#x2F;center&gt;&lt;br &#x2F;&gt;
 &lt;center&gt;&lt;p style=&quot;color:red;&quot;&gt;&lt;b&gt;剧透示警！&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;&lt;&#x2F;center&gt;&lt;br &#x2F;&gt;
 &lt;center&gt;&lt;p style=&quot;color:red;&quot;&gt;&lt;b&gt;剧透示警！&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;&lt;&#x2F;center&gt;&lt;br &#x2F;&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;2024-06-23&#x2F;QkVKR1slP0Uwd15OSXN0LQ==.w1320.h740.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

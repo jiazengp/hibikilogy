@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 圣音小仓唯</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/sheng-yin-xiao-cang-wei/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/sheng-yin-xiao-cang-wei/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-04T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/sheng-yin-xiao-cang-wei/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/sheng-yin-xiao-cang-wei/atom.xml</id>
     <entry xml:lang="en">
         <title>上梁不正下梁歪？伞木希美——久三年矛盾的根源</title>
         <published>2024-06-04T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/root-cause/"/>
-        <id>https://hibikilogy.github.io/root-cause/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/root-cause/"/>
+        <id>https://hibikilogy.vercel.app/root-cause/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/root-cause/">&lt;p&gt;  久一年伞木希美没立好规矩，上梁不正下梁歪，最终导致久三年矛盾爆发。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/root-cause/">&lt;p&gt;  久一年伞木希美没立好规矩，上梁不正下梁歪，最终导致久三年矛盾爆发。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;san-mu-gai-li-shen-me-gui-ju&quot;&gt;伞木该立什么规矩？&lt;&#x2F;h1&gt;
 &lt;p&gt;  首先日本吹奏强校几乎都是搞多次选拔，没有固定选拔更有利于磨合的说法。黑江真由转学前在清良女高，现实原型是精华女高，就是每次大活动前（包括比赛和定期公演）都进行选拔，选出座奏成员，剩下的去练习行进（舞奏），大阪强校淀工也是座奏是1军、舞奏是2军（即使这样，这些强校也仍是舞奏全国金常连），俨然大逃杀模式（误，其实还有实力更差3军初学者）。&lt;&#x2F;p&gt;
 &lt;p&gt;  附带说下，佐佐木梓所在的立华以及立华的原型橘高中，就是硬实力不足才剑走偏锋强化舞奏，武吹小说的含糊写法会让很多人误以为只是赛道不同，实际小说里也写了立华的吹奏成绩也就久〇年京都废金、久一年关西银的实力，难怪小说合奏时立华的学姐都要感慨“果然北宇治就是强”。&lt;&#x2F;p&gt;
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/guan-yu-ri-ben-she-tuan-yin-da-yi-ji-jiu-mei-zi-he-hei-jiang-de-shi-li/"/>
-        <id>https://hibikilogy.github.io/guan-yu-ri-ben-she-tuan-yin-da-yi-ji-jiu-mei-zi-he-hei-jiang-de-shi-li/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/guan-yu-ri-ben-she-tuan-yin-da-yi-ji-jiu-mei-zi-he-hei-jiang-de-shi-li/"/>
+        <id>https://hibikilogy.vercel.app/guan-yu-ri-ben-she-tuan-yin-da-yi-ji-jiu-mei-zi-he-hei-jiang-de-shi-li/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/guan-yu-ri-ben-she-tuan-yin-da-yi-ji-jiu-mei-zi-he-hei-jiang-de-shi-li/">&lt;center&gt;剧透示警！&lt;&#x2F;center&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/guan-yu-ri-ben-she-tuan-yin-da-yi-ji-jiu-mei-zi-he-hei-jiang-de-shi-li/">&lt;center&gt;剧透示警！&lt;&#x2F;center&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;  首先要说下日本的高中社团制度。现在日本的学校社团（日语“部活”），实际上是一种准职业教育，是日本国家培养运动、艺术等人才的重要环节。典型比如，日网一篇18年的文章说当时日本足球代表新成员27人，其中俱乐部青训出身的13人，其余14人都是学校社团出身。其他运动也是，大量甚至绝大多数选手出身高中社团。相比其他国家，日本社团模式本质是为青少年在选择成为运动员、艺术家的路上提供了回归一般教育模式的兜底保障，这一制度的形成，并不是文部科学省的官僚的主动设计，而是几十年发展下来自然形成的结果。&lt;&#x2F;p&gt;
 &lt;p&gt;  音乐也是一样。日本吹奏乐全国大赛，本来是为业余社团提供的舞台，至今规定音乐专业的学校不许参加。因此，音乐高中、以及普通高中的音乐科，原则上是不能报名的，但如果社团面向全校、包含非音乐专业的普通学生的话，则不限。现在很多吹奏强校，都有对社团学生的专门培养，比如号称大阪最强吹奏部的桐荫高中，吹部成员都是吹奏乐course，又比如关东的吹奏强校伊奈学园综合高中，针对选择音乐方向的学生，开设视唱、钢琴、乐理等多门音乐专业课，几乎与音乐高中无异。以至于日本也在讨论是否要放开允许音乐专业报名。&lt;&#x2F;p&gt;
@@ -97,10 +97,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/guan-yu-long-lao-shi-de-ze-ren-wen-ti/"/>
-        <id>https://hibikilogy.github.io/guan-yu-long-lao-shi-de-ze-ren-wen-ti/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/guan-yu-long-lao-shi-de-ze-ren-wen-ti/"/>
+        <id>https://hibikilogy.vercel.app/guan-yu-long-lao-shi-de-ze-ren-wen-ti/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/guan-yu-long-lao-shi-de-ze-ren-wen-ti/">&lt;p&gt;  众所周知，日本已经实行了三十多年&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;zh.wikipedia.org&#x2F;zh-cn&#x2F;%E5%AF%AC%E8%A3%95%E6%95%99%E8%82%B2&quot;&gt;宽松教育&lt;&#x2F;a&gt;（日语：ゆとり教育），“热血教师”已经被视为落后于时代的了，社团活动更是如此。现在的日本社团活动尤其强调&lt;strong&gt;学生的自主性&lt;&#x2F;strong&gt;，比如可以看&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.kyoto-be.ne.jp&#x2F;kyoto-be&#x2F;&quot;&gt;京都府教委&lt;&#x2F;a&gt;规定的社团指导方针（平成31年）：
+        <content type="html" xml:base="https://hibikilogy.vercel.app/guan-yu-long-lao-shi-de-ze-ren-wen-ti/">&lt;p&gt;  众所周知，日本已经实行了三十多年&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;zh.wikipedia.org&#x2F;zh-cn&#x2F;%E5%AF%AC%E8%A3%95%E6%95%99%E8%82%B2&quot;&gt;宽松教育&lt;&#x2F;a&gt;（日语：ゆとり教育），“热血教师”已经被视为落后于时代的了，社团活动更是如此。现在的日本社团活动尤其强调&lt;strong&gt;学生的自主性&lt;&#x2F;strong&gt;，比如可以看&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.kyoto-be.ne.jp&#x2F;kyoto-be&#x2F;&quot;&gt;京都府教委&lt;&#x2F;a&gt;规定的社团指导方针（平成31年）：
 &lt;img src=&quot;&#x2F;imgs&#x2F;%E5%85%B3%E4%BA%8E%E6%B3%B7%E8%80%81%E5%B8%88%E7%9A%84%E8%B4%A3%E4%BB%BB%E9%97%AE%E9%A2%98&#x2F;1.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;  译：“顾问老师不能单方面地施加自己的指导理念，而要通过与学生的意见交换等方式，把握学生对多样化的社团活动的需求和意见，在尊重学生的主体性的同时，检讨设定社团的目标和指导方针”。&lt;&#x2F;p&gt;

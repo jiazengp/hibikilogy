@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 巫卫兵</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/wu-wei-bing/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/wu-wei-bing/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-01-10T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/wu-wei-bing/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/wu-wei-bing/atom.xml</id>
     <entry xml:lang="en">
         <title>北宇治高中吹奏乐部止步关西大赛，如何问责？</title>
         <published>2020-01-10T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/ruhewenze/"/>
-        <id>https://hibikilogy.github.io/ruhewenze/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/ruhewenze/"/>
+        <id>https://hibikilogy.vercel.app/ruhewenze/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/ruhewenze/">&lt;p&gt;北宇治高中吹奏乐部的在黄前久美子入校的第二年，竟然只拿到了关西大赛废金，未能冲进全国大赛，这是北宇治吹奏乐部伟大复兴之路上的重大挫折，对赛前以全国金奖为目标的吹奏乐部也是一个沉重的打击，那么应该如何问责？&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/ruhewenze/">&lt;p&gt;北宇治高中吹奏乐部的在黄前久美子入校的第二年，竟然只拿到了关西大赛废金，未能冲进全国大赛，这是北宇治吹奏乐部伟大复兴之路上的重大挫折，对赛前以全国金奖为目标的吹奏乐部也是一个沉重的打击，那么应该如何问责？&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;1-rang-wo-men-kan-kan-jie-xia-lai-hui-fa-sheng-shen-me&quot;&gt;1、让我们看看接下来会发生什么&lt;&#x2F;h2&gt;
 &lt;p&gt;通常来说，大型团队比赛的队伍成绩不好，直接的问责对象应该是主教练。对应到北宇治吹奏乐部，无疑就是指导老师泷升的责任。并且在京吹系列小说作者武田绫乃的设定中，吹奏乐部中起到决定性作用的就是指导老师，久一年的北宇治自身是个例子，久二年把北宇治挤出全国大赛的超级黑马龙圣高中也一样：祖上从来没阔过的龙圣（北宇治起码还算有历史底蕴）来了一位明静工科的前任指导月永源一郎，这位大佬就直接把龙圣从府赛杂鱼带飞到全国金奖。&lt;&#x2F;p&gt;
 &lt;p&gt;当然不能说不如月永源一郎就应该问责，否则除了齐达内全世界的足球主教练都是渣了，但久一年的泷升还能率队进军全国，又没突然改姓远坂，怎么久二年就掉链子了呢？他真的有什么失误吗？&lt;&#x2F;p&gt;

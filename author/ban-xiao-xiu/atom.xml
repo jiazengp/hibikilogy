@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 半小朽</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/ban-xiao-xiu/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/ban-xiao-xiu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-29T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/ban-xiao-xiu/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/ban-xiao-xiu/atom.xml</id>
     <entry xml:lang="en">
         <title>好梦难圆：京吹3第12集核心问题剖析</title>
         <published>2024-06-29T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/dream/"/>
-        <id>https://hibikilogy.github.io/dream/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/dream/"/>
+        <id>https://hibikilogy.vercel.app/dream/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/dream/">&lt;p&gt;  本文写于京吹3第13集播出之前。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/dream/">&lt;p&gt;  本文写于京吹3第13集播出之前。&lt;&#x2F;p&gt;
 &lt;p&gt;  第12集已经吵翻了，目前责问花田和京都方的势头更大，还有许多把整部京吹3评价为一文不值、打1分的极端情形出现。&lt;&#x2F;p&gt;
 &lt;p&gt;  作为纯动画党，第12集之后，我的观感一直与上述所谓“势头更大”的一方不同。感性上的不同让我不得不去探求，为什么我和大多数观众有了&lt;strong&gt;不同的感受&lt;&#x2F;strong&gt;，问题出现在哪里？是我不爱久美子吗？但实际选拔结果公开那段我直接化身小奏绷不住哭了。但这&lt;strong&gt;不会让我觉得这是完全失败的改编&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
 &lt;p&gt;  在看过一些其他人例如许多原作党的控诉文字之后，我对我自己形成这样的“感受”尝试去做出逻辑上的分析。由于我没有系统阅读过原作，这方面的很多内容是通过上述文字看来的，有错误有缺漏还望指正。&lt;&#x2F;p&gt;

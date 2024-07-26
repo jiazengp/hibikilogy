@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 企鹅都没有</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/qi-e-du-mei-you/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/qi-e-du-mei-you/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-23T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/qi-e-du-mei-you/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/qi-e-du-mei-you/atom.xml</id>
     <entry xml:lang="en">
         <title>为什么说第12集是京吹3的眼睛？</title>
         <published>2024-06-23T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/eye/"/>
-        <id>https://hibikilogy.github.io/eye/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/eye/"/>
+        <id>https://hibikilogy.vercel.app/eye/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/eye/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/eye/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;  京吹第12集，我觉得很好，因为这一集，整个京吹3都立住了。实力至上立住了，真由立住了，久美子更立住了（一些观众立不住了）。久美子前边所有集的迷茫、不解决关键问题、部长职能缺失这些问题都解决了，人物弧光完美展现，终于在决赛前成为一名伟大的部长。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;12ji-qian&quot;&gt;12集前&lt;&#x2F;h1&gt;
 &lt;p&gt;  看到第10级我都觉得京吹3会很平庸，所以那集评论里我预测了后三级的内容“11级高黄彻底和解、久美子努力练习、选拔结果皆大欢喜。12级全国大赛、爽听一集。13集学妹告别演奏会，毕业离校学妹怎么哭，久美子传位花奏，彩蛋久美子回来当老师。”当时之所以这么写，就是认定了这部京吹3翻不出什么花来，就是个按武吹走向、稍加润饰而已。主角就干啥都对，最后努力一下，拿下soli，拿下全国金呗。&lt;&#x2F;p&gt;

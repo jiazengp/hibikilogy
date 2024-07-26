@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 意难平bot--</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/yi-nan-ping-bot/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/yi-nan-ping-bot/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-06-24T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/yi-nan-ping-bot/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/yi-nan-ping-bot/atom.xml</id>
     <entry xml:lang="en">
         <title>努力的尽头也没有奇迹</title>
         <published>2020-06-24T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/yinanping/"/>
-        <id>https://hibikilogy.github.io/yinanping/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/yinanping/"/>
+        <id>https://hibikilogy.vercel.app/yinanping/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/yinanping/">&lt;p&gt;“人真是单纯，一旦知道有回报，就回去努力。努力若有成果，就会加倍努力。”&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/yinanping/">&lt;p&gt;“人真是单纯，一旦知道有回报，就回去努力。努力若有成果，就会加倍努力。”&lt;&#x2F;p&gt;
 &lt;p&gt;黄前久美子认为努力的尽头就是奇迹，但对伞木希美而言，&lt;strong&gt;努力的尽头也没有奇迹。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;【出处：《吹响吧！上低音号》】&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;05&#x2F;28&#x2F;6vRckxAw85IZynt.jpg&quot; alt=&quot;如果努力的尽头就是奇迹.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

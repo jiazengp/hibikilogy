@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - Sylvan</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/sylvan/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/sylvan/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-15T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/sylvan/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/sylvan/atom.xml</id>
     <entry xml:lang="en">
         <title>中世古香织：摇滚女神还是圣母？</title>
         <published>2024-06-15T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kaori/"/>
-        <id>https://hibikilogy.github.io/kaori/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kaori/"/>
+        <id>https://hibikilogy.vercel.app/kaori/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kaori/">&lt;h1 id=&quot;yin-yan&quot;&gt;引言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kaori/">&lt;h1 id=&quot;yin-yan&quot;&gt;引言&lt;&#x2F;h1&gt;
 &lt;p&gt;  在前两季京吹中，中世古香织一直占据举重若轻的位置，无论是作为无私坦然的小号手，还是温柔令人心动的学姐，香织在全剧的剧情推动、人物塑造、氛围衬托乃至姬情发展方面都做出了不可忽视的贡献。然而，在无数次反复回味前两季动画之时，一句台词引起了笔者的注意。&lt;&#x2F;p&gt;
 &lt;p&gt;  这是一句原创台词，印象中仅出现过一次，但已经成为中世古香织在许多吹学文献中的代称。那就是田中明日香对香织的形容词——&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;b&gt;&lt;center&gt;“吹奏乐部的麦当娜”&lt;&#x2F;center&gt;&lt;&#x2F;b&gt;

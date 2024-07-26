@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - SOS阿虚</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/sosa-xu/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/sosa-xu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-03-06T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/sosa-xu/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/sosa-xu/atom.xml</id>
     <entry xml:lang="en">
         <title>吉川优子</title>
         <published>2020-03-06T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/why-yoshikawayuuko/"/>
-        <id>https://hibikilogy.github.io/why-yoshikawayuuko/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/why-yoshikawayuuko/"/>
+        <id>https://hibikilogy.vercel.app/why-yoshikawayuuko/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
 &lt;p&gt;近日观泥潭吹学新作《&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;2020&#x2F;03&#x2F;04&#x2F;qizhixianmingfanduiruhewenze&#x2F;&quot;&gt;旗帜鲜明反对《如何问责》中的部分观点--伞木希美之我见&lt;&#x2F;a&gt;》(下文中简称《反问责》)有感，故作此文。&lt;&#x2F;p&gt;
 &lt;p&gt;该文主要围绕伞木希美同志是否该为久二年北宇治高中吹奏乐止步关西大赛负责展开讨论,我本人对这个问题是持中立态度的——这段历史是由人民群众共同缔造的，非一人之责也，但若非要从中选出一个最大的责任人，那毫无疑问是伞木希美。我本对吹学思想的多样性持开放态度，可是该文在为伞木希美同志洗清罪名时，无所不用其极，尤其是在3.1伞木希美历史地位探讨中，将伞木希美排在南中四姬之首，实属一派胡言。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;heng-xiang-dui-bi-san-mu-xi-mei-de-zhen-zheng-di-wei&quot;&gt;&lt;span style=&quot;color: darkblue;&quot;&gt;横向对比-伞木希美的真正地位&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - FoffeR</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/foffer/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/foffer/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-24T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/foffer/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/foffer/atom.xml</id>
     <entry xml:lang="en">
         <title>青春真的必须要有遗憾吗？</title>
         <published>2024-06-24T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/regret/"/>
-        <id>https://hibikilogy.github.io/regret/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/regret/"/>
+        <id>https://hibikilogy.vercel.app/regret/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/regret/">&lt;h1 id=&quot;yin-yan&quot;&gt;引言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/regret/">&lt;h1 id=&quot;yin-yan&quot;&gt;引言&lt;&#x2F;h1&gt;
 &lt;p&gt;  第十二集好大的争议，甚至我在海外的同学们现在才大清早，就给我说这个，都把刚起床的我给搞懵了……&lt;&#x2F;p&gt;
 &lt;p&gt;  昨天看完后心情是能平静看待，因为也不是音乐专业嘛。所以没法发表什么专业意见～除了最后大吉山复刻，其他都看得挺舒心的。结果好家伙，大清早一爬起来，真的可以用论战概括，到处都在打架，而且出乎本人意料的是，认为改编不好的占大多数，所以试图了解了些他们的观点，和自己对比下。以下观点可能概括不全，但大致有：&lt;&#x2F;p&gt;
 &lt;ol&gt;
@@ -58,10 +58,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kuanglanbuqing2/"/>
-        <id>https://hibikilogy.github.io/kuanglanbuqing2/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kuanglanbuqing2/"/>
+        <id>https://hibikilogy.vercel.app/kuanglanbuqing2/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kuanglanbuqing2/">&lt;p&gt;  上篇聊了那么多，终究到了完结的下篇，虽然也没过那么多时间，但《吹！》给我的感觉就是葵所说的：三年很快过去了呢。 &lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kuanglanbuqing2/">&lt;p&gt;  上篇聊了那么多，终究到了完结的下篇，虽然也没过那么多时间，但《吹！》给我的感觉就是葵所说的：三年很快过去了呢。 &lt;&#x2F;p&gt;
 &lt;h1 id=&quot;mu-lu&quot;&gt;目录&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -288,10 +288,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kuanglanbuqing1/"/>
-        <id>https://hibikilogy.github.io/kuanglanbuqing1/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kuanglanbuqing1/"/>
+        <id>https://hibikilogy.vercel.app/kuanglanbuqing1/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kuanglanbuqing1/">&lt;p&gt;  老香~，想你们了呀。这是一篇来自看京吹五年作者的吹学小品，因为想掰扯掰扯京吹，也特别共情现在学生社团的不易，所以写了这篇文，希望大家读得愉快~&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kuanglanbuqing1/">&lt;p&gt;  老香~，想你们了呀。这是一篇来自看京吹五年作者的吹学小品，因为想掰扯掰扯京吹，也特别共情现在学生社团的不易，所以写了这篇文，希望大家读得愉快~&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;mu-lu&quot;&gt;目录&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;

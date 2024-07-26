@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 南中</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/nan-zhong/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/nan-zhong/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-11T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/nan-zhong/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/nan-zhong/atom.xml</id>
     <entry xml:lang="en">
         <title>北宇治往事（2）：北山泰瑠的奋斗史</title>
         <published>2024-06-11T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/bei-yu-zhi-wang-shi-2/"/>
-        <id>https://hibikilogy.github.io/bei-yu-zhi-wang-shi-2/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-2/"/>
+        <id>https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-2/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/bei-yu-zhi-wang-shi-2/">&lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;%E5%8C%97%E5%AE%87%E6%B2%BB%E5%BE%80%E4%BA%8B2&#x2F;%E5%8C%97%E5%B1%B1%E5%A4%AA%E6%83%B3%E8%BF%9B%E9%83%A8%E4%BA%86.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-2/">&lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;%E5%8C%97%E5%AE%87%E6%B2%BB%E5%BE%80%E4%BA%8B2&#x2F;%E5%8C%97%E5%B1%B1%E5%A4%AA%E6%83%B3%E8%BF%9B%E9%83%A8%E4%BA%86.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  前篇：&lt;a href=&quot;&#x2F;2024&#x2F;05&#x2F;08&#x2F;%E5%8C%97%E5%AE%87%E6%B2%BB%E5%BE%80%E4%BA%8B1&quot;&gt;北宇治往事（1）：弱势领导二三事&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  北山泰瑠（北山 タイル），黄前十五年的南中部长，带领南中勇夺金奖，一举逆转某伞时期的颓势。黄前十六年的时候，北山泰瑠带着不少南中的乐手们一同加入了北宇治吹奏部，希望一同向全国金奖发起冲击。北山泰瑠在北宇治的奋斗历程，就这样开始了。&lt;&#x2F;p&gt;
 &lt;p&gt;  全文共分四部分：&lt;&#x2F;p&gt;
@@ -129,10 +129,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kuanglanbuqing2/"/>
-        <id>https://hibikilogy.github.io/kuanglanbuqing2/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kuanglanbuqing2/"/>
+        <id>https://hibikilogy.vercel.app/kuanglanbuqing2/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kuanglanbuqing2/">&lt;p&gt;  上篇聊了那么多，终究到了完结的下篇，虽然也没过那么多时间，但《吹！》给我的感觉就是葵所说的：三年很快过去了呢。 &lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kuanglanbuqing2/">&lt;p&gt;  上篇聊了那么多，终究到了完结的下篇，虽然也没过那么多时间，但《吹！》给我的感觉就是葵所说的：三年很快过去了呢。 &lt;&#x2F;p&gt;
 &lt;h1 id=&quot;mu-lu&quot;&gt;目录&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -359,10 +359,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/xinnanzhongpaixi/"/>
-        <id>https://hibikilogy.github.io/xinnanzhongpaixi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/xinnanzhongpaixi/"/>
+        <id>https://hibikilogy.vercel.app/xinnanzhongpaixi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/xinnanzhongpaixi/">&lt;p&gt;  在《&lt;a href=&quot;&#x2F;2023&#x2F;08&#x2F;21&#x2F;qianxi_nanzhongren&#x2F;&quot;&gt;浅析南中人在北宇治的过去、现在和未来&lt;&#x2F;a&gt;》一文中，笔者认为尽管黄前十七年的史料尚未解密，但北宇治吹奏部权力博弈的惯性依然会使“新南中人”难以形成自己的派系。不过，随着黄前十七年史料的逐渐解密，这股来自黄前十四年权力博弈的惯性看起来正在逐步消散。因此，笔者在前文中所提出的观点已有脱离实际之处。为将其修正，笔者将撰写下文，以期对于“新南中人”群体的研究更加符合实际情况。全文共分四部分：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/xinnanzhongpaixi/">&lt;p&gt;  在《&lt;a href=&quot;&#x2F;2023&#x2F;08&#x2F;21&#x2F;qianxi_nanzhongren&#x2F;&quot;&gt;浅析南中人在北宇治的过去、现在和未来&lt;&#x2F;a&gt;》一文中，笔者认为尽管黄前十七年的史料尚未解密，但北宇治吹奏部权力博弈的惯性依然会使“新南中人”难以形成自己的派系。不过，随着黄前十七年史料的逐渐解密，这股来自黄前十四年权力博弈的惯性看起来正在逐步消散。因此，笔者在前文中所提出的观点已有脱离实际之处。为将其修正，笔者将撰写下文，以期对于“新南中人”群体的研究更加符合实际情况。全文共分四部分：&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;权力博弈惯性的最后一个受害者&lt;&#x2F;li&gt;
 &lt;li&gt;暗流中的义井沙里&lt;&#x2F;li&gt;
@@ -456,10 +456,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/qianxi-nanzhongren/"/>
-        <id>https://hibikilogy.github.io/qianxi-nanzhongren/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/qianxi-nanzhongren/"/>
+        <id>https://hibikilogy.vercel.app/qianxi-nanzhongren/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/qianxi-nanzhongren/">&lt;p&gt;        无论何时何地何人，研究北宇治的伟大复兴史的时候总是绕不开“南中人”这样一个群体。这个群体在北宇治史中是如此的重要以至于各路吹学研究者要么对南中群体对于北宇治的历史意义进行了着重研究，要么对一些关键的出自南中的人物进行了深入分析。前者的代表作有《&lt;a href=&quot;&#x2F;2020&#x2F;04&#x2F;24&#x2F;%E7%94%B1-%E4%B9%90%E6%AF%85%E8%AE%BA-%E5%86%8D%E8%AF%84%E5%8D%97%E4%B8%AD%E4%B9%8B%E4%B9%B1&#x2F;&quot;&gt;由〈乐毅论〉再评南中之乱&lt;&#x2F;a&gt;》，后者对伞木希美以及吉川优子的研究则更是吹学研究中的丰碑。但笔者略感遗憾的是：第一，鲜有对“南中人”这一群体的研究；第二，鲜有对黄前十六年之后的“新南中”群体进行研究，因此笔者希望以本文稍稍填补一下空白。全文共分三大部分：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/qianxi-nanzhongren/">&lt;p&gt;        无论何时何地何人，研究北宇治的伟大复兴史的时候总是绕不开“南中人”这样一个群体。这个群体在北宇治史中是如此的重要以至于各路吹学研究者要么对南中群体对于北宇治的历史意义进行了着重研究，要么对一些关键的出自南中的人物进行了深入分析。前者的代表作有《&lt;a href=&quot;&#x2F;2020&#x2F;04&#x2F;24&#x2F;%E7%94%B1-%E4%B9%90%E6%AF%85%E8%AE%BA-%E5%86%8D%E8%AF%84%E5%8D%97%E4%B8%AD%E4%B9%8B%E4%B9%B1&#x2F;&quot;&gt;由〈乐毅论〉再评南中之乱&lt;&#x2F;a&gt;》，后者对伞木希美以及吉川优子的研究则更是吹学研究中的丰碑。但笔者略感遗憾的是：第一，鲜有对“南中人”这一群体的研究；第二，鲜有对黄前十六年之后的“新南中”群体进行研究，因此笔者希望以本文稍稍填补一下空白。全文共分三大部分：&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;再议“南中之乱”&lt;&#x2F;li&gt;
 &lt;li&gt;名不副实的“南中时代”&lt;&#x2F;li&gt;
@@ -543,10 +543,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/"/>
-        <id>https://hibikilogy.github.io/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/"/>
+        <id>https://hibikilogy.vercel.app/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/">&lt;h1 id=&quot;dao-ru&quot;&gt;导入&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/">&lt;h1 id=&quot;dao-ru&quot;&gt;导入&lt;&#x2F;h1&gt;
 &lt;p&gt;自《&lt;a href=&quot;&#x2F;2019&#x2F;01&#x2F;27&#x2F;beiyuzhichuizoubuquanliboyikaocha&#x2F;&quot;&gt;北宇治吹奏部权力博弈考察&lt;&#x2F;a&gt;》一文问世来，“吹学”之风日盛。数年间，种种著作已是浩如烟海。其中不乏匕首投枪之妙笔，实乃“吹学”研究之幸。但是，仍不可否认，今日不少“吹学”著作，普遍存在一类典型问题。他们将结果单纯地归结于个人因素，而忽略历史问题的多元性。盲目的认为一个抉择，一个人物本身，就对时局的改变起到了决定性的作用。如：将责任单纯归咎于伞木希美的若干个人因素（迫伞）。割裂来看，他们似乎各有其道理，&lt;strong&gt;但是，此种唯心的英雄史观是不可取的。&lt;&#x2F;strong&gt; 纵观古今中外，此类谬误并不在少。为便于读者更切身的体会，此处我们举一个典型案例，滑铁卢战役中第二任格鲁希侯爵埃曼努尔·德格鲁希所率部队增援的历史定位。（仅仅是一个实例，&lt;strong&gt;读者可直接跳到评析部分&lt;&#x2F;strong&gt;）&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;shi-li&quot;&gt;实例&lt;&#x2F;h1&gt;
 &lt;p&gt;  只要您曾经去网上搜索过有关滑铁卢战役的评点，不难看出，在相当部分的文章中，格鲁希的增援俨然被渲染成了决定滑铁卢战役的胜负手，拿破仑在滑铁卢的饮恨，仿佛都可以归咎于格鲁希一人。&lt;&#x2F;p&gt;
@@ -650,10 +650,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/"/>
-        <id>https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/"/>
+        <id>https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;众所周知，《京吹》属于群像剧。其中监督等创作者极少发布对剧中人物的评判。因此对南中之乱的历史意义，&lt;span style=&quot;font-weight:bold&quot;&gt;大多数吹学家只是通过臆测和推论等主观方法进行研究&lt;&#x2F;span&gt;，这种研究方法毫无疑问的会产生错谬。事实上在此之前，主流吹学家一直对南中之乱，以及参与南中之乱的伞木希美持有着否定的态度。因此，从原作中找出直接证据显得尤为的重要。&lt;&#x2F;p&gt;
 &lt;p&gt;幸而，石原立也监督，在第二季第二集描述南中之乱的少数画面中，留下了《乐毅论》这个重要的线索，我们也因此能从乐毅论中，&lt;span style=&quot;font-weight:bold&quot;&gt;找到官方对“伞木希美之乱”的盖棺定论&lt;&#x2F;span&gt;，即：“伞木没有结党抱团等待三年级隐退，分裂吹奏部，而是选择退出争斗，并不是一个历史错误”。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;04&#x2F;30&#x2F;dIRKr49othCDVgm.jpg&quot; alt=&quot;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -716,10 +716,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/nan-zhong-chen-fu-lu/"/>
-        <id>https://hibikilogy.github.io/nan-zhong-chen-fu-lu/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/nan-zhong-chen-fu-lu/"/>
+        <id>https://hibikilogy.vercel.app/nan-zhong-chen-fu-lu/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/nan-zhong-chen-fu-lu/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;03&#x2F;16&#x2F;F7PVvlDsoa1zIrx.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/nan-zhong-chen-fu-lu/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;03&#x2F;16&#x2F;F7PVvlDsoa1zIrx.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  众所周知，伞木希美与其领导的南中一系，是吹学中讨论人数最多，文献资料最广，辨析思考最丰富的一大命题。不过各种讨论大多围绕着伞木希美这一南中的核心人物去剖析，却很少有对于南中这个整体进行探讨。本文将重点围绕南中系的诞生及其斗争的历程进行分析，为吹学盛世的再现做一点微不足道的贡献。&lt;&#x2F;p&gt;
 &lt;p&gt;  在开始讨论南中系之前，我们要先了解的南中系是怎样诞生的。&lt;&#x2F;p&gt;
 &lt;p&gt;  按照京吹中北宇治的地理位置，南中与北宇治有着相当长的一段距离。对于在南中就近上学的学生来说，跑去北宇治上学在通勤上有着不小的麻烦。也就是说，除非一些特殊的目的，在南中毕业选择来北宇治修读高中的寥寥无几。几个南中毕业的学生也成不了什么气候，更谈不上组建拥有相当大话语权的派系。&lt;&#x2F;p&gt;

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 舞红铃</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/wu-hong-ling/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/wu-hong-ling/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2019-03-27T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/wu-hong-ling/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/wu-hong-ling/atom.xml</id>
     <entry xml:lang="en">
         <title>希美传</title>
         <published>2019-03-27T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/nozomi/"/>
-        <id>https://hibikilogy.github.io/nozomi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/nozomi/"/>
+        <id>https://hibikilogy.vercel.app/nozomi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/nozomi/">&lt;p&gt;抱歉深夜发病，又看了一遍第二季第四话，有点新的体会，此前我们都是以黄大叔的视角来看，或者将心比心以霙的视角来看。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/nozomi/">&lt;p&gt;抱歉深夜发病，又看了一遍第二季第四话，有点新的体会，此前我们都是以黄大叔的视角来看，或者将心比心以霙的视角来看。&lt;&#x2F;p&gt;
 &lt;p&gt;那么转换立场，以伞木希美的视角来看，故事又会如何？&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;1-hui-huang-de-guo-qu-yu-ku-nan-yi-liao-zhi-wai-de-jie-ju&quot;&gt;1.辉煌的过去与苦难，意料之外的结局&lt;&#x2F;h2&gt;
 &lt;p&gt;伞木希美是个出色的女孩，这应该是南中学生的共识。&lt;&#x2F;p&gt;

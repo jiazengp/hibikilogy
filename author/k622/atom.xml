@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - K622</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/k622/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/k622/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-22T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/k622/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/k622/atom.xml</id>
     <entry xml:lang="en">
         <title>历史上的“悠风号战争”：“部长失格事件”在现实音乐史上的投影</title>
         <published>2024-04-22T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/euphoniumwar/"/>
-        <id>https://hibikilogy.github.io/euphoniumwar/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/euphoniumwar/"/>
+        <id>https://hibikilogy.vercel.app/euphoniumwar/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/euphoniumwar/">&lt;p&gt;  &lt;em&gt;&#x27;&#x27;We recognize the dictates of the baton on stage,&#x27;&#x27; one prominent member of the orchestra commented. &#x27;&#x27;But we refuse to allow Karajan to behave like a dictator offstage. That would be pure fascism.&#x27;&#x27;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/euphoniumwar/">&lt;p&gt;  &lt;em&gt;&#x27;&#x27;We recognize the dictates of the baton on stage,&#x27;&#x27; one prominent member of the orchestra commented. &#x27;&#x27;But we refuse to allow Karajan to behave like a dictator offstage. That would be pure fascism.&#x27;&#x27;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;div style=&quot;text-align:right&quot;&gt;
     &lt;span&gt;&lt;i&gt;-By R.w. Apple Jr., Special To the New York Times&lt;&#x2F;i&gt;&lt;&#x2F;span&gt;
 &lt;&#x2F;div&gt;

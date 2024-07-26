@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - Carausius</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/carausius/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/carausius/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2022-09-13T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/carausius/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/carausius/atom.xml</id>
     <entry xml:lang="en">
         <title>以历史实例解构“南中派”历史责任及久二年选曲问题——附论我和京吹的故事</title>
         <published>2022-09-13T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/"/>
-        <id>https://hibikilogy.github.io/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/"/>
+        <id>https://hibikilogy.vercel.app/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/">&lt;h1 id=&quot;dao-ru&quot;&gt;导入&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/yi-li-shi-shi-li-jie-gou-nan-zhong-pai-li-shi-ze-ren-ji-jiu-er-nian-xuan-qu-wen-ti-fu-lun-wo-he-jing-chui-de-gu-shi/">&lt;h1 id=&quot;dao-ru&quot;&gt;导入&lt;&#x2F;h1&gt;
 &lt;p&gt;自《&lt;a href=&quot;&#x2F;2019&#x2F;01&#x2F;27&#x2F;beiyuzhichuizoubuquanliboyikaocha&#x2F;&quot;&gt;北宇治吹奏部权力博弈考察&lt;&#x2F;a&gt;》一文问世来，“吹学”之风日盛。数年间，种种著作已是浩如烟海。其中不乏匕首投枪之妙笔，实乃“吹学”研究之幸。但是，仍不可否认，今日不少“吹学”著作，普遍存在一类典型问题。他们将结果单纯地归结于个人因素，而忽略历史问题的多元性。盲目的认为一个抉择，一个人物本身，就对时局的改变起到了决定性的作用。如：将责任单纯归咎于伞木希美的若干个人因素（迫伞）。割裂来看，他们似乎各有其道理，&lt;strong&gt;但是，此种唯心的英雄史观是不可取的。&lt;&#x2F;strong&gt; 纵观古今中外，此类谬误并不在少。为便于读者更切身的体会，此处我们举一个典型案例，滑铁卢战役中第二任格鲁希侯爵埃曼努尔·德格鲁希所率部队增援的历史定位。（仅仅是一个实例，&lt;strong&gt;读者可直接跳到评析部分&lt;&#x2F;strong&gt;）&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;shi-li&quot;&gt;实例&lt;&#x2F;h1&gt;
 &lt;p&gt;  只要您曾经去网上搜索过有关滑铁卢战役的评点，不难看出，在相当部分的文章中，格鲁希的增援俨然被渲染成了决定滑铁卢战役的胜负手，拿破仑在滑铁卢的饮恨，仿佛都可以归咎于格鲁希一人。&lt;&#x2F;p&gt;

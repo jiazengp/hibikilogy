@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 施瓦兴国</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/shi-wa-xing-guo/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/shi-wa-xing-guo/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-03-05T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/shi-wa-xing-guo/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/shi-wa-xing-guo/atom.xml</id>
     <entry xml:lang="en">
         <title>南中沉浮录</title>
         <published>2020-03-05T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/nan-zhong-chen-fu-lu/"/>
-        <id>https://hibikilogy.github.io/nan-zhong-chen-fu-lu/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/nan-zhong-chen-fu-lu/"/>
+        <id>https://hibikilogy.vercel.app/nan-zhong-chen-fu-lu/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/nan-zhong-chen-fu-lu/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;03&#x2F;16&#x2F;F7PVvlDsoa1zIrx.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/nan-zhong-chen-fu-lu/">&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;03&#x2F;16&#x2F;F7PVvlDsoa1zIrx.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  众所周知，伞木希美与其领导的南中一系，是吹学中讨论人数最多，文献资料最广，辨析思考最丰富的一大命题。不过各种讨论大多围绕着伞木希美这一南中的核心人物去剖析，却很少有对于南中这个整体进行探讨。本文将重点围绕南中系的诞生及其斗争的历程进行分析，为吹学盛世的再现做一点微不足道的贡献。&lt;&#x2F;p&gt;
 &lt;p&gt;  在开始讨论南中系之前，我们要先了解的南中系是怎样诞生的。&lt;&#x2F;p&gt;
 &lt;p&gt;  按照京吹中北宇治的地理位置，南中与北宇治有着相当长的一段距离。对于在南中就近上学的学生来说，跑去北宇治上学在通勤上有着不小的麻烦。也就是说，除非一些特殊的目的，在南中毕业选择来北宇治修读高中的寥寥无几。几个南中毕业的学生也成不了什么气候，更谈不上组建拥有相当大话语权的派系。&lt;&#x2F;p&gt;

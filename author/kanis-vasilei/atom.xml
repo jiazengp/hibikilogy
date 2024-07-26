@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - Kanis Vasilei</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/kanis-vasilei/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/kanis-vasilei/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-12T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/kanis-vasilei/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/kanis-vasilei/atom.xml</id>
     <entry xml:lang="en">
         <title>K. Vasilei京吹研究手稿（2）：本体论</title>
         <published>2024-06-12T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kvasileijing-chui-yan-jiu-shou-gao-2/"/>
-        <id>https://hibikilogy.github.io/kvasileijing-chui-yan-jiu-shou-gao-2/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kvasileijing-chui-yan-jiu-shou-gao-2/"/>
+        <id>https://hibikilogy.vercel.app/kvasileijing-chui-yan-jiu-shou-gao-2/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kvasileijing-chui-yan-jiu-shou-gao-2/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kvasileijing-chui-yan-jiu-shou-gao-2/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
 &lt;p&gt;本文为研究生所撰研究手稿，回顾了目前吹学关于北宇治吹奏部的本体论系统阐述，提出并论证了吹奏部在久一年到久三年革命时期实行监护权力和行政权力并行的监护政治模式，同时对领队职位对吹奏部权力生态的利弊影响进行了评析。&lt;&#x2F;p&gt;
 &lt;p&gt;关键词：吹学 本体论 监护政治&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;2-0-xie-zai-qian-mian-wei-shen-me-yao-yan-jiu-ben-ti-lun&quot;&gt;2.0 写在前面——为什么要研究本体论？&lt;&#x2F;h1&gt;
@@ -124,10 +124,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kvasileijing-chui-yan-jiu-shou-gao-1/"/>
-        <id>https://hibikilogy.github.io/kvasileijing-chui-yan-jiu-shou-gao-1/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kvasileijing-chui-yan-jiu-shou-gao-1/"/>
+        <id>https://hibikilogy.vercel.app/kvasileijing-chui-yan-jiu-shou-gao-1/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kvasileijing-chui-yan-jiu-shou-gao-1/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kvasileijing-chui-yan-jiu-shou-gao-1/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
 &lt;p&gt;本文为研究生所撰研究手稿，回顾吹学内涵，历史，研究方法，提出如下意见：&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;吹学是关于现实的学问，通过文本向现实的回归运动实现其价值；&lt;&#x2F;li&gt;

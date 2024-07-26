@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - WonderKindom</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/wonderkindom/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/wonderkindom/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-01-18T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/wonderkindom/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/wonderkindom/atom.xml</id>
     <entry xml:lang="en">
         <title>北宇治问责？！——“部长失格”黑江真由篇</title>
         <published>2024-01-18T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/buzhangshige3/"/>
-        <id>https://hibikilogy.github.io/buzhangshige3/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/buzhangshige3/"/>
+        <id>https://hibikilogy.vercel.app/buzhangshige3/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/buzhangshige3/">&lt;div style=&quot;text-align:center&quot;&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/buzhangshige3/">&lt;div style=&quot;text-align:center&quot;&gt;
     &lt;span&gt;也不是强迫你，要是真的想加入吹奏部的话，真的不需要有任何顾虑，有我们在呢。&lt;&#x2F;span&gt;
 &lt;&#x2F;div&gt;
 &lt;div style=&quot;text-align:right&quot;&gt;
@@ -243,10 +243,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/buzhangshige2/"/>
-        <id>https://hibikilogy.github.io/buzhangshige2/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/buzhangshige2/"/>
+        <id>https://hibikilogy.vercel.app/buzhangshige2/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/buzhangshige2/">&lt;div style=&quot;text-align:center&quot;&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/buzhangshige2/">&lt;div style=&quot;text-align:center&quot;&gt;
     &lt;span&gt;&lt;b&gt;だったら、部長失格やな&lt;&#x2F;b&gt;&lt;&#x2F;span&gt;
 &lt;&#x2F;div&gt;
 &lt;div style=&quot;text-align:right&quot;&gt;
@@ -374,10 +374,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/buzhangshige1/"/>
-        <id>https://hibikilogy.github.io/buzhangshige1/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/buzhangshige1/"/>
+        <id>https://hibikilogy.vercel.app/buzhangshige1/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/buzhangshige1/">&lt;div style=&quot;text-align:center&quot;&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/buzhangshige1/">&lt;div style=&quot;text-align:center&quot;&gt;
     &lt;span&gt;&lt;b&gt;だったら、部長失格やな&lt;&#x2F;b&gt;&lt;&#x2F;span&gt;
 &lt;&#x2F;div&gt;
 &lt;div style=&quot;text-align:right&quot;&gt;
@@ -508,10 +508,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/jiuwuniliu/"/>
-        <id>https://hibikilogy.github.io/jiuwuniliu/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/jiuwuniliu/"/>
+        <id>https://hibikilogy.vercel.app/jiuwuniliu/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/jiuwuniliu/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/jiuwuniliu/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;       “久五逆流”这个名字是笔者起的，是在久三年新生入部后爆发的第一个矛盾事件。因久五届新生而起的反抗事件，故称“久五逆流”。主要内容位于第二章 “秘密与庆典” 中。丽奈的高压政策引起了部分新生的畏惧和不满，甚至有部分新生打算退部。&lt;&#x2F;p&gt;
 &lt;p&gt;       我将以各角色的视角对事件进行分析，并对各位角色的行为分为五级做出一个评价。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;S（完美的）&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;

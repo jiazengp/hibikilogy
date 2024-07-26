@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 井上调</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/jing-shang-diao/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/jing-shang-diao/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-04T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/jing-shang-diao/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/jing-shang-diao/atom.xml</id>
     <entry xml:lang="en">
         <title>上梁不正下梁歪？伞木希美——久三年矛盾的根源</title>
         <published>2024-06-04T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/root-cause/"/>
-        <id>https://hibikilogy.github.io/root-cause/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/root-cause/"/>
+        <id>https://hibikilogy.vercel.app/root-cause/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/root-cause/">&lt;p&gt;  久一年伞木希美没立好规矩，上梁不正下梁歪，最终导致久三年矛盾爆发。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/root-cause/">&lt;p&gt;  久一年伞木希美没立好规矩，上梁不正下梁歪，最终导致久三年矛盾爆发。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;san-mu-gai-li-shen-me-gui-ju&quot;&gt;伞木该立什么规矩？&lt;&#x2F;h1&gt;
 &lt;p&gt;  首先日本吹奏强校几乎都是搞多次选拔，没有固定选拔更有利于磨合的说法。黑江真由转学前在清良女高，现实原型是精华女高，就是每次大活动前（包括比赛和定期公演）都进行选拔，选出座奏成员，剩下的去练习行进（舞奏），大阪强校淀工也是座奏是1军、舞奏是2军（即使这样，这些强校也仍是舞奏全国金常连），俨然大逃杀模式（误，其实还有实力更差3军初学者）。&lt;&#x2F;p&gt;
 &lt;p&gt;  附带说下，佐佐木梓所在的立华以及立华的原型橘高中，就是硬实力不足才剑走偏锋强化舞奏，武吹小说的含糊写法会让很多人误以为只是赛道不同，实际小说里也写了立华的吹奏成绩也就久〇年京都废金、久一年关西银的实力，难怪小说合奏时立华的学姐都要感慨“果然北宇治就是强”。&lt;&#x2F;p&gt;
@@ -57,10 +57,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/woodwindkumikoiii-later/"/>
-        <id>https://hibikilogy.github.io/woodwindkumikoiii-later/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/woodwindkumikoiii-later/"/>
+        <id>https://hibikilogy.vercel.app/woodwindkumikoiii-later/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/woodwindkumikoiii-later/">&lt;div style=&quot;text-align:center&quot;&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/woodwindkumikoiii-later/">&lt;div style=&quot;text-align:center&quot;&gt;
     &lt;span&gt;&lt;small&gt;仅供参考，欢迎讨论，还请各位吹学界前辈、大佬指正！仅供参考，欢迎讨论，还请各位吹学界前辈、大佬指正！&lt;&#x2F;small&gt;&lt;&#x2F;span&gt;
 &lt;&#x2F;div&gt;
 &lt;h1 id=&quot;shuo-ming&quot;&gt;说明&lt;&#x2F;h1&gt;

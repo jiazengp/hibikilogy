@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 幻羽天命</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/huan-yu-tian-ming/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/huan-yu-tian-ming/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-07-23T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/huan-yu-tian-ming/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/huan-yu-tian-ming/atom.xml</id>
     <entry xml:lang="en">
         <title>悠风行</title>
         <published>2021-07-23T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/you-feng-xing/"/>
-        <id>https://hibikilogy.github.io/you-feng-xing/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/you-feng-xing/"/>
+        <id>https://hibikilogy.vercel.app/you-feng-xing/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/you-feng-xing/">&lt;p&gt;悠风行（节选）&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/you-feng-xing/">&lt;p&gt;悠风行（节选）&lt;&#x2F;p&gt;
 &lt;p&gt;襄武侯彩羽 戏作&lt;&#x2F;p&gt;
 &lt;p&gt;盛夏少倦憩晌午，云霞明灭或可睹。&lt;&#x2F;p&gt;
 &lt;p&gt;沿溪溯源一梦追，欲寻仙乐并传杯。&lt;&#x2F;p&gt;
@@ -59,10 +59,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/huaihaizhanyi/"/>
-        <id>https://hibikilogy.github.io/huaihaizhanyi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/huaihaizhanyi/"/>
+        <id>https://hibikilogy.vercel.app/huaihaizhanyi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/huaihaizhanyi/">&lt;p&gt;改编自电影《大决战·淮海战役》&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/huaihaizhanyi/">&lt;p&gt;改编自电影《大决战·淮海战役》&lt;&#x2F;p&gt;
 &lt;p&gt;我讲过，关西大赛快不得、全国金奖拖不得。现在看来，这个话没有错，照一般规律，演奏技艺和人数不超过对方，绝不可进入全国大赛，也不尽然，泷老师上任两年多，我们滚大大了，我们吹精了，我们积累了有利决赛的条件。好比凹凸镜，向着炎炎烈日，百倍千倍的光度聚合到一点上，白热化了、冒烟了，不能不燃烧了！ &lt;&#x2F;p&gt;
 &lt;p&gt;所谓全国大赛，简单说就是赌学校的命运，赌乐团的命运，这个赌字很不好听，可又找不到一个更恰当的字代替它，就是这么一回事，啪的一下押上去了。正是因为如此，事情临到了面前，又禁不住心扑扑地跳，哪有这个道理，心慌地什么呢？我们不怕燃烧，我们不怕白热化，我们不怕烫着哪里，我们的手不能发抖啊！&lt;&#x2F;p&gt;
 </content>
@@ -81,10 +81,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/huang-qian-song/"/>
-        <id>https://hibikilogy.github.io/huang-qian-song/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/huang-qian-song/"/>
+        <id>https://hibikilogy.vercel.app/huang-qian-song/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/huang-qian-song/">&lt;p&gt;《黄前颂》&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/huang-qian-song/">&lt;p&gt;《黄前颂》&lt;&#x2F;p&gt;
 &lt;p&gt;原曲：《欢乐颂》&lt;&#x2F;p&gt;
 &lt;p&gt;作曲：路德维希·凡·贝多芬&lt;&#x2F;p&gt;
 &lt;p&gt;翻填：襄武侯彩羽&lt;&#x2F;p&gt;

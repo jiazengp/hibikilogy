@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 小日向梦</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/xiao-ri-xiang-meng/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/xiao-ri-xiang-meng/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-05-27T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/xiao-ri-xiang-meng/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/xiao-ri-xiang-meng/atom.xml</id>
     <entry xml:lang="en">
         <title>为什么历史选择了铃木美玲——久四年领队提名</title>
         <published>2024-05-27T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/whymireisuzuki/"/>
-        <id>https://hibikilogy.github.io/whymireisuzuki/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/whymireisuzuki/"/>
+        <id>https://hibikilogy.vercel.app/whymireisuzuki/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/whymireisuzuki/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/whymireisuzuki/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;  目前久三年最主要的矛盾即将到来，吧里的讨论也正当热烈，正逢武吹小说即将迎来新篇，再不下注就要收盘了，便想趁此机会提出一个似乎因为人气不是很高，少有吹学文章关注的领队候选——南中大号铃木美玲。&lt;&#x2F;p&gt;
 &lt;p&gt;  在以往的吹学文章里，关于久四年管理层的讨论以梨梨花和久石奏谁主谁副为主要议题，诞生了著名文章《&lt;a href=&quot;&#x2F;2020&#x2F;01&#x2F;07&#x2F;weishenmelishixuanzelekanade&#x2F;&quot;&gt;为什么历史选择了久石奏&lt;&#x2F;a&gt;》及其驳论文《&lt;a href=&quot;&#x2F;2020&#x2F;02&#x2F;06&#x2F;weishenmelishixuanzeleririka&#x2F;&quot;&gt;为什么剑崎梨梨花是北宇治吹奏部的下届部长？&lt;&#x2F;a&gt;》。而对于领队一职，包括《&lt;a href=&quot;&#x2F;2024&#x2F;04&#x2F;27&#x2F;xinnanzhongpaixi&#x2F;&quot;&gt;新南中派系的重振：黄前十八、十九年领导班子的确立&lt;&#x2F;a&gt;》《&lt;a href=&quot;&#x2F;2020&#x2F;02&#x2F;27&#x2F;postKumikochutan&#x2F;&quot;&gt;后黄前时代北宇治吹奏部中枢政局初探&lt;&#x2F;a&gt;》在内的文章都认为领队一职将由高坂丽奈十分重视，甚至为之组起银河战舰的小号首席后继者小日向梦担任，然而，小日向梦即便吹奏实力一流，是否能担任领队还有待商榷，举个最简单的例子，久二年王牌铠塚霙，大家能想象她担任领队一职吗？笔者觉得，小日向梦有着性格上的短板，久二年加部前辈一番苦心，才让她克服了吹奏时紧张的毛病，但其胆怯软弱的性格没有根本的转变，若没有进一步的蜕变机遇，恐怕难担此大任，《京吹群像志》中的一篇文章《&lt;a href=&quot;&#x2F;2020&#x2F;05&#x2F;05&#x2F;%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%86%E5%8F%B2%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9%E5%B0%8F%E6%97%A5%E5%90%91%E6%A2%A6&#x2F;&quot;&gt;为什么历史没有选择小日向梦&lt;&#x2F;a&gt;》，主要思想是表达了对剧情删减的惋惜，但也指出了小日向梦心理素质不佳的弱点。&lt;&#x2F;p&gt;
 &lt;p&gt;  另一方面，伟大的中川夏纪学姐早在久一年就对领队一职发表了重要见解，在谈论久一年领队为何是明日香而非晴香时，夏纪学姐答道：“晴香前辈心理素质不足”。&lt;&#x2F;p&gt;
@@ -90,10 +90,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/minyidiaocha/"/>
-        <id>https://hibikilogy.github.io/minyidiaocha/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/minyidiaocha/"/>
+        <id>https://hibikilogy.vercel.app/minyidiaocha/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/minyidiaocha/">&lt;p&gt;各部员：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/minyidiaocha/">&lt;p&gt;各部员：&lt;&#x2F;p&gt;
 &lt;p&gt;        根据《北宇治高校社团组织法》、《北宇治高校学生自治法》，吹部决定自即日起开展新一届部长人选民意调查，现将有关事项通知如下：&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;yi-diao-cha-mu-de-he-yi-yi&quot;&gt;一、调查目的和意义&lt;&#x2F;h1&gt;
 &lt;p&gt;        部长人选民意调查是一项重大的部情调查，是查实查清民心民意的重要手段，是新一届吹部领导集体换届工作的重要组成部分。&lt;&#x2F;p&gt;
@@ -138,10 +138,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/bei-yu-zhi-chui-zou-le-bu-huang-qian-shi-qi-nian-can-sai-zhen-rong-tui-ce-ji-huang-qian-shi-ba-nian-guan-li-ceng-ren-xuan-wen-ti-tao-lun/"/>
-        <id>https://hibikilogy.github.io/bei-yu-zhi-chui-zou-le-bu-huang-qian-shi-qi-nian-can-sai-zhen-rong-tui-ce-ji-huang-qian-shi-ba-nian-guan-li-ceng-ren-xuan-wen-ti-tao-lun/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/bei-yu-zhi-chui-zou-le-bu-huang-qian-shi-qi-nian-can-sai-zhen-rong-tui-ce-ji-huang-qian-shi-ba-nian-guan-li-ceng-ren-xuan-wen-ti-tao-lun/"/>
+        <id>https://hibikilogy.vercel.app/bei-yu-zhi-chui-zou-le-bu-huang-qian-shi-qi-nian-can-sai-zhen-rong-tui-ce-ji-huang-qian-shi-ba-nian-guan-li-ceng-ren-xuan-wen-ti-tao-lun/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/bei-yu-zhi-chui-zou-le-bu-huang-qian-shi-qi-nian-can-sai-zhen-rong-tui-ce-ji-huang-qian-shi-ba-nian-guan-li-ceng-ren-xuan-wen-ti-tao-lun/">&lt;h1 id=&quot;yi-xie-shuo-ming&quot;&gt;一些说明&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/bei-yu-zhi-chui-zou-le-bu-huang-qian-shi-qi-nian-can-sai-zhen-rong-tui-ce-ji-huang-qian-shi-ba-nian-guan-li-ceng-ren-xuan-wen-ti-tao-lun/">&lt;h1 id=&quot;yi-xie-shuo-ming&quot;&gt;一些说明&lt;&#x2F;h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;由于涉及久美子入学前及毕业后的事件，因此本文采用黄前纪年法。黄前十四年=“久〇年”，黄前十五年=“久一年”，如此类推。&lt;&#x2F;p&gt;
@@ -260,10 +260,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/yilvshuguang/"/>
-        <id>https://hibikilogy.github.io/yilvshuguang/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/yilvshuguang/"/>
+        <id>https://hibikilogy.vercel.app/yilvshuguang/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/yilvshuguang/">&lt;p&gt;在研究正统吹学的过程中，以下六大课题应该是任何一名吹学家都无法绕开的素材：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/yilvshuguang/">&lt;p&gt;在研究正统吹学的过程中，以下六大课题应该是任何一名吹学家都无法绕开的素材：&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;黄前十四年南中派的退部事件；&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;strong&gt;黄前十五年明日香的垂帘听政；&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
@@ -376,10 +376,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/wei-shen-me-li-shi-mei-you-xuan-ze-xiao-ri-xiang-meng/"/>
-        <id>https://hibikilogy.github.io/wei-shen-me-li-shi-mei-you-xuan-ze-xiao-ri-xiang-meng/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/wei-shen-me-li-shi-mei-you-xuan-ze-xiao-ri-xiang-meng/"/>
+        <id>https://hibikilogy.vercel.app/wei-shen-me-li-shi-mei-you-xuan-ze-xiao-ri-xiang-meng/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/wei-shen-me-li-shi-mei-you-xuan-ze-xiao-ri-xiang-meng/">&lt;p&gt;在久二年的北宇治一年生中, 有这样一位明明演奏技术高超, 但每逢正式演出就掉链子的女生。就是这样一个原本心理素质就不佳的小号担当, 参加合奏选拔名落孙山,
+        <content type="html" xml:base="https://hibikilogy.vercel.app/wei-shen-me-li-shi-mei-you-xuan-ze-xiao-ri-xiang-meng/">&lt;p&gt;在久二年的北宇治一年生中, 有这样一位明明演奏技术高超, 但每逢正式演出就掉链子的女生。就是这样一个原本心理素质就不佳的小号担当, 参加合奏选拔名落孙山,
 在动画中的剧情也被全部删减, 小日向梦, 为何历史没有选择你?&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;03&#x2F;28&#x2F;EBoW19w4ngDjV6P.jpg&quot; alt=&quot;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;strong&gt;被抛弃的新生代表&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
@@ -445,10 +445,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/"/>
-        <id>https://hibikilogy.github.io/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/"/>
+        <id>https://hibikilogy.vercel.app/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/">&lt;p&gt;（含京吹短篇集第十二章剧透）&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/">&lt;p&gt;（含京吹短篇集第十二章剧透）&lt;&#x2F;p&gt;
 &lt;p&gt;合奏比赛是京吹短篇集中颇有篇幅的一章，其中故事的主干是关西废金之后，南中帮领导的高三年级提早进入隐退状态，由黄主席为核心的内阁正式接管北宇治。为了达到练兵的目的，吹奏部分成若干小组，进行了校内的合奏比赛。优胜者能够代表学校出战京都大会。&lt;&#x2F;p&gt;
 &lt;p&gt;经过久三年内阁三人和泷升的协商，久二年合奏大赛的评定按照一般的个人喜好和专业的演奏效果，分为了一般投票和部员投票两部分。高坂队拿到了一般投票的第一，但是在部员投票上却是第四。因为部员投票决定了之后的晋级，所以高坂队最终没能冲破校内选拔。虽然武田对结果轻描淡写，但乍看之下这次失利实在是难以理解的；而一手组建并训练这支队伍的高坂丽奈本人似乎更是难辞其咎。围绕这一点，我会在此分享自己对这一结果的思考和解释。&lt;&#x2F;p&gt;
 &lt;p&gt;不过首先我想要推荐大家去看《彩吹～Ibuki》，也就是高坂队所选曲目的演奏录像。《彩吹》的演奏有很多版本，在B站上可以搜到&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1D7411a7DB&quot;&gt;青梅市立第六中学校在2016年的演奏《彩吹》录像链接&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;

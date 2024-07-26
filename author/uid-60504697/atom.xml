@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - UID:60504697</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/uid-60504697/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/uid-60504697/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-04-24T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/uid-60504697/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/uid-60504697/atom.xml</id>
     <entry xml:lang="en">
         <title>由《乐毅论》再评南中之乱</title>
         <published>2020-04-24T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/"/>
-        <id>https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/"/>
+        <id>https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/you-le-yi-lun-zai-ping-nan-zhong-zhi-luan/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;众所周知，《京吹》属于群像剧。其中监督等创作者极少发布对剧中人物的评判。因此对南中之乱的历史意义，&lt;span style=&quot;font-weight:bold&quot;&gt;大多数吹学家只是通过臆测和推论等主观方法进行研究&lt;&#x2F;span&gt;，这种研究方法毫无疑问的会产生错谬。事实上在此之前，主流吹学家一直对南中之乱，以及参与南中之乱的伞木希美持有着否定的态度。因此，从原作中找出直接证据显得尤为的重要。&lt;&#x2F;p&gt;
 &lt;p&gt;幸而，石原立也监督，在第二季第二集描述南中之乱的少数画面中，留下了《乐毅论》这个重要的线索，我们也因此能从乐毅论中，&lt;span style=&quot;font-weight:bold&quot;&gt;找到官方对“伞木希美之乱”的盖棺定论&lt;&#x2F;span&gt;，即：“伞木没有结党抱团等待三年级隐退，分裂吹奏部，而是选择退出争斗，并不是一个历史错误”。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;04&#x2F;30&#x2F;dIRKr49othCDVgm.jpg&quot; alt=&quot;1.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

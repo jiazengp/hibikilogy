@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 帆前</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/fan-qian/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/fan-qian/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-07-01T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/fan-qian/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/fan-qian/atom.xml</id>
     <entry xml:lang="en">
         <title>或缺的主题：再无“高扬感”，徒留“不甘心”</title>
         <published>2024-07-01T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/euphoria-frustrated/"/>
-        <id>https://hibikilogy.github.io/euphoria-frustrated/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/euphoria-frustrated/"/>
+        <id>https://hibikilogy.vercel.app/euphoria-frustrated/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/euphoria-frustrated/">&lt;p&gt;  “不甘心”（悔しい，苦亚西）与“高扬感”（高揚感），是京吹不可或缺的两个主题，在“高扬感”没有音乐讨论与正面情绪支持的情况下，徒留“不甘心”只会让观众也真的“不甘心”。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/euphoria-frustrated/">&lt;p&gt;  “不甘心”（悔しい，苦亚西）与“高扬感”（高揚感），是京吹不可或缺的两个主题，在“高扬感”没有音乐讨论与正面情绪支持的情况下，徒留“不甘心”只会让观众也真的“不甘心”。&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h1 id=&quot;xu-yan&quot;&gt;序言&lt;&#x2F;h1&gt;
 &lt;center&gt;北宇治奏一年诗，辗转三载岂一秋。观者熙熙奏者众，幕后人知幕前稀。&lt;&#x2F;center&gt;

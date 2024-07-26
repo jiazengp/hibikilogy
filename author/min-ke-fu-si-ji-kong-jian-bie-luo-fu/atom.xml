@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 闵可夫斯基空间、别洛夫</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/min-ke-fu-si-ji-kong-jian-bie-luo-fu/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/min-ke-fu-si-ji-kong-jian-bie-luo-fu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-21T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/min-ke-fu-si-ji-kong-jian-bie-luo-fu/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/min-ke-fu-si-ji-kong-jian-bie-luo-fu/atom.xml</id>
     <entry xml:lang="en">
         <title>为什么“北宇治一个都不能少”？</title>
         <published>2024-04-21T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/s3e03thinking1/"/>
-        <id>https://hibikilogy.github.io/s3e03thinking1/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/s3e03thinking1/"/>
+        <id>https://hibikilogy.vercel.app/s3e03thinking1/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/s3e03thinking1/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bbs.nga.cn&#x2F;read.php?&amp;amp;tid=39453882&amp;amp;pid=754826010&amp;amp;to=1&quot;&gt;闵可夫斯基空间&lt;&#x2F;a&gt;：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/s3e03thinking1/">&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bbs.nga.cn&#x2F;read.php?&amp;amp;tid=39453882&amp;amp;pid=754826010&amp;amp;to=1&quot;&gt;闵可夫斯基空间&lt;&#x2F;a&gt;：&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;bei-yu-zhi-xu-yao-jin-ke-neng-duo-de-ren-cai-chu-bei&quot;&gt;北宇治需要尽可能多的人才储备&lt;&#x2F;h1&gt;
 &lt;p&gt;  黑江佛祖的观点是“想上强度的上强度，不想上的退部就完事了，何必勉强他人呢？” 一年级部分吹奏乐新人和沙里在这一集中有类似的观点。&lt;&#x2F;p&gt;
 &lt;p&gt;  乍一看，这个观点好像非常有道理。确实，在黑江之前在的清良高中，这句话事实上完全能够成立：在清良，“你不想吹有的是帕鲁吹”并非是一句玩笑话，像清良这样的吹奏乐强校，能够吸引大量音乐特长生和有基础的爱好者。它在现实中的参照物就是大阪桐荫高中这一类的特长培养极其突出的日本高中。我认为，在这种高中，完全没有必要追求“一个都不能少”：因为这种高中的人才总是过剩的。就好比曼城或者皇马青训，会要求“一个青训球员都不能少”吗？（笑）&lt;&#x2F;p&gt;

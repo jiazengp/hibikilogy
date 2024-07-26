@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - UPeter</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/upeter/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/upeter/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-04-06T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/upeter/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/upeter/atom.xml</id>
     <entry xml:lang="en">
         <title>对高坂队在合奏比赛中失利的分析</title>
         <published>2020-04-06T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/"/>
-        <id>https://hibikilogy.github.io/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/"/>
+        <id>https://hibikilogy.vercel.app/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/">&lt;p&gt;（含京吹短篇集第十二章剧透）&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/dui-gao-ban-dui-zai-he-zou-bi-sai-zhong-shi-li-de-fen-xi/">&lt;p&gt;（含京吹短篇集第十二章剧透）&lt;&#x2F;p&gt;
 &lt;p&gt;合奏比赛是京吹短篇集中颇有篇幅的一章，其中故事的主干是关西废金之后，南中帮领导的高三年级提早进入隐退状态，由黄主席为核心的内阁正式接管北宇治。为了达到练兵的目的，吹奏部分成若干小组，进行了校内的合奏比赛。优胜者能够代表学校出战京都大会。&lt;&#x2F;p&gt;
 &lt;p&gt;经过久三年内阁三人和泷升的协商，久二年合奏大赛的评定按照一般的个人喜好和专业的演奏效果，分为了一般投票和部员投票两部分。高坂队拿到了一般投票的第一，但是在部员投票上却是第四。因为部员投票决定了之后的晋级，所以高坂队最终没能冲破校内选拔。虽然武田对结果轻描淡写，但乍看之下这次失利实在是难以理解的；而一手组建并训练这支队伍的高坂丽奈本人似乎更是难辞其咎。围绕这一点，我会在此分享自己对这一结果的思考和解释。&lt;&#x2F;p&gt;
 &lt;p&gt;不过首先我想要推荐大家去看《彩吹～Ibuki》，也就是高坂队所选曲目的演奏录像。《彩吹》的演奏有很多版本，在B站上可以搜到&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1D7411a7DB&quot;&gt;青梅市立第六中学校在2016年的演奏《彩吹》录像链接&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;

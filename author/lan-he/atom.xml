@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 兰鹤</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/lan-he/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/lan-he/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-07-01T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/lan-he/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/lan-he/atom.xml</id>
     <entry xml:lang="en">
         <title>她的眼中，究竟映照出了什么呢？</title>
         <published>2024-07-01T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/point-of-view/"/>
-        <id>https://hibikilogy.github.io/point-of-view/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/point-of-view/"/>
+        <id>https://hibikilogy.vercel.app/point-of-view/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/point-of-view/">&lt;h1 id=&quot;yin-yan&quot;&gt;引言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/point-of-view/">&lt;h1 id=&quot;yin-yan&quot;&gt;引言&lt;&#x2F;h1&gt;
 &lt;p&gt;  我们从一个“思想实验”开始∶&lt;&#x2F;p&gt;
 &lt;p&gt;  假使《吹响吧！上低音号》是一个关于A君高中社团生活的作品。Ta选择加入北宇治吹奏部。高一的社团生活是紧张匆忙的∶这里的大多数人都向往着全国金奖而进行着紧张的训练。在这一年中，辛劳的部长黄前久美子学姐……&lt;&#x2F;p&gt;
 &lt;p&gt;  然后，我们让京吹3或者武吹这一年的故事在A君的眼前发生。&lt;&#x2F;p&gt;
@@ -72,10 +72,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/contradictions/"/>
-        <id>https://hibikilogy.github.io/contradictions/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/contradictions/"/>
+        <id>https://hibikilogy.vercel.app/contradictions/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/contradictions/">&lt;p&gt;  本文仅源出于一个简单的论点：凡争论皆意味着矛盾的存在。有条理的整理出各层次的矛盾，也是有益于讨论和思想的深入发展的。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/contradictions/">&lt;p&gt;  本文仅源出于一个简单的论点：凡争论皆意味着矛盾的存在。有条理的整理出各层次的矛盾，也是有益于讨论和思想的深入发展的。&lt;&#x2F;p&gt;
 &lt;p&gt;  本文写于京吹3第13集播出前，难以准确预料到最新（也许也是最后）一集的进展及相关讨论。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;yi-chuang-zuo-dong-ji-he-si-lu-de-zheng-yi&quot;&gt;一、创作动机和思路的争议&lt;&#x2F;h1&gt;
 &lt;ol&gt;
@@ -213,10 +213,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/whichyouth/"/>
-        <id>https://hibikilogy.github.io/whichyouth/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/whichyouth/"/>
+        <id>https://hibikilogy.vercel.app/whichyouth/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/whichyouth/">&lt;p&gt;  也许正好照应了京吹三第十二集动画内部的“soli之争”剧情，京都动画自己，在现实中也面对过理念上的“soli之争”。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/whichyouth/">&lt;p&gt;  也许正好照应了京吹三第十二集动画内部的“soli之争”剧情，京都动画自己，在现实中也面对过理念上的“soli之争”。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;na-yi-chong-qing-chun&quot;&gt;哪一种青春？&lt;&#x2F;h1&gt;
 &lt;p&gt;  青春，作为一种艺术对象，其本质自然而然的来源于两个要素：其一，&lt;strong&gt;即将长大&lt;&#x2F;strong&gt;；其二，&lt;strong&gt;尚未长大&lt;&#x2F;strong&gt;。一切更复杂的议论，到头来都归结为这缠绕着的两个方面。因此，经历过种种后有了更成熟的见解，与此同时充满怀念而决然的抛下过去，是为青春；因此，耍着性子张扬着天性，表露着“大人们不会轻言的”情感，不愿意轻易投身那个“成熟的世界”，亦是青春。&lt;&#x2F;p&gt;
 &lt;p&gt;  毫无疑问，京吹（本文讨论中指涉的“京吹”，或许要特别排除《利兹与青鸟》）整个系列，都是在讲述青春的作品。因此，上述矛盾性的两个方面，就成为了永远隐含着、不可能剥离的冲突要素。&lt;&#x2F;p&gt;

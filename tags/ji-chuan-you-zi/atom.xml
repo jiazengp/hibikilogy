@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 吉川优子</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/ji-chuan-you-zi/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/ji-chuan-you-zi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-03T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/ji-chuan-you-zi/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/ji-chuan-you-zi/atom.xml</id>
     <entry xml:lang="en">
         <title>部长失格？整个吹奏部全部失格！</title>
         <published>2024-06-03T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/all-disqualified/"/>
-        <id>https://hibikilogy.github.io/all-disqualified/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/all-disqualified/"/>
+        <id>https://hibikilogy.vercel.app/all-disqualified/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/all-disqualified/">&lt;h1 id=&quot;1-long-sheng-gu-wen-shi-ge&quot;&gt;1. 泷升：顾问失格&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/all-disqualified/">&lt;h1 id=&quot;1-long-sheng-gu-wen-shi-ge&quot;&gt;1. 泷升：顾问失格&lt;&#x2F;h1&gt;
 &lt;p&gt;  过于远离群众，没有考虑下面的声音，大搞一言堂，可以说是这次矛盾的罪魁祸首。虽然从创作角度上来说，泷其实也只是个给武田打工的矛盾推手，但是从作品内部来讲，确实是不称职，不成熟，不合理的行为安排，把泷塑造成了一个专业水平很强，但是在人事上幼稚的角色。实力至上也不应该只考虑纸面吹奏上，要实实在在地能吹出来才能叫实力至上。为了过分迎合制度与评委审美，而忽悠了吹奏部内部稳定性，&lt;strong&gt;导致吹奏部仿佛空中楼阁&lt;&#x2F;strong&gt;，摇摇欲坠。泷这一波确实顾问失格！&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;2-gao-ban-li-nai-gui-mi-shi-ge&quot;&gt;2. 高坂丽奈：闺蜜失格&lt;&#x2F;h1&gt;
 &lt;p&gt;  其实包括黄前久美子在内的所有人都知道，泷在高坂丽奈的心里分量很重很重。但是让黄前久美子没想到的是，自己和泷在高坂心里的重量一比较，原来只是鸡蛋砸石头，高坂没带一点心理斗争和纠结的就选择了泷，至少在武吹是这样。京吹只要能表现出高坂其实有过纠结最后才站队泷，那高坂人设都还有得救。高坂作为黄前久美子的闺蜜兼soulmate，在关键时候没选择安慰，&lt;strong&gt;毫不犹豫地选择背对&lt;&#x2F;strong&gt;，我宣布，高坂丽奈，闺蜜失格。&lt;&#x2F;p&gt;
@@ -75,10 +75,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kuanglanbuqing2/"/>
-        <id>https://hibikilogy.github.io/kuanglanbuqing2/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kuanglanbuqing2/"/>
+        <id>https://hibikilogy.vercel.app/kuanglanbuqing2/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kuanglanbuqing2/">&lt;p&gt;  上篇聊了那么多，终究到了完结的下篇，虽然也没过那么多时间，但《吹！》给我的感觉就是葵所说的：三年很快过去了呢。 &lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kuanglanbuqing2/">&lt;p&gt;  上篇聊了那么多，终究到了完结的下篇，虽然也没过那么多时间，但《吹！》给我的感觉就是葵所说的：三年很快过去了呢。 &lt;&#x2F;p&gt;
 &lt;h1 id=&quot;mu-lu&quot;&gt;目录&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -305,10 +305,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/gedaizhirenshi/"/>
-        <id>https://hibikilogy.github.io/gedaizhirenshi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/gedaizhirenshi/"/>
+        <id>https://hibikilogy.vercel.app/gedaizhirenshi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/gedaizhirenshi/">&lt;p&gt;  历来的吹学家多集中精力讨论三代之治中历届首领在任内的贡献，却鲜有讨论吹部部长大位传承的因果、细节，以及众旁人的言行。但大位交接是权力轮转的象征，标志着老人的影响力的逐渐消退，使得后来者居上在严格的年龄制度下也成为可能。正所谓一朝天子一朝臣，无论是争夺部长大位，还是争取权臣要职，各种围绕这个目的的行动都是最能见人心性、智慧处，也是最能洞悉大局处。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/gedaizhirenshi/">&lt;p&gt;  历来的吹学家多集中精力讨论三代之治中历届首领在任内的贡献，却鲜有讨论吹部部长大位传承的因果、细节，以及众旁人的言行。但大位交接是权力轮转的象征，标志着老人的影响力的逐渐消退，使得后来者居上在严格的年龄制度下也成为可能。正所谓一朝天子一朝臣，无论是争夺部长大位，还是争取权臣要职，各种围绕这个目的的行动都是最能见人心性、智慧处，也是最能洞悉大局处。&lt;&#x2F;p&gt;
 &lt;p&gt;  久一年小笠原晴香任部长，田中明日香摄部政的局面众人皆知，因此传位时也是明日香主事，晴香从旁附和。根据武田所著《北宇治秘史·其十二》记载：&lt;&#x2F;p&gt;
 &lt;div style=&quot;width: 50%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  优子启匣取旨，以手抚台，朗然宣诏曰：“吉川优子机敏练达，克己奉公，深合朕意。着传位于吉川优子。”复问百官曰：“众卿其有异者？”群臣默不语。复曰：“然者拜。”后藤卓也宣，群臣拊掌行礼。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;gedaizhirenshi&#x2F;1%E5%90%89%E5%B7%9D%E4%BC%98%E5%AD%90%E7%99%BB%E5%9F%BA%E5%A4%A7%E5%85%B8.png&quot; alt=&quot;吉川优子登基大典&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
@@ -357,10 +357,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/lishidechelun/"/>
-        <id>https://hibikilogy.github.io/lishidechelun/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/lishidechelun/"/>
+        <id>https://hibikilogy.vercel.app/lishidechelun/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/lishidechelun/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/lishidechelun/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
 &lt;p&gt;       本文对北宇治吹奏部在黄前十五至十七年的主要领导人进行了比较和分析。我们采用着重性格特质的方式，试图构建较为简单的分析框架。利用这一分析框架，我们可以对吹奏部历史上的重要事件有更多的理解。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;1-yin-yan&quot;&gt;1. 引言&lt;&#x2F;h1&gt;
 &lt;p&gt;       正如伯利克里所说，”我们不会说，一个对政治毫无兴趣的人是一个专注于自己事务的人；我们说，他在这里根本就没有立足之地“，北宇治吹奏部的发展，正是交织着一个又一个政治斗争的历程。这些对权力的角逐、对正义的攻辩、对感情的争夺，不仅贯穿了吹奏部每一次重大决策和转折中，而且也影响了吹奏部每个部员的生活点滴。其中，部长，或者说领导人，始终是题中之要。围绕部长的权力，有本代领导班子的博弈，有下代候选人的比拼，更有生杀予夺的日常。关于吹奏部在黄前十四-黄前十七年（也即久〇-久三年）众多纷繁复杂的问题，例如田中明日香的权力问题、伞木希美的功过问题等等，如果我们建立在对部长本身有更强的认识的基础上，这些都能获得更好的理解。吹奏部的组织，本质上讲是封建的。部员可以自愿退出，是对部内领导权力最基本的限制。但对于很难有从头再来机会的多数部员来说，想要限制权力十分困难。指导老师的意见，可以看做是独立的裁判权，是对部长的制衡，但老师并没有以吹奏部的名义作决定的正当性。因此可以说，部长的权力很大。而部长在行使权力的时候，既作为领导，也作为个人。站在吹奏部的角度看，铁打的营盘流水的兵，需要的是持续不断的生命力；而站在部长的角度看，柳暗花明又一村，人生不会止步于吹奏部。面对这样不完全一致的目的，不同的部长如何不同地行使权力，就影响了吹奏部不同的前进方向。本文即旨在通过分析黄前十五-黄前十七年这三代部长在个人特质上的不同，包括主观性格能力和客观机遇条件等，讨论她们如何不同地行使权力，以及这样的后果。&lt;&#x2F;p&gt;
@@ -412,10 +412,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/qianxi-nanzhongren/"/>
-        <id>https://hibikilogy.github.io/qianxi-nanzhongren/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/qianxi-nanzhongren/"/>
+        <id>https://hibikilogy.vercel.app/qianxi-nanzhongren/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/qianxi-nanzhongren/">&lt;p&gt;        无论何时何地何人，研究北宇治的伟大复兴史的时候总是绕不开“南中人”这样一个群体。这个群体在北宇治史中是如此的重要以至于各路吹学研究者要么对南中群体对于北宇治的历史意义进行了着重研究，要么对一些关键的出自南中的人物进行了深入分析。前者的代表作有《&lt;a href=&quot;&#x2F;2020&#x2F;04&#x2F;24&#x2F;%E7%94%B1-%E4%B9%90%E6%AF%85%E8%AE%BA-%E5%86%8D%E8%AF%84%E5%8D%97%E4%B8%AD%E4%B9%8B%E4%B9%B1&#x2F;&quot;&gt;由〈乐毅论〉再评南中之乱&lt;&#x2F;a&gt;》，后者对伞木希美以及吉川优子的研究则更是吹学研究中的丰碑。但笔者略感遗憾的是：第一，鲜有对“南中人”这一群体的研究；第二，鲜有对黄前十六年之后的“新南中”群体进行研究，因此笔者希望以本文稍稍填补一下空白。全文共分三大部分：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/qianxi-nanzhongren/">&lt;p&gt;        无论何时何地何人，研究北宇治的伟大复兴史的时候总是绕不开“南中人”这样一个群体。这个群体在北宇治史中是如此的重要以至于各路吹学研究者要么对南中群体对于北宇治的历史意义进行了着重研究，要么对一些关键的出自南中的人物进行了深入分析。前者的代表作有《&lt;a href=&quot;&#x2F;2020&#x2F;04&#x2F;24&#x2F;%E7%94%B1-%E4%B9%90%E6%AF%85%E8%AE%BA-%E5%86%8D%E8%AF%84%E5%8D%97%E4%B8%AD%E4%B9%8B%E4%B9%B1&#x2F;&quot;&gt;由〈乐毅论〉再评南中之乱&lt;&#x2F;a&gt;》，后者对伞木希美以及吉川优子的研究则更是吹学研究中的丰碑。但笔者略感遗憾的是：第一，鲜有对“南中人”这一群体的研究；第二，鲜有对黄前十六年之后的“新南中”群体进行研究，因此笔者希望以本文稍稍填补一下空白。全文共分三大部分：&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;再议“南中之乱”&lt;&#x2F;li&gt;
 &lt;li&gt;名不副实的“南中时代”&lt;&#x2F;li&gt;
@@ -499,10 +499,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/"/>
-        <id>https://hibikilogy.github.io/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/"/>
+        <id>https://hibikilogy.vercel.app/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/">&lt;h1 id=&quot;yi-quan-li-lai-yuan&quot;&gt;一、权力来源&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/qian-tan-ji-chuan-you-zi-yu-bei-yu-zhi-chui-zou-bu-zheng-ti-yan-bian/">&lt;h1 id=&quot;yi-quan-li-lai-yuan&quot;&gt;一、权力来源&lt;&#x2F;h1&gt;
 &lt;p&gt;吉川优子的部长之位来自小笠原晴香朝的真正核心田中明日香的强烈要求，最终由三香共同授权，可谓根正苗红的正统继承人（相比之下小笠原更像是临危授命被推上去顶吉祥物）。三香本身在小笠原朝拥有无可比拟的影响力，几乎覆盖整个社团，因此她们授权的部长就像德高望重的老皇帝任命的太子，上位基本无可置疑。&lt;&#x2F;p&gt;
 &lt;p&gt;优子的上位既有自身的努力，又有明日香的慧眼和三香间的信任。根据短篇《犬猿之交》，优子自来熟的性格让她交到了不少朋友，而且颇受异性欢迎。根据《波乱的第二乐章》中加部友惠的回忆，优子入部的第一年就和香织一起帮助有困难的部员，积累了不少人望。在“香织派”遍布整个吹奏部的局面下，优子成了香织派名副其实的二号人物。在“伞木希美”之乱后，优子还成了南中派残党的领袖。即使伞木希美回归也不得不被优子的领导气质折服，奉优子为首。一旦三香毕业，“优子派”势必成为吹奏部第一大派。这也是明日香立优子为继承人的最重要原因。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;er-ji-quan-di-guo&quot;&gt;二、集权帝国&lt;&#x2F;h1&gt;
@@ -535,10 +535,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/why-yoshikawayuuko/"/>
-        <id>https://hibikilogy.github.io/why-yoshikawayuuko/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/why-yoshikawayuuko/"/>
+        <id>https://hibikilogy.vercel.app/why-yoshikawayuuko/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
 &lt;p&gt;近日观泥潭吹学新作《&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;2020&#x2F;03&#x2F;04&#x2F;qizhixianmingfanduiruhewenze&#x2F;&quot;&gt;旗帜鲜明反对《如何问责》中的部分观点--伞木希美之我见&lt;&#x2F;a&gt;》(下文中简称《反问责》)有感，故作此文。&lt;&#x2F;p&gt;
 &lt;p&gt;该文主要围绕伞木希美同志是否该为久二年北宇治高中吹奏乐止步关西大赛负责展开讨论,我本人对这个问题是持中立态度的——这段历史是由人民群众共同缔造的，非一人之责也，但若非要从中选出一个最大的责任人，那毫无疑问是伞木希美。我本对吹学思想的多样性持开放态度，可是该文在为伞木希美同志洗清罪名时，无所不用其极，尤其是在3.1伞木希美历史地位探讨中，将伞木希美排在南中四姬之首，实属一派胡言。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;heng-xiang-dui-bi-san-mu-xi-mei-de-zhen-zheng-di-wei&quot;&gt;&lt;span style=&quot;color: darkblue;&quot;&gt;横向对比-伞木希美的真正地位&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
@@ -583,10 +583,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/yuuko-era/"/>
-        <id>https://hibikilogy.github.io/yuuko-era/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/yuuko-era/"/>
+        <id>https://hibikilogy.vercel.app/yuuko-era/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/yuuko-era/">&lt;h2 id=&quot;yi&quot;&gt;（一）&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/yuuko-era/">&lt;h2 id=&quot;yi&quot;&gt;（一）&lt;&#x2F;h2&gt;
 &lt;p&gt;　　近年来渐产生一种论调。以为伞木希美在吉川内阁中举足轻重，其作风行为亦对黄前十六年的北宇治吹奏部影响颇深，乃至直接导致了北宇治吹奏部在关西大赛上的失利。笔者以为，这着实有些言过其实。忽视了伞木希美从黄前十四年到黄前十六年政治地位上的巨大变化。会计职在三香时代虽贵为三职之一，黄前治时却已沦为普通事务职。伞木的会计虽不能说不足为道，但其权位恩威也远不能和香织并论。至于笛部副首席，更是恰如其分地折射了伞木在吹奏部的尴尬地位。诚然伞木希美之乱时吹部离散了大批潜在的日后中坚，无勋而立居高位亦不利于吹部人心的凝聚，其与铠冢霙的私情更直接影响了自选曲及自选曲的演奏效果。但这些问题实质上都不是北宇治折戟关西的决定因素，而是金奖之师可以克服但北宇治并未克服的“困难”。是的，甚至伞木希美本人，在黄前十六年，也是一个可以克服而未克服的困难。&lt;&#x2F;p&gt;
 &lt;p&gt;　　在滚滚的历史长河中，每一重当前的事件总能在之前的历史中找到对应或是镜影。当代史即便不是古代史的重复，也总可以被视为去故历史的再生或是投影。笔者虽不秉持英雄史观，但纵观历史，我们总能看到一位位优秀或平庸的统治者对其所引导的历史事件的影响是多么深刻。忽视人的主观能动性，实质就是忽略了历史的能动性，将一切历史事件粗暴归结于决定论。同时，历史发展的脉络总是波浪式前进、螺旋式上升的。因此，即便一时有了挫折或倒退，也并不代表其所导向的道路与方向是错谬或歧路，亦可能只是必经的反复或路线的激进与保守。事实上，促成美好的愿景实现的发展动力实际正隐藏在这些挫折和倒退的反动背后。&lt;&#x2F;p&gt;
 &lt;p&gt;　　回到黄前十六年的北宇治吹奏部。这一年的吹奏部，最终所取得的成绩不仅远小于“黄前执政“的黄前十七年的，亦逊色于三香执政的黄前十五年。为何在三香·泷变法一年后，北宇治吹奏部的实力反而退步了呢？&lt;&#x2F;p&gt;
@@ -616,10 +616,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/weishenmelishixuanzelekanade/"/>
-        <id>https://hibikilogy.github.io/weishenmelishixuanzelekanade/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/weishenmelishixuanzelekanade/"/>
+        <id>https://hibikilogy.vercel.app/weishenmelishixuanzelekanade/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/weishenmelishixuanzelekanade/">&lt;p&gt;众所周知，黄前部长的位子是由北宇智吹奏部前副部长，低音部部长田中部长隔代指定的。但田中部长的继任——以南中出身的吉田&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;部长和中川副部长为首的第二任领导班子没有完成上任以后的金奖口号，在部内权威大打折扣，最终甚至没有隔代指定吹奏部的部长，从而把这个权力留给了现任的黄前部长。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/weishenmelishixuanzelekanade/">&lt;p&gt;众所周知，黄前部长的位子是由北宇智吹奏部前副部长，低音部部长田中部长隔代指定的。但田中部长的继任——以南中出身的吉田&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;部长和中川副部长为首的第二任领导班子没有完成上任以后的金奖口号，在部内权威大打折扣，最终甚至没有隔代指定吹奏部的部长，从而把这个权力留给了现任的黄前部长。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;03&#x2F;11&#x2F;E9wNlnSti3RdoBG.png&quot; alt=&quot;01.png&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;黄前部长究竟会选择谁来当下一任的吹奏部长，这一直是我们关注的问题。但实际上回顾黄前的晋升道路，就不难得出结论——久石奏是黄前部长的不二人选。&lt;&#x2F;p&gt;
 &lt;p&gt;黄前部长在高二时被委以重任，和吉田&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;部长的心腹加部学姐一起负责带领当时的一年级新生，这是对黄前部长的历练，也培养了她在后辈中的威望。而另一方面让自己的心腹能盯住这位自己的继任者，以防黄前过早地拥有让吹奏部上令不达的小圈子。但现在看来这是白费心机了，黄前部长在高二时潜心经营低音部一年，使低音部紧紧围绕在黄前身边，这是黄前部长顺利继任的底牌之一。&lt;&#x2F;p&gt;

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://hibikilogy.github.io/sitemap.xml
+Sitemap: https://hibikilogy.vercel.app//sitemap.xml

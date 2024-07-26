@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 知乎</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/zhi-hu/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/zhi-hu/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-28T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/zhi-hu/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/zhi-hu/atom.xml</id>
     <entry xml:lang="en">
         <title>从京吹3第12集谈“什么才是特别的人？”</title>
         <published>2024-06-28T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/who-is-special/"/>
-        <id>https://hibikilogy.github.io/who-is-special/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/who-is-special/"/>
+        <id>https://hibikilogy.vercel.app/who-is-special/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/who-is-special/">&lt;h1 id=&quot;wo-de-guan-dian&quot;&gt;我的观点&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/who-is-special/">&lt;h1 id=&quot;wo-de-guan-dian&quot;&gt;我的观点&lt;&#x2F;h1&gt;
 &lt;p&gt;  我给京吹这集的改编打满分，我好久没哭得这么稀里哗啦了。按关系亲疏来投票谁都做得到，&lt;strong&gt;为了信念亲手将挚爱送上断头台的勇气却不是谁都有的。能做得到这一点的，才是特别的人。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  我上周看完京吹3第11集时写了京阿尼改编的逻辑，我猜到了久美子在选拔前会和真由讲清楚，也随口一说真由就算开大从久美子身上碾过去也无所谓，但我是真心没想到京阿尼真的敢让真由开大。（详见：&lt;a href=&quot;&#x2F;2024&#x2F;06&#x2F;16&#x2F;difference&#x2F;&quot;&gt;从京吹3第11集谈黑江真由与黄前久美子的分歧&lt;&#x2F;a&gt;）&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;shen-me-shi-te-bie-de-ren&quot;&gt;什么是“特别的人”？&lt;&#x2F;h1&gt;
@@ -151,10 +151,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/difference/"/>
-        <id>https://hibikilogy.github.io/difference/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/difference/"/>
+        <id>https://hibikilogy.vercel.app/difference/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/difference/">&lt;p&gt;  长话短说，我对京阿尼的改动比较满意，解决了武吹的几个问题。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/difference/">&lt;p&gt;  长话短说，我对京阿尼的改动比较满意，解决了武吹的几个问题。&lt;&#x2F;p&gt;
 &lt;p&gt;  京吹改到E11后，真由的行动逻辑是比较清晰且可以自洽的。从观众的上帝视角看，真由是真的不在意吹不吹soli的，她甚至连加不加入吹部都不在意。她只是觉得吹乐器是一个能快速建立共同语言，拉近与新同学的距离的工具。目前我们已知两个信息：第一真由不在意soli，第二久美子知道真由的演奏水平很不错。所以在soli选拔问题上，真由有且仅有两个选择：要么是&lt;strong&gt;像久二年的奏一样直接在选拔时放水&lt;&#x2F;strong&gt;，要么是&lt;strong&gt;征求久美子的意见&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
 &lt;p&gt;  先说奏的那个做法。久美子显然对这个做法是极其不满意的，否则也不会有冒着大雨去追奏的桥段。这种做法类似于明日香学姐差点退部的那时，就是自己选择了一条自认为“没有人会受伤”的道路，但实际上会让其他人有“你为什么不来征求我们的意见而是自说自话的就做了决定？”、“我们不是朋友吗？”之类的想法。从实际情况来看，久美子一直不接受这种自说自话，所以她穷尽心力把明日香和奏都拉了回来，不允许她们掉队。我认为从安排上，既然已经有了两个主要角色搞过这种自说自话的操作，那么如果真由还这么搞，那就多余在第三季再引入这么个全新的角色，太老套了。所以真由不愿意，也不能选奏的这种直接放水的选项。&lt;&#x2F;p&gt;
 &lt;p&gt;  所以真由选了另一条路，就是直接问久美子，你究竟想要什么？这是在充分尊重久美子的意见，因为不打招呼就直接放水，会让久美子认为真由是在侮辱她，侮辱她的实力，也侮辱她北宇治必须实力至上的信念。所以此时需要做选择题的不是真由，反而是久美子。久美子面前有三个选项：&lt;&#x2F;p&gt;
@@ -192,10 +192,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/zhihu-366903691-1041194637/"/>
-        <id>https://hibikilogy.github.io/zhihu-366903691-1041194637/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/zhihu-366903691-1041194637/"/>
+        <id>https://hibikilogy.vercel.app/zhihu-366903691-1041194637/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/zhihu-366903691-1041194637/">&lt;h1 id=&quot;lun-huang-qian-tong-zhi-de-gao-zhan-yuan-zhu-dai-ling-wo-men-shi-ye-ji-wang-kai-lai&quot;&gt;论黄前同志的高瞻远瞩带领我们事业继往开来&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/zhihu-366903691-1041194637/">&lt;h1 id=&quot;lun-huang-qian-tong-zhi-de-gao-zhan-yuan-zhu-dai-ling-wo-men-shi-ye-ji-wang-kai-lai&quot;&gt;论黄前同志的高瞻远瞩带领我们事业继往开来&lt;&#x2F;h1&gt;
 &lt;p&gt;一些刚升上来的小同志能力很不错，有着这么多新鲜血液的加入，我想我们的事业必定会取得显著的进展，其中久石奏同志，美玲同志都是很突出的嘛，有能力有想法。但是我们内部就有其他同志反应了，奏同志还需要加强自我作风的建设，不应该激发与其他同志的矛盾，有问题应该多和气交流，不要阴阳怪气。还有美玲同志，不要搞孤立，搞特殊嘛。 &lt;&#x2F;p&gt;
 &lt;p&gt;黄前同志时刻关心我们集体每一位同志的状态，及时发现了这些苗头，并予以疏导，避免了一些很不好的事情发生。例如， 在Sunrise Festival期间，美玲同志闹了一些小脾气，想放弃自己的工作，大家就很担心了，我们是一个集体，今天美玲同志这样，明天其他同志那样，那我们的事业，我们的目标，如何才能稳步前进呢。就在这时候，黄前同志站了出来，对小同志进行了教育，希望小同志不要歧视他人，也不要觉得是大家在孤立她，大家都还是很关心美玲同志的。最后在黄前同志的帮助下，美玲同志通过自我建设，走出了心理障碍，我们在Sunrise Festival也因此取得了不错的成绩。 &lt;&#x2F;p&gt;
 &lt;p&gt;又例如久石奏同志，业务能力很突出，但是与个别同志相处不好，有时候心高气傲，瞧不起有些老同志，同时不愿意和其他同志交流自己的想法。某次全国大赛出场人员内部选拔，久石奏同志，因还害怕老同志的一些言论，就畏首畏尾，在选拔时候想退缩，把名额让给老同志。这样是很不好的，我们是先进的集体，怎么能被这些老旧落后的风气影响呢。黄前同志和夏纪同志及时阻止了奏同志的不良行为，并予以严厉的批评。后来，黄前同志又不顾自己身体的健康，冒着大雨找到奏同志，与之交心详谈，教导一些人生的经验，希望她先抛弃杂念，不要受以前自己单位风气的侵蚀，要坚持自我，艰苦奋斗，终究我们的努力会有回报的。久石奏同志听了这些，内心受到了很大的启发，最终鼓起了自己的斗志，在选拔上发挥了自己正常的水平，最后也成功入选了全国大赛竞赛组。 &lt;&#x2F;p&gt;

@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 老仓唯</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/lao-cang-wei/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/lao-cang-wei/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-01-24T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/lao-cang-wei/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/lao-cang-wei/atom.xml</id>
     <entry xml:lang="en">
         <title>吉川优子时代的北宇治吹奏部政治得失（未完结）</title>
         <published>2020-01-24T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/yuuko-era/"/>
-        <id>https://hibikilogy.github.io/yuuko-era/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/yuuko-era/"/>
+        <id>https://hibikilogy.vercel.app/yuuko-era/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/yuuko-era/">&lt;h2 id=&quot;yi&quot;&gt;（一）&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/yuuko-era/">&lt;h2 id=&quot;yi&quot;&gt;（一）&lt;&#x2F;h2&gt;
 &lt;p&gt;　　近年来渐产生一种论调。以为伞木希美在吉川内阁中举足轻重，其作风行为亦对黄前十六年的北宇治吹奏部影响颇深，乃至直接导致了北宇治吹奏部在关西大赛上的失利。笔者以为，这着实有些言过其实。忽视了伞木希美从黄前十四年到黄前十六年政治地位上的巨大变化。会计职在三香时代虽贵为三职之一，黄前治时却已沦为普通事务职。伞木的会计虽不能说不足为道，但其权位恩威也远不能和香织并论。至于笛部副首席，更是恰如其分地折射了伞木在吹奏部的尴尬地位。诚然伞木希美之乱时吹部离散了大批潜在的日后中坚，无勋而立居高位亦不利于吹部人心的凝聚，其与铠冢霙的私情更直接影响了自选曲及自选曲的演奏效果。但这些问题实质上都不是北宇治折戟关西的决定因素，而是金奖之师可以克服但北宇治并未克服的“困难”。是的，甚至伞木希美本人，在黄前十六年，也是一个可以克服而未克服的困难。&lt;&#x2F;p&gt;
 &lt;p&gt;　　在滚滚的历史长河中，每一重当前的事件总能在之前的历史中找到对应或是镜影。当代史即便不是古代史的重复，也总可以被视为去故历史的再生或是投影。笔者虽不秉持英雄史观，但纵观历史，我们总能看到一位位优秀或平庸的统治者对其所引导的历史事件的影响是多么深刻。忽视人的主观能动性，实质就是忽略了历史的能动性，将一切历史事件粗暴归结于决定论。同时，历史发展的脉络总是波浪式前进、螺旋式上升的。因此，即便一时有了挫折或倒退，也并不代表其所导向的道路与方向是错谬或歧路，亦可能只是必经的反复或路线的激进与保守。事实上，促成美好的愿景实现的发展动力实际正隐藏在这些挫折和倒退的反动背后。&lt;&#x2F;p&gt;
 &lt;p&gt;　　回到黄前十六年的北宇治吹奏部。这一年的吹奏部，最终所取得的成绩不仅远小于“黄前执政“的黄前十七年的，亦逊色于三香执政的黄前十五年。为何在三香·泷变法一年后，北宇治吹奏部的实力反而退步了呢？&lt;&#x2F;p&gt;
@@ -53,10 +53,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/beiyuzhichuizoubuquanliboyikaocha/"/>
-        <id>https://hibikilogy.github.io/beiyuzhichuizoubuquanliboyikaocha/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/beiyuzhichuizoubuquanliboyikaocha/"/>
+        <id>https://hibikilogy.vercel.app/beiyuzhichuizoubuquanliboyikaocha/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/beiyuzhichuizoubuquanliboyikaocha/">&lt;h2 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/beiyuzhichuizoubuquanliboyikaocha/">&lt;h2 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h2&gt;
 &lt;p&gt;近世的研究者对黄前久美子带领北宇治吹奏部于全国大赛一鸣惊人的研究，多集中于黄前十七岁一年，而忽视了小笠原晴香、吉川优子两年执政对北宇治吹奏部的影响与变革。其实黄前久美子十七岁时北宇治吹奏部发生的变革，其绝大部分（如果不说全部）的基础与源头都早在十五年、甚至更早的十四年时种下。因此，若想了解北宇治吹奏部在黄前久美子带领下伟大复兴的奥秘，对其前两年北宇治吹奏部政治运作与演化的研究是必要且必须的。&lt;&#x2F;p&gt;
 &lt;p&gt;北宇治吹奏部在黄前十五年、十六年两年的事迹，过去多依武田绫乃的《北宇治纪事》（平成癸巳宝岛刻本）。但依近年的研究，《北宇治纪事》多有纰漏不实演绎之处，真实性反不如后出的花田十辉的《北宇治演奏本末》（平成乙未京都刻本）和山田尚子的《伞木希美年谱》（平成丁酉松竹本，今仅存后三十页）。所以拙作正文叙事皆以京都本与松竹本为本，不足处再佐以宝岛本或其他史料。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;xu-huang-qian-shi-wu-nian&quot;&gt;序.黄前十五年&lt;&#x2F;h2&gt;

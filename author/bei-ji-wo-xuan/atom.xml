@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 北极涡旋</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/bei-ji-wo-xuan/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/bei-ji-wo-xuan/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-14T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/bei-ji-wo-xuan/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/bei-ji-wo-xuan/atom.xml</id>
     <entry xml:lang="en">
         <title>关于久一年首席会议前后的一些观察</title>
         <published>2024-06-14T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/"/>
-        <id>https://hibikilogy.github.io/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/"/>
+        <id>https://hibikilogy.vercel.app/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;%E5%85%B3%E4%BA%8E%E4%B9%85%E4%B8%80%E5%B9%B4%E9%A6%96%E5%B8%AD%E4%BC%9A%E8%AE%AE%E5%89%8D%E5%90%8E%E7%9A%84%E4%B8%80%E4%BA%9B%E8%A7%82%E5%AF%9F&#x2F;%E5%8C%97%E5%AE%87%E6%B2%BB%E5%90%B9%E5%A5%8F%E4%B9%90%E9%83%A8%E5%A3%B0%E9%83%A8%E9%95%BF%E4%BC%9A%E8%AE%AE%E4%B9%85%E4%B8%80%E5%B9%B4.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  久一年的首席（part leader）会议事件，发生在动画第一季第三集到第四集之间，篇幅不算太长，但其通过大量细节所反映的信息、剧情安排所隐含的逻辑，是值得深入探索的。甚至可以说，只有理解了久一年的这次首席会议，才能理解京吹隐藏在少女故事下的严肃内核。而再考虑到首席会议事件是动画原创剧情（原作小说中没有首席会议，前两次合奏所引发的冲突只一笔带过），就足以让我们注意到制作者的良苦用心。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;yi-yi-xie-qian-ti&quot;&gt;一、一些前提&lt;&#x2F;h1&gt;

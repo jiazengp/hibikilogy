@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 喜欢蛋白质的RNA</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/xi-huan-dan-bai-zhi-de-rna/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/xi-huan-dan-bai-zhi-de-rna/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-23T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/xi-huan-dan-bai-zhi-de-rna/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/xi-huan-dan-bai-zhi-de-rna/atom.xml</id>
     <entry xml:lang="en">
         <title>关于久三年全国赛上低音号选拔的音乐表现，一位中音二胡手的个人愚见</title>
         <published>2024-06-23T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/personalopinion/"/>
-        <id>https://hibikilogy.github.io/personalopinion/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/personalopinion/"/>
+        <id>https://hibikilogy.vercel.app/personalopinion/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/personalopinion/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/personalopinion/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;  下午有事没第一时间看，一看群里都炸了，一问原来是盲选soli选拔。被剧透了最后是真由选上了，但没被剧透第一个和第二个哪个是真由哪个是久美子。&lt;&#x2F;p&gt;
 &lt;p&gt;  于是我决定先听soli选拔的部分，先做出自己的选择，再去看剧情。&lt;&#x2F;p&gt;
 &lt;p&gt;  我个人二胡业余十级，混过几年&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;baike.baidu.com&#x2F;item&#x2F;%E6%B0%91%E4%B9%90%E5%9B%A2&quot;&gt;中乐团&lt;&#x2F;a&gt;，而且负责的是中胡（&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;baike.baidu.com&#x2F;item&#x2F;%E4%B8%AD%E8%83%A1&#x2F;&quot;&gt;中音二胡&lt;&#x2F;a&gt;，比二胡低5度），&lt;strong&gt;中胡在中乐团和中国传统交响乐中的角色和上低音号很相似&lt;&#x2F;strong&gt;（这也是我从京吹这部番里找到很多共鸣的原因）。不过我毕竟不是音乐专业，乐理也只懂皮毛，因此本文仅代表业余的本人看法。&lt;&#x2F;p&gt;

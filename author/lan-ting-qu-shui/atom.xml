@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 兰亭曲水</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/lan-ting-qu-shui/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/lan-ting-qu-shui/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-05T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/lan-ting-qu-shui/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/lan-ting-qu-shui/atom.xml</id>
     <entry xml:lang="en">
         <title>波澜不惊的黄前十六年</title>
         <published>2024-04-05T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/omae-s16th/"/>
-        <id>https://hibikilogy.github.io/omae-s16th/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/omae-s16th/"/>
+        <id>https://hibikilogy.vercel.app/omae-s16th/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/omae-s16th/">&lt;h1 id=&quot;mu-lu&quot;&gt;目录&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/omae-s16th/">&lt;h1 id=&quot;mu-lu&quot;&gt;目录&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;一、黄前部长&lt;&#x2F;li&gt;
 &lt;li&gt;二、领队高坂丽奈&lt;&#x2F;li&gt;

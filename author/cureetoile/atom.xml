@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - CureEtoile</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/cureetoile/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/cureetoile/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2020-03-05T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/cureetoile/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/cureetoile/atom.xml</id>
     <entry xml:lang="en">
         <title>摒弃吹学史观，用青学的视角来解构《利兹与青鸟》</title>
         <published>2020-03-05T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/qingxueshijiao/"/>
-        <id>https://hibikilogy.github.io/qingxueshijiao/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/qingxueshijiao/"/>
+        <id>https://hibikilogy.vercel.app/qingxueshijiao/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/qingxueshijiao/">&lt;p&gt;我接触京吹这个系列比较晚，也很少和别人讨论过这个系列的作品。在接触了吹学以后，发现很多人都通过中国的特色文化对京吹这部作品做出了不同的解读，我看的也十分开心。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/qingxueshijiao/">&lt;p&gt;我接触京吹这个系列比较晚，也很少和别人讨论过这个系列的作品。在接触了吹学以后，发现很多人都通过中国的特色文化对京吹这部作品做出了不同的解读，我看的也十分开心。&lt;&#x2F;p&gt;
 &lt;p&gt;但是京吹毕竟是一个描述高中青春社团生活的作品，高中生之间的人际关系，真的有吹学视角下描绘那么的复杂吗？回想我高中自己在乐团的亲身经历(姑且我还曾算个声部长)，曾想过什么乐团是部长集权制，还是声部议会制吗？曾想过大赛不利问责于谁吗？&lt;&#x2F;p&gt;
 &lt;p&gt;全部从吹学角度出发来解读虽然有趣，但是也未必能正确解读作品。也会丧失原作中很多其他的细节和乐趣。现在nga对于京吹的讨论大多都是吹学，我想作为一个百合厨&#x2F;曾是高中乐团成员的角度，从作品本身出发，来说一说自己发现的利兹与青鸟中的一些细节和个人的观点。&lt;&#x2F;p&gt;
 &lt;p&gt;这些想法有部分是受到推特和pixiv的太太们启发，还有很多可能是被人提过的过时之谈，请大家多包容。&lt;&#x2F;p&gt;

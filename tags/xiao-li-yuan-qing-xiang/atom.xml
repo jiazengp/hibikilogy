@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 小笠原晴香</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/xiao-li-yuan-qing-xiang/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/xiao-li-yuan-qing-xiang/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-06-14T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/xiao-li-yuan-qing-xiang/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/xiao-li-yuan-qing-xiang/atom.xml</id>
     <entry xml:lang="en">
         <title>关于久一年首席会议前后的一些观察</title>
         <published>2024-06-14T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/"/>
-        <id>https://hibikilogy.github.io/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/"/>
+        <id>https://hibikilogy.vercel.app/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/guan-yu-jiu-yi-nian-shou-xi-hui-yi-qian-hou-de-yi-xie-guan-cha/">&lt;h1 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;%E5%85%B3%E4%BA%8E%E4%B9%85%E4%B8%80%E5%B9%B4%E9%A6%96%E5%B8%AD%E4%BC%9A%E8%AE%AE%E5%89%8D%E5%90%8E%E7%9A%84%E4%B8%80%E4%BA%9B%E8%A7%82%E5%AF%9F&#x2F;%E5%8C%97%E5%AE%87%E6%B2%BB%E5%90%B9%E5%A5%8F%E4%B9%90%E9%83%A8%E5%A3%B0%E9%83%A8%E9%95%BF%E4%BC%9A%E8%AE%AE%E4%B9%85%E4%B8%80%E5%B9%B4.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  久一年的首席（part leader）会议事件，发生在动画第一季第三集到第四集之间，篇幅不算太长，但其通过大量细节所反映的信息、剧情安排所隐含的逻辑，是值得深入探索的。甚至可以说，只有理解了久一年的这次首席会议，才能理解京吹隐藏在少女故事下的严肃内核。而再考虑到首席会议事件是动画原创剧情（原作小说中没有首席会议，前两次合奏所引发的冲突只一笔带过），就足以让我们注意到制作者的良苦用心。&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;yi-yi-xie-qian-ti&quot;&gt;一、一些前提&lt;&#x2F;h1&gt;
@@ -142,10 +142,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/bei-yu-zhi-wang-shi-1/"/>
-        <id>https://hibikilogy.github.io/bei-yu-zhi-wang-shi-1/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-1/"/>
+        <id>https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-1/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/bei-yu-zhi-wang-shi-1/">&lt;p&gt;  在撰写《&lt;a href=&quot;&#x2F;2023&#x2F;08&#x2F;21&#x2F;qianxi_nanzhongren&#x2F;&quot;&gt;浅析南中人在北宇治的过去、现在和未来&lt;&#x2F;a&gt;》以及《&lt;a href=&quot;&#x2F;2024&#x2F;04&#x2F;27&#x2F;xinnanzhongpaixi&#x2F;&quot;&gt;新南中派系的重振——黄前十八、十九年领导班子的确立&lt;&#x2F;a&gt;》中，笔者对一件事产生了深深的好奇：北宇治的那些弱势领导都是怎么练成的。怀揣对这个问题的好奇，笔者撰写了本文以期对这个问题进行一定的分析，本文可以看作是上述两篇吹学研究的番外。全文共分三部分：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-1/">&lt;p&gt;  在撰写《&lt;a href=&quot;&#x2F;2023&#x2F;08&#x2F;21&#x2F;qianxi_nanzhongren&#x2F;&quot;&gt;浅析南中人在北宇治的过去、现在和未来&lt;&#x2F;a&gt;》以及《&lt;a href=&quot;&#x2F;2024&#x2F;04&#x2F;27&#x2F;xinnanzhongpaixi&#x2F;&quot;&gt;新南中派系的重振——黄前十八、十九年领导班子的确立&lt;&#x2F;a&gt;》中，笔者对一件事产生了深深的好奇：北宇治的那些弱势领导都是怎么练成的。怀揣对这个问题的好奇，笔者撰写了本文以期对这个问题进行一定的分析，本文可以看作是上述两篇吹学研究的番外。全文共分三部分：&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;什么样的领导算弱势领导&lt;&#x2F;p&gt;
@@ -250,10 +250,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/bei-yu-zhi-wang-shi-ruo-shi-ling-dao-er-san-shi/"/>
-        <id>https://hibikilogy.github.io/bei-yu-zhi-wang-shi-ruo-shi-ling-dao-er-san-shi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-ruo-shi-ling-dao-er-san-shi/"/>
+        <id>https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-ruo-shi-ling-dao-er-san-shi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/bei-yu-zhi-wang-shi-ruo-shi-ling-dao-er-san-shi/">&lt;p&gt;  在撰写《&lt;a href=&quot;&#x2F;2023&#x2F;08&#x2F;21&#x2F;qianxi_nanzhongren&#x2F;&quot;&gt;浅析南中人在北宇治的过去、现在和未来&lt;&#x2F;a&gt;》以及《&lt;a href=&quot;&#x2F;2024&#x2F;04&#x2F;27&#x2F;xinnanzhongpaixi&#x2F;&quot;&gt;新南中派系的重振——黄前十八、十九年领导班子的确立&lt;&#x2F;a&gt;》中，笔者对一件事产生了深深的好奇：北宇治的那些弱势领导都是怎么练成的。怀揣对这个问题的好奇，笔者撰写了本文以期对这个问题进行一定的分析，本文可以看作是上述两篇吹学研究的番外。全文共分三部分：&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/bei-yu-zhi-wang-shi-ruo-shi-ling-dao-er-san-shi/">&lt;p&gt;  在撰写《&lt;a href=&quot;&#x2F;2023&#x2F;08&#x2F;21&#x2F;qianxi_nanzhongren&#x2F;&quot;&gt;浅析南中人在北宇治的过去、现在和未来&lt;&#x2F;a&gt;》以及《&lt;a href=&quot;&#x2F;2024&#x2F;04&#x2F;27&#x2F;xinnanzhongpaixi&#x2F;&quot;&gt;新南中派系的重振——黄前十八、十九年领导班子的确立&lt;&#x2F;a&gt;》中，笔者对一件事产生了深深的好奇：北宇治的那些弱势领导都是怎么练成的。怀揣对这个问题的好奇，笔者撰写了本文以期对这个问题进行一定的分析，本文可以看作是上述两篇吹学研究的番外。全文共分三部分：&lt;&#x2F;p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;什么样的领导算弱势领导&lt;&#x2F;p&gt;
@@ -358,10 +358,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/kuanglanbuqing1/"/>
-        <id>https://hibikilogy.github.io/kuanglanbuqing1/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/kuanglanbuqing1/"/>
+        <id>https://hibikilogy.vercel.app/kuanglanbuqing1/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/kuanglanbuqing1/">&lt;p&gt;  老香~，想你们了呀。这是一篇来自看京吹五年作者的吹学小品，因为想掰扯掰扯京吹，也特别共情现在学生社团的不易，所以写了这篇文，希望大家读得愉快~&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/kuanglanbuqing1/">&lt;p&gt;  老香~，想你们了呀。这是一篇来自看京吹五年作者的吹学小品，因为想掰扯掰扯京吹，也特别共情现在学生社团的不易，所以写了这篇文，希望大家读得愉快~&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;mu-lu&quot;&gt;目录&lt;&#x2F;h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -667,10 +667,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/bei-yu-zhi-wen-rou-de-ai-ku-gui-bu-chang-xiao-li-yuan-qing-xiang/"/>
-        <id>https://hibikilogy.github.io/bei-yu-zhi-wen-rou-de-ai-ku-gui-bu-chang-xiao-li-yuan-qing-xiang/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/bei-yu-zhi-wen-rou-de-ai-ku-gui-bu-chang-xiao-li-yuan-qing-xiang/"/>
+        <id>https://hibikilogy.vercel.app/bei-yu-zhi-wen-rou-de-ai-ku-gui-bu-chang-xiao-li-yuan-qing-xiang/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/bei-yu-zhi-wen-rou-de-ai-ku-gui-bu-chang-xiao-li-yuan-qing-xiang/">&lt;p&gt;无意间发觉最近写的京吹人物命运都有些类似, 无论是加部酱、伞哥还是小日向梦, 都有着与众不同的羁绊和压抑在内心无法诉说的情感。顺着这条线将时间拉回久一年,
+        <content type="html" xml:base="https://hibikilogy.vercel.app/bei-yu-zhi-wen-rou-de-ai-ku-gui-bu-chang-xiao-li-yuan-qing-xiang/">&lt;p&gt;无意间发觉最近写的京吹人物命运都有些类似, 无论是加部酱、伞哥还是小日向梦, 都有着与众不同的羁绊和压抑在内心无法诉说的情感。顺着这条线将时间拉回久一年,
 本期想和大家探讨一下久一年吹奏乐部部长——小笠原晴香。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;i.loli.net&#x2F;2020&#x2F;05&#x2F;09&#x2F;zP7h2Ox5FkgUY9A.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
@@ -740,10 +740,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/sanxiangzhuyi-debeihou/"/>
-        <id>https://hibikilogy.github.io/sanxiangzhuyi-debeihou/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/sanxiangzhuyi-debeihou/"/>
+        <id>https://hibikilogy.vercel.app/sanxiangzhuyi-debeihou/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/sanxiangzhuyi-debeihou/">&lt;p&gt;在久美子尚未正式进入舞台前，北宇治高中吹奏部大概处于这么一种状态：只把社团当成游戏的部员们得过且过，缺乏干劲并且安于现状的部员占据多数（最有干劲的一批社员们在伞木希美改变社团风气的尝试失败后，无力的从社团中退出了），这种毫无生气的平静虽然阻碍了社员们的进步，却也给部团带来了安稳局面。&amp;quot;三香主义“便是在这种情况下诞生的。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/sanxiangzhuyi-debeihou/">&lt;p&gt;在久美子尚未正式进入舞台前，北宇治高中吹奏部大概处于这么一种状态：只把社团当成游戏的部员们得过且过，缺乏干劲并且安于现状的部员占据多数（最有干劲的一批社员们在伞木希美改变社团风气的尝试失败后，无力的从社团中退出了），这种毫无生气的平静虽然阻碍了社员们的进步，却也给部团带来了安稳局面。&amp;quot;三香主义“便是在这种情况下诞生的。&lt;&#x2F;p&gt;
 &lt;p&gt;三香主义是指在小笠原晴香担任部长、田中明日香担任副部长、中世古香织担任会计，在这三人领导北宇治高中吹奏部时吹奏部所形成的领导方式和取得的众多成就（三香主义的支持者们还有一部分仅仅是被这三人的魅力的所吸引)。这三人以微妙的平衡维持了&amp;quot;二年级生特别少“这一结构畸形的吹奏部（就好像是一座积木塔只有中间部分被抽走了众多的积木，使得整座建筑变得摇摇欲坠），并且在这种平衡极差的情况下迎来了新的顾问老师泷升，还顺利过渡并且妥善安排了新加进入的一年级生。这些成就当然是有目共睹的，但三香主义的领导方式却是特殊，因而无法模仿，最终对大多数人来说失去意义的。&lt;&#x2F;p&gt;
 &lt;p&gt;首先是构成三香主义本体的晴香、明日香、香织这三人之间的关系就相当的特殊。身为部长的小笠原晴香仅仅顶着部长的名义，而实权与责任几乎全部掌握在明日香手里，而中世古香织被誉为“吹奏部的麦当娜”在旧一批社员中极受欢迎（她的狂热追随者中甚至包括了北宇治高中吹奏部的下一任部长）。香织如此受到大众欢迎，职位却是不直接参与社员管理的会计。而明日香虽然是副部长却做着很多部长的工作，显然有点名不正言不顺。造成这一情况的正是小笠原晴香的暗弱。这么说，因为自己能力值超高，被当做无所不能而受到部员敬仰的明日香，与极受欢迎的香织无论哪一个人担任部长都要比晴香更为合理才对，为什么晴香可以担任吹奏部的部长？&lt;&#x2F;p&gt;
 &lt;p&gt;答案就在于她们三人的关系之中，晴香与明日香与香织三人的关系是相当的亲密。因此明日香虽然无意出任部长，却愿意（也不得不）作为副部长帮助好友的晴香解决她无力解决的问题（比如第一季第五集中川夏纪所说“晴香心理素质不够”所以明日香出任了领队一职“）。而中世古香织也作为好友，一直背后默默的支持着晴香。因此三香的领导方式是相当特别的，这三人与其说是共同领导着吹奏部，不如说是明日香与香织一直在帮助身为部长与好友这双重身份的小笠原晴香，因此三香主义时的领导方式不是强调“职位担当应有的职责”而是“全力辅助部长晴香，晴香做不到的明日香或香织就会接替“，这一领导方式中没有对每个人应有的职责进行界定，可见三香主义的领导方式是”人治“的而不是”法治的“。这一人际关系的特殊性导致了三香主义的领导方式实际上无法普及，也无法模仿，对他人也就没有了价值。&lt;&#x2F;p&gt;
@@ -799,10 +799,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/lunqingxiangshibeiyuzhizuiyouxiudebuzhang/"/>
-        <id>https://hibikilogy.github.io/lunqingxiangshibeiyuzhizuiyouxiudebuzhang/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/lunqingxiangshibeiyuzhizuiyouxiudebuzhang/"/>
+        <id>https://hibikilogy.vercel.app/lunqingxiangshibeiyuzhizuiyouxiudebuzhang/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/lunqingxiangshibeiyuzhizuiyouxiudebuzhang/">&lt;p&gt;每当我们去分析一个人的能力时，常常忘记了一个人不光要靠个人奋斗，也要考虑历史的进程。在唯结果论的当下，很多人认为圣祖皇帝黄九爷带领了吹奏部拿到了全国金，那就是最优秀的部长，但不论是哪本经史子集，都能看出当时黄九爷虽然有着极高的人望，但在政务的处理上都非常不顺利。明明20分钟就上了高地，50分钟才拿下了胜利。作为队长怀疑领队和教练，差点把队伍带伞。同时作为即将离任的部长，没有完全确保下一任的权柄归属，引发了奏，梨梨花的久子夺嫡之争。虽然开创了北宇治的盛世，但也埋下了动荡的种子，相信她7年后回到北宇治当副顾问也是因为这中间北宇治的成绩不稳定罢（如果成绩持续优异，那学校为什么要雇一个副顾问呢）&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/lunqingxiangshibeiyuzhizuiyouxiudebuzhang/">&lt;p&gt;每当我们去分析一个人的能力时，常常忘记了一个人不光要靠个人奋斗，也要考虑历史的进程。在唯结果论的当下，很多人认为圣祖皇帝黄九爷带领了吹奏部拿到了全国金，那就是最优秀的部长，但不论是哪本经史子集，都能看出当时黄九爷虽然有着极高的人望，但在政务的处理上都非常不顺利。明明20分钟就上了高地，50分钟才拿下了胜利。作为队长怀疑领队和教练，差点把队伍带伞。同时作为即将离任的部长，没有完全确保下一任的权柄归属，引发了奏，梨梨花的久子夺嫡之争。虽然开创了北宇治的盛世，但也埋下了动荡的种子，相信她7年后回到北宇治当副顾问也是因为这中间北宇治的成绩不稳定罢（如果成绩持续优异，那学校为什么要雇一个副顾问呢）&lt;&#x2F;p&gt;
 &lt;p&gt;当我们真正把自己代入到不同吹奏部的历史环境中去时，才会深刻体会到，黄前14年的部长-黄太极晴香才是真正的奠基者，很多人把她称为吹孝公，我私以为她的功绩比变法来的更加深远，她成功的把北宇治从一滩烂泥偏安一隅的府赛铜带到了全国铜，这不是一个泷一个人的功劳，不然在黄前16年，吹部整体十分团结的情况下，泷只能把队伍带到关西废金的现实中，可以说明明是更好的底子却没有完成相应的成绩。&lt;&#x2F;p&gt;
 &lt;p&gt;晴香在北宇治的地位是被远远低估了，在黄前14年，整个北宇治沉浸在靡靡之风的堕落中，明日香曾经尝试规劝伞哥哥，说‘明年就是她的天下，可以按实力去吹奏’。暂且不说伞哥哥没有信她的蛊惑，就说明日香在黄前15年是否兑现了自己的承诺？是没有的，在黄前15年，她既没有担任部长，也没有主动把部内的气氛往积极方向引导。晴香用她细细的肩膀，用毅力和恒心独自扛起了北宇治这艘破船，就这就足以奠定她的历史地位。明日香是个有人望有能力的谋士，但也是一个不抗压没担当的坏领导。在三年级的时候，认为一二年级的摊子太烂就把责任甩给了晴香，主意自己出，但责任却是别人承担，名为玄修，暗操独治。做个狗头军师并拿到了全国铜是她最好的结局了。&lt;&#x2F;p&gt;
 &lt;p&gt;在讨论黄前16年北宇治为什么拿到的只有关西金时，有一个论点占据了上风，就是15年的3年级实力很强，16年的2,3年级不行。在这里我想予以驳斥。我们都知道泷的父亲在黄前5年就辞去了顾问之职，从此北宇治就深陷府赛的泥潭之中，排除场外因素，通过预估模型，黄前15年最好也就拿个关西铜了，但为什么却进入了全国。我们这里对比下两次的阵容，黄前14年的阵容和结果是（3年级，三香的2年级，优子的1年级，府赛铜），黄前15年的阵容是（三香的3年级，优子的2年级，黄前的1年级，全国铜），黄前16年的阵容是（优子的3年级，黄前的2年级，奏的1年级，关西金）。很多人认为是优子的年级拖累导致了落选全国，但14年优子的一年级应该是不在正选的，15年和16年优子的年级都成功突破了府赛，所以说，优子的年级是重要因素而不是决定因素，什么是决定因素，是三香的3年级。&lt;&#x2F;p&gt;
@@ -826,10 +826,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/why-yoshikawayuuko/"/>
-        <id>https://hibikilogy.github.io/why-yoshikawayuuko/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/why-yoshikawayuuko/"/>
+        <id>https://hibikilogy.vercel.app/why-yoshikawayuuko/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/why-yoshikawayuuko/">&lt;h2 id=&quot;qian-yan&quot;&gt;&lt;span style=&quot;color: red;&quot;&gt;前言&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
 &lt;p&gt;近日观泥潭吹学新作《&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;2020&#x2F;03&#x2F;04&#x2F;qizhixianmingfanduiruhewenze&#x2F;&quot;&gt;旗帜鲜明反对《如何问责》中的部分观点--伞木希美之我见&lt;&#x2F;a&gt;》(下文中简称《反问责》)有感，故作此文。&lt;&#x2F;p&gt;
 &lt;p&gt;该文主要围绕伞木希美同志是否该为久二年北宇治高中吹奏乐止步关西大赛负责展开讨论,我本人对这个问题是持中立态度的——这段历史是由人民群众共同缔造的，非一人之责也，但若非要从中选出一个最大的责任人，那毫无疑问是伞木希美。我本对吹学思想的多样性持开放态度，可是该文在为伞木希美同志洗清罪名时，无所不用其极，尤其是在3.1伞木希美历史地位探讨中，将伞木希美排在南中四姬之首，实属一派胡言。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;heng-xiang-dui-bi-san-mu-xi-mei-de-zhen-zheng-di-wei&quot;&gt;&lt;span style=&quot;color: darkblue;&quot;&gt;横向对比-伞木希美的真正地位&lt;&#x2F;span&gt;&lt;&#x2F;h2&gt;
@@ -874,10 +874,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/beiyuzhichuizoubuquanliboyikaocha/"/>
-        <id>https://hibikilogy.github.io/beiyuzhichuizoubuquanliboyikaocha/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/beiyuzhichuizoubuquanliboyikaocha/"/>
+        <id>https://hibikilogy.vercel.app/beiyuzhichuizoubuquanliboyikaocha/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/beiyuzhichuizoubuquanliboyikaocha/">&lt;h2 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/beiyuzhichuizoubuquanliboyikaocha/">&lt;h2 id=&quot;qian-yan&quot;&gt;前言&lt;&#x2F;h2&gt;
 &lt;p&gt;近世的研究者对黄前久美子带领北宇治吹奏部于全国大赛一鸣惊人的研究，多集中于黄前十七岁一年，而忽视了小笠原晴香、吉川优子两年执政对北宇治吹奏部的影响与变革。其实黄前久美子十七岁时北宇治吹奏部发生的变革，其绝大部分（如果不说全部）的基础与源头都早在十五年、甚至更早的十四年时种下。因此，若想了解北宇治吹奏部在黄前久美子带领下伟大复兴的奥秘，对其前两年北宇治吹奏部政治运作与演化的研究是必要且必须的。&lt;&#x2F;p&gt;
 &lt;p&gt;北宇治吹奏部在黄前十五年、十六年两年的事迹，过去多依武田绫乃的《北宇治纪事》（平成癸巳宝岛刻本）。但依近年的研究，《北宇治纪事》多有纰漏不实演绎之处，真实性反不如后出的花田十辉的《北宇治演奏本末》（平成乙未京都刻本）和山田尚子的《伞木希美年谱》（平成丁酉松竹本，今仅存后三十页）。所以拙作正文叙事皆以京都本与松竹本为本，不足处再佐以宝岛本或其他史料。&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;xu-huang-qian-shi-wu-nian&quot;&gt;序.黄前十五年&lt;&#x2F;h2&gt;

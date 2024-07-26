@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 南阎浮提往事</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/nan-yan-fu-ti-wang-shi/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/nan-yan-fu-ti-wang-shi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-04-05T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/nan-yan-fu-ti-wang-shi/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/nan-yan-fu-ti-wang-shi/atom.xml</id>
     <entry xml:lang="en">
         <title>从“部长失格事件”看北宇治吹奏部皇权与相权之争</title>
         <published>2024-04-05T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/huangquanvsxiangquan/"/>
-        <id>https://hibikilogy.github.io/huangquanvsxiangquan/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/huangquanvsxiangquan/"/>
+        <id>https://hibikilogy.vercel.app/huangquanvsxiangquan/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/huangquanvsxiangquan/">&lt;p&gt;  &lt;em&gt;任何政治分裂的根源都是权力的分裂。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/huangquanvsxiangquan/">&lt;p&gt;  &lt;em&gt;任何政治分裂的根源都是权力的分裂。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  经过三香时代的筚路维艰和南中集团的继往开来，久三年接过吹奏部权杖的久美子是权力和人望都空前强大的实权部长，与此同时力挽狂澜拯救北宇治吹奏部泷升的权力和人望也逐步达到了顶峰。特别是在三年级学生中，泷升有再造乾坤之恩。部长和顾问的权力同步增长，埋下了分裂的种子。分析家们长期忽略“部长失格事件”背后吹奏部皇权与相权之争的因素。&lt;&#x2F;p&gt;
 &lt;p&gt;  &lt;em&gt;流水的部长铁打的顾问。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;  对于成年人的泷升来说，其对吹奏部内部的人际关系并不感冒，自始至终泷升都处于一种游离的姿态，秉持全国金主义的高度现实主义。泷升并未有任何与部长内阁进行家家酒式权力斗争的想法，只要自己的命令能够得到贯彻，其他都无所谓。只是在贯彻其命令和路线的过程中，任何阻挡这一历史进程的内阁都将被碾碎。&lt;&#x2F;p&gt;

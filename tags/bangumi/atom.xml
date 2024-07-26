@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - bangumi</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/tags/bangumi/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/tags/bangumi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-07-01T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/tags/bangumi/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/tags/bangumi/atom.xml</id>
     <entry xml:lang="en">
         <title>或缺的主题：再无“高扬感”，徒留“不甘心”</title>
         <published>2024-07-01T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/euphoria-frustrated/"/>
-        <id>https://hibikilogy.github.io/euphoria-frustrated/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/euphoria-frustrated/"/>
+        <id>https://hibikilogy.vercel.app/euphoria-frustrated/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/euphoria-frustrated/">&lt;p&gt;  “不甘心”（悔しい，苦亚西）与“高扬感”（高揚感），是京吹不可或缺的两个主题，在“高扬感”没有音乐讨论与正面情绪支持的情况下，徒留“不甘心”只会让观众也真的“不甘心”。&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/euphoria-frustrated/">&lt;p&gt;  “不甘心”（悔しい，苦亚西）与“高扬感”（高揚感），是京吹不可或缺的两个主题，在“高扬感”没有音乐讨论与正面情绪支持的情况下，徒留“不甘心”只会让观众也真的“不甘心”。&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;h1 id=&quot;xu-yan&quot;&gt;序言&lt;&#x2F;h1&gt;
 &lt;center&gt;北宇治奏一年诗，辗转三载岂一秋。观者熙熙奏者众，幕后人知幕前稀。&lt;&#x2F;center&gt;
@@ -249,10 +249,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/sari-slayout/"/>
-        <id>https://hibikilogy.github.io/sari-slayout/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/sari-slayout/"/>
+        <id>https://hibikilogy.vercel.app/sari-slayout/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/sari-slayout/">&lt;p&gt;  &lt;strong&gt;声明：以下内容纯属整活！！！论据断章取义论证逻辑缺环造成了对沙里形象的严重扭曲所以不要信以为真————————&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/sari-slayout/">&lt;p&gt;  &lt;strong&gt;声明：以下内容纯属整活！！！论据断章取义论证逻辑缺环造成了对沙里形象的严重扭曲所以不要信以为真————————&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;&lt;img src=&quot;&#x2F;imgs&#x2F;Sari&amp;#x27;sLayout&#x2F;%E6%88%91%E4%BB%AC%E5%A4%AA%E6%83%B3%E8%BF%9B%E6%AD%A5%E5%95%A6.jpg&quot; alt=&quot;&quot; &#x2F;&gt;
 &lt;img src=&quot;&#x2F;imgs&#x2F;Sari&amp;#x27;sLayout&#x2F;%E5%9B%BE%E7%89%871.jpg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;

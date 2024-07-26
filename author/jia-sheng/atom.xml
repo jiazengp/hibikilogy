@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>京吹学报 - 佳生</title>
     <subtitle>吹学著作集锦</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://hibikilogy.github.io/author/jia-sheng/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://hibikilogy.github.io"/>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/jia-sheng/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2021-09-26T00:00:00+00:00</updated>
-    <id>https://hibikilogy.github.io/author/jia-sheng/atom.xml</id>
+    <id>https://hibikilogy.vercel.app/author/jia-sheng/atom.xml</id>
     <entry xml:lang="en">
         <title>为什么历史选择了黄前久美子 —— 谈以黄前同志为核心的领导团体</title>
         <published>2021-09-26T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://hibikilogy.github.io/wei-shen-me-li-shi-xuan-ze-liao-huang-qian-jiu-mei-zi/"/>
-        <id>https://hibikilogy.github.io/wei-shen-me-li-shi-xuan-ze-liao-huang-qian-jiu-mei-zi/</id>
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/wei-shen-me-li-shi-xuan-ze-liao-huang-qian-jiu-mei-zi/"/>
+        <id>https://hibikilogy.vercel.app/wei-shen-me-li-shi-xuan-ze-liao-huang-qian-jiu-mei-zi/</id>
         
-        <content type="html" xml:base="https://hibikilogy.github.io/wei-shen-me-li-shi-xuan-ze-liao-huang-qian-jiu-mei-zi/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
+        <content type="html" xml:base="https://hibikilogy.vercel.app/wei-shen-me-li-shi-xuan-ze-liao-huang-qian-jiu-mei-zi/">&lt;h1 id=&quot;zhai-yao&quot;&gt;摘要&lt;&#x2F;h1&gt;
 &lt;p&gt;本文主要探讨了以黄前同志为核心的北宇治吹奏乐部新一代领导团体为什么能够成功，简要介绍了其面对的历史环境，从多个方面回答了吹学著名问题“为什么历史选择了黄前久美子”。同时本文也回顾了黄前十五年、黄前十六年的两代领导团体，并简单介绍了后黄前时代吹奏乐部的部长人选的斗争与妥协。&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;注：本文按，黄前十四年为久〇年，黄前十五年为久一年。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;注：久一年为久美子一年，解读为久石奏一年是十分危险的倾向。&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
