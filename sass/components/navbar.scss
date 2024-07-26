@@ -2,6 +2,7 @@
 
 .NavBar {
   z-index: var(--joh-z-index-nav);
+  width: 100%;
   position: relative;
   height: var(--joh-nav-height);
   white-space: nowrap;
@@ -431,6 +432,7 @@
   }
 
   .NavScreen.open {
+    display: block;
     z-index: var(--joh-z-index-sidebar);
     opacity: 0.95;
     transform: translateY(0);
@@ -438,6 +440,7 @@
 
   .NavScreen {
     z-index: -1;
+    display: none;
     position: fixed;
     top: calc(var(--joh-nav-height) + var(--joh-layout-top-height, 0px));
     /*rtl:ignore*/

@@ -95,7 +95,7 @@
     }
   }
 
-  @media (max-width: config.$mobile) {
+  @media (max-width: config.$tablet) {
     .paging-mobile {
       display: block;
     }
