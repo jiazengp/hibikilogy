@@ -11,12 +11,17 @@
 post
 {% endblock %}
 
+{% block attribute %}
+data-pagefind-body
+{% endblock %}
+
 {% block meta %}
 {% if page.taxonomies.author[0] %}
 <meta property="article:author" content="{{ page.taxonomies.author[0] }}">
 {% endif %}
 <meta property="og:updated_time" content="{{ page.updated | default(value=page.date) }}">
 <meta property="article:modified_time" content="{{ page.updated | default(value=page.date)  }}">
+<meta name="description" content="{{ page.extra.abstract }}">
 {% endblock %}
 
 {% block header %}

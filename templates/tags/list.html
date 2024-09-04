@@ -1,4 +1,3 @@
-
 {% import 'components/hero.html' as hero %}
 {% extends "base.html" %}
 
@@ -10,9 +9,7 @@
 <section class="section">
   <div class="container">
     {% for tag in terms %}
-    <a class="joh-tag" href="{{ get_taxonomy_url(kind='tags', name=tag.name) }}"
-      target="_blank"
-      title="{{tag.name}}">
+    <a class="joh-tag" href="{{ get_taxonomy_url(kind='tags', name=tag.name) }}" target="_blank" title="{{tag.name}}">
       <span>{{tag.name}}</span>
       <span class="tag-count">{{ tag.pages | length }}</span>
     </a>

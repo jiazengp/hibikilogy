@@ -9,6 +9,10 @@
 docs
 {% endblock %}
 
+{% block attribute %}
+data-pagefind-body
+{% endblock %}
+
 {% block header %}
 {{ hero::main(isPost=false, page=page, name=page.title) }}
 {% endblock %}

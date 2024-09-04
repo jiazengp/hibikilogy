@@ -22,20 +22,20 @@
         </div>
       </div>
     </div>
-  </div>
-  {% else %}
-  <div class="taxonomies-banner">
-    <div class="taxonomies-meta">
-      <h2 class="title">
-        <span class="banner-title">{{ title }}</span>
-        {{ name }}
-      </h2>
-      {% if kind != "none" %}
-      {% set term = get_taxonomy_term(kind=kind, term=name) %}
-      <p class="description">{{ term.page_count }}篇相关文章</p>
-      {% endif %}
+    {% else %}
+    <div class="taxonomies-banner">
+      <div class="taxonomies-meta">
+        <h2 class="title">
+          <span class="banner-title">{{ title }}</span>
+          {{ name }}
+        </h2>
+        {% if kind != "none" %}
+        {% set term = get_taxonomy_term(kind=kind, term=name) %}
+        <p class="description">{{ term.page_count }}篇相关文章</p>
+        {% endif %}
+      </div>
     </div>
+    {% endif %}
   </div>
-  {% endif %}
 </header>
 {% endmacro %}

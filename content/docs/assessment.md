@@ -8,7 +8,7 @@ original = "https://www.wenjuan.top/s/QbAzums/"
 +++
 
 
-<div style="text-align:center;font-weight:bold;font-size:20px;display:block;width:100%">《北宇治吹奏部吹学能力鉴定》</div>
+<div style="text-align:center;font-weight:bold;font-size:20px;display:block;width:100%;margin-top: 2rem;">《北宇治吹奏部吹学能力鉴定》</div>
 <div style="text-align:center;font-weight:bold;display:block;width:100%">（闭卷考试，时长30分钟）</div>
  
 

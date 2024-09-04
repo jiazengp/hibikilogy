@@ -7,9 +7,15 @@
 }
 
 .Content {
+  flex: 1;
+
   @media (min-width: config.$tablet) {
     & {
       padding: 0 32px;
     }
+  }
+
+  .content {
+    width: 100%;
   }
 }

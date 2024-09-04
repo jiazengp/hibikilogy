@@ -10,7 +10,6 @@ on:
       - dev
     # @See https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions
     paths-ignore:
-      - '**/__tests__/**'
       - './README.md'
   # trigger deployment manually
   workflow_dispatch:
@@ -36,7 +35,37 @@ jobs:
         with:
           # fetch all commits to get last updated time or other git log info
           fetch-depth: 0
-      - name: Build and deploy
+
+      - name: Build site
         uses: shalzz/zola-deploy-action@v0.19.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: /
+          BUILD_ONLY: true
+          BUILD_FLAGS: --drafts
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          # choose node.js version to use
+          node-version: '18'
+
+      - name: Run Pagefind
+        run: npm_config_yes=true npx pagefind --source "public"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

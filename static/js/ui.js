@@ -21,6 +21,17 @@ const sortingHandleSelect = () => {
   window.location.href = `/${store.sortType}`
 }
 
+document.addEventListener('keydown', (event) => {
+  if (window.location.pathname.includes('/search')) return;
+  const isCtrlOrCmdPressed = event.ctrlKey || event.metaKey;
+  const isKPressed = event.key.toLowerCase() === 'k';
+
+  if (isCtrlOrCmdPressed && isKPressed) {
+    event.preventDefault();
+    window.location.href = `/search`
+  }
+});
+
 createApp({
   store,
   navScreenHandleClick,

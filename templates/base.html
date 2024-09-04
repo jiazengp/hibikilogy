@@ -43,14 +43,14 @@
   {% if config.extra.favicon.safari_pinned_tab %}
   <link color="#5bbad5" href='{{ config.extra.favicon.safari_pinned_tab }}' rel="mask-icon" />
   {% endif %}
-  {% if config.extra.favicon.favicon_16x16 %}
-  <link href='{{ config.extra.favicon.favicon_16x16 }}' rel="icon" sizes="16x16" type="image/png" />
+  {% if config.extra.favicon.small_icon %}
+  <link rel="icon" href='{{ config.extra.favicon.small_icon }}' sizes="48x48">
   {% endif %}
-  {% if config.extra.favicon.favicon_32x32 %}
-  <link href='{{ config.extra.favicon.favicon_32x32 }}' rel="icon" sizes="32x32" type="image/png" />
+  {% if config.extra.favicon.svg_icon %}
+  <link rel="icon" href='{{ config.extra.favicon.svg_icon }}'' sizes="any" type="image/svg+xml">
   {% endif %}
   {% if config.extra.favicon.apple_touch_icon %}
-  <link href='{{ config.extra.favicon.apple_touch_icon }}' rel="apple-touch-icon" sizes="180x180" />
+  <link href=' {{ config.extra.favicon.apple_touch_icon }}' rel="apple-touch-icon" sizes="180x180" />
   {% endif %}
 
   <link href="{{ get_url(path='index.css') }}" rel="stylesheet" />
@@ -92,7 +92,10 @@
   <script>(() => { const e = localStorage.getItem("theme-appearance") || "auto", a = window.matchMedia("(prefers-color-scheme: dark)").matches; (!e || e === "auto" ? a : e === "dark") && document.documentElement.classList.add("dark") })();</script>
   <script>document.documentElement.classList.toggle("mac", /Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
   <script
-    type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"{% include 'title.html' %}"}</script>
+    type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"{% include 'title.html' %}", "potentialAction": {"@type": "SearchAction","target": "{{config.base_url}}/search?q={search_term_string}", "query-input": "required name=search_term_string"}}</script>
+  <link rel="prefetch" href="/pagefind/pagefind.js" as="script">
+  <link rel="prefetch" href="/pagefind/pagefind-ui.css" as="style">
+  <link rel="prefetch" href="/search">
   {% block script %}
   {% endblock %}
 
@@ -100,7 +103,7 @@
   {% endblock %}
 </head>
 
-<body class="{% block class %}{% endblock class %}">
+<body class="{% block class %}{% endblock class %}" {% block attribute %}{% endblock attribute %}>
   <div id="app">
     <div class="Layout">
       <span class="joh-chevron-up visually-hidden"></span>
@@ -154,14 +157,6 @@
     mediumZoom(document.querySelectorAll('.content-container :where(img)'))
   </script>
   {% endif %}
-
-  <script src="{{ get_url(path='elasticlunr.min.js') }}"></script>
-  <script src="{{ get_url(path='index.title.md') }}"></script>
-  <script src="{{ get_url(path='search_index.' ~ lang ~ '.js') }}"></script>
-  {%- if lang != "en" -%}
-  {%- block other_lang_search_js -%}
-  {%- endblock -%}
-  {%- endif -%}
 
   {% block custom_js %}
   {% endblock %}
