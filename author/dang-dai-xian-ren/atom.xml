@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>京吹学报 - 当代闲人</title>
+    <subtitle>吹学著作集锦</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://hibikilogy.vercel.app/author/dang-dai-xian-ren/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-07T00:00:00+00:00</updated>
+    <id>https://hibikilogy.vercel.app/author/dang-dai-xian-ren/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>下一种吹学即将奏响——AI吹学初探</title>
+        <published>2024-04-07T00:00:00+00:00</published>
+        <updated>2024-04-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/ai-hibikilogy/"/>
+        <id>https://hibikilogy.vercel.app/ai-hibikilogy/</id>
+        
+        <content type="html" xml:base="https://hibikilogy.vercel.app/ai-hibikilogy/">&lt;p&gt;作者：书虫(1, 2, 3, 4)； 当代闲人(1, 3, 4, 5) &lt;&#x2F;p&gt;
+&lt;p&gt;中国吹学科学院三香研究院； &lt;&#x2F;p&gt;
+&lt;p&gt;中国吹学科学院北中研究院高坂丽奈研究中心；&lt;&#x2F;p&gt;
+&lt;p&gt;中国吹学科学院川岛绿辉哲学思想研究中心；&lt;&#x2F;p&gt;
+&lt;p&gt;中国吹学科学院南中研究院；&lt;&#x2F;p&gt;
+&lt;p&gt;中国吹学科学院梨梨花几何研究中心；&lt;&#x2F;p&gt;
+&lt;p&gt;通讯作者：书虫（ @神采洋），email：chong.shu@hibike.ac.cn                   &lt;&#x2F;p&gt;
+&lt;p&gt;     当代闲人（ @当代闲人 ），email：xianren.dangdai@hibike.ac.cn &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;yin-yan&quot;&gt;引言&lt;&#x2F;h1&gt;
+&lt;p&gt;  2024年4月7日，京吹宇宙诞生正值“久”周年，北宇治吹奏部奋三世余烈勇夺全国金之路亦将走向最后一程。&lt;&#x2F;p&gt;
+&lt;p&gt;  这“久”年间，吹学研究蓬勃发展，涌现出一大批领军吹学家，为探求京吹真理而前赴后继。然而，吹学研究面临着一个重大矛盾：一方面，吹学的至高真理是无限的，仰之弥高、钻之弥深；另一方面，吹学家的生命却是有限的，人生匆匆数十载，在吹学真理面前犹如蜉蝣。这样的残酷现实呼唤着一种新的吹学，一种能让吹学家在有限的生命里追寻无限的吹学真理，但又不至落入“以有涯随无涯，殆已”的困境之中的吹学。如何发展出这种新吹学，可谓是“新时代吹学的根本难题”（The Fundamental Problem of Neo-Hibikeology）。&lt;&#x2F;p&gt;
+&lt;p&gt;  古人云，一个学科的命运，当然要靠研究者的自我奋斗，但也要考虑到历史的行程。纵览人类历史发展的潮流，笔者认为，这下一种吹学正是AI吹学。AlphaGo、chatGPT等AI系统的出现，已经深刻变革了几乎所有学术领域。作为人类知识体系中不可分割的关键一环，吹学自不能逆潮流而行。事实上，将AI全面引入吹学研究不仅是解决新时代吹学根本难题的关键举措，更是将吹学研究推向新高度的必由之路。历史将证明，在未来的AI吹学中，吹学家只要充分利用AI强大的能力，就能够创造性地发现新的高价值吹学课题，并自动化、并行化地攻克吹学难题，实现在有限的生命里一睹吹学真理的宏愿。&lt;&#x2F;p&gt;
+&lt;p&gt;  秉承“做特别的人”的吹学精神，在以chatGPT为代表的生成式AI诞生之初，笔者就对其在吹学研究中的应用做了一些粗浅的探索。最初的方案主要是结合大语言模型和检索增强生成技术，在调用大模型前，从一个外部知识库（例如《武吹原典》）中检索出与问题最相关的文本作为上下文。不幸的是，此方案无法让模型对整部作品产生宏观的理解，因而效果并不理想。然而，随着模型上下文窗口容量的增加，将整部小说纳入对话分析已变得可行。趁着拥有高达100万tokens处理能力的Gemini 1.5 Pro正式开放的历史机遇，笔者开始了新一轮的尝试，并取得了一些初步的研究发现。兹将相关研究结果分享给吹学同仁。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;aichui-xue-chu-tan&quot;&gt;AI吹学初探&lt;&#x2F;h1&gt;
+&lt;p&gt;  吹学研究主要分为&lt;strong&gt;实证吹学&lt;&#x2F;strong&gt;、&lt;strong&gt;诠释吹学&lt;&#x2F;strong&gt;和&lt;strong&gt;预测吹学&lt;&#x2F;strong&gt;三大类，分别关注考据京吹和武吹之中关键事实的实证性问题，解读关键角色和事件的诠释性问题，以及预测黄前大统领毕业后北宇治吹奏部的未来以及其它原著中没有答案的问题的预测性问题。针对这三大研究领域，笔者做了一些初步探索，现报告如下：&lt;&#x2F;p&gt;
+&lt;p&gt;  笔者首先上传了武吹原典《吹响吧！上低音号》，发现所有本文资料只大约占用了77万tokens，在Gemini 1.5 Pro的处理能力内。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;github.com&#x2F;hibikilogy&#x2F;hibikilogy.github.io&#x2F;blob&#x2F;master&#x2F;_posts&#x2F;2024-04-07-AI_Hibikilogy&#x2F;1.jpg?raw=true&quot; alt=&quot;上传武吹原典&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;1-shi-zheng-chui-xue-wen-ti&quot;&gt;1. 实证吹学问题&lt;&#x2F;h2&gt;
+&lt;p&gt;  实证吹学问题，即原作中有明确答案的问题。&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 75%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;问：小说中久美子为什么选择就读北宇治？&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;Gemini 1.5 Pro：&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  小说中，久美子选择就读北宇治的原因主要有两个：&lt;&#x2F;p&gt;&lt;ul style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;margin-left:0;padding-left:1em;list-style:circle;color:#3f3f3f&quot;&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;制服可爱&lt;&#x2F;strong&gt;：北宇治是宇治市内唯一穿水手服的学校，而久美子一直很喜欢水手服，认为很可爱。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;想要重新开始&lt;&#x2F;strong&gt;：久美子希望去一个没有太多熟人的高中，摆脱过去的自己，开始新的生活。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 75%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;问：小说中谁养了爬行动物？&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;Gemini 1.5 Pro：&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  小说中，&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;川岛绿辉&lt;&#x2F;strong&gt;养了一只名叫&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;马卡龙&lt;&#x2F;strong&gt;的鬣蜥。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;  我们发现，大模型在回答这类事实性问题时表现出色，展现出对语义多样性的强大适应性，至少已经达到了初级实证吹学家的水平。可见，AI现阶段就可在实证吹学研究领域大展拳脚。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;2-quan-shi-chui-xue-wen-ti&quot;&gt;2. 诠释吹学问题&lt;&#x2F;h2&gt;
+&lt;p&gt;  诠释吹学问题，即原作中没有直接答案，需要深入理解和诠释的问题。&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 75%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;问：小说中谁的吹奏技术最好？&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;Gemini 1.5 Pro：&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  小说中公认吹奏技术最好的是&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;高坂丽奈&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  从故事一开始，丽奈就展现出超凡的演奏实力，甚至在一年级就担任了独奏，并被公认为北宇治吹奏部最强的学生。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 75%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;问：小说中谁的数学成绩最好？&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;Gemini 1.5 Pro：&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  小说中数学成绩最好的人是&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;田中明日香&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  明日香是北宇治高中公认的才女，不仅吹奏技术出色，学习成绩也非常好。她目标是考上京都大学，因此在学习上非常用功。在小说中，明日香曾辅导过久美子数学，并帮助她提高了成绩。&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  其他成绩优秀的角色还包括：&lt;&#x2F;p&gt;&lt;ul style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;margin-left:0;padding-left:1em;list-style:circle;color:#3f3f3f&quot;&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;高坂丽奈&lt;&#x2F;strong&gt;：成绩优秀，目标是考上音大。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;铠冢霙&lt;&#x2F;strong&gt;：虽然没有明确说明，但从她能考上音大来看，成绩应该也不错。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;斋藤葵&lt;&#x2F;strong&gt;：目标是考上堀山高中，虽然没有考上，但最后也考上了不错的大学。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  值得注意的是，小说中并没有明确说明每个角色的具体成绩，以上只是根据小说中的描述推测。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;  面对诠释性问题，AI的理解能力受到了挑战。首先，我们来审视一下第一个回答。任何对京吹战力系统稍有研究的吹学家都会指出，AI的回答犯了一个明显的错误。关于谁是北宇治历史上第二厉害的吹奏手，或许存在一定的争议空间；但若论谁是第一，铠冢霙的地位是毫无疑问的。确实，AI能够识别出高坂丽奈技术的卓越性，这一点值得肯定。然而，在需要从更宏观的视角对比角色吹奏技能时，尤其是在小说中并未直接将铠冢霙和高坂丽奈进行比较的情况下，模型的表现就显得有些力不从心了。&lt;&#x2F;p&gt;
+&lt;p&gt;  接下来让我们分析第二个回答。在这一部分，模型似乎强行将铠冢霙和斋藤葵与数学联系起来，这种关联显得过于牵强，而真正的数学奇才——上数学课时不听讲，却能用数学语言为久石奏写下情书，同时还在数学测验中获得年级第一的剑崎·高斯·梨梨花，似乎被完全忽略了。笔者有尝试问&lt;span style=&quot;font-style: italic;&quot;&gt;“谁在数学测试中拿了年级第一？”&lt;&#x2F;span&gt;，得到了剑崎梨梨花的正确答案，但提问 &lt;span style=&quot;font-style: italic;&quot;&gt;“梨梨花的数学天赋如何？”&lt;&#x2F;span&gt;时，大模型的回答就不知所云了。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;3-yu-ce-chui-xue-wen-ti&quot;&gt;3. 预测吹学问题&lt;&#x2F;h2&gt;
+&lt;p&gt;  预测吹学问题，即原作中不存在答案，需要分析和推测的问题。&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 75%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;问：你认为谁会接替久美子成为下一届的北宇治吹奏部部长？&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;Gemini 1.5 Pro：&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  我认为，&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;久石奏&lt;&#x2F;strong&gt;最有可能接替久美子成为下一届的北宇治吹奏部部长。&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  奏是上低音号声部的二年级学生，演奏技术出色，而且性格冷静、头脑灵活。她善于观察和分析，并能很好地处理人际关系。在小说中，奏曾多次帮助久美子解决部内矛盾，并展现出一定的领导才能。&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  其他有可能接任部长的角色还包括：&lt;&#x2F;p&gt;&lt;ul style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;margin-left:0;padding-left:1em;list-style:circle;color:#3f3f3f&quot;&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;小日向梦&lt;&#x2F;strong&gt;：小号声部的二年级学生，演奏技术出色，但性格比较害羞。在久美子的鼓励下，梦逐渐克服了自卑，并展现出一定的领导潜力。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;铃木美玲&lt;&#x2F;strong&gt;：大号声部的二年级学生，演奏技术出色，性格冷静。她虽然不善言辞，但很有责任感，也是一个值得信赖的角色。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  最终谁会成为新的部长，还要看小说作者武田绫乃的安排。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
+&lt;div style=&quot;width: 75%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;问：你认为如果伞木希美当时没有选择退部，她的未来会有哪些不同？&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;Gemini 1.5 Pro：&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  如果伞木希美当时没有选择退部，她的未来可能会有一些不同：&lt;&#x2F;p&gt;&lt;ul style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;margin-left:0;padding-left:1em;list-style:circle;color:#3f3f3f&quot;&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;她可能会和霙一起进入A编队，并参加全国大赛。&lt;&#x2F;strong&gt;希美和霙都是非常有实力的演奏者，如果她们能够一起留在A编队，北宇治吹奏部的实力肯定会更上一层楼。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;她可能会和霙一起考上音大。&lt;&#x2F;strong&gt;希美和霙都对音乐充满热情，如果她们能够互相鼓励和支持，她们考上音大的可能性会更大。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;她可能会成为北宇治吹奏部的部长。&lt;&#x2F;strong&gt;希美有领导才能，也有很强的上进心，如果她没有退部，她很有可能会成为北宇治吹奏部的部长，带领大家一起实现全国金奖的目标。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  当然，这些都只是假设。如果希美没有退部，她的未来也可能会和现在一样，或者甚至更糟。人生充满了各种可能性，谁也无法预测未来会发生什么。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
+&lt;p&gt;  在第一个回答中，尽管大模型通读了《武吹原典》，但却没研读过任何一篇吹学论文，所以得出了历史选择了久石奏的错误结论也就不奇怪了。事实上，学界早已就剑崎梨梨花同志接班的正统性和合法性做了严格的论证 ↓&lt;&#x2F;p&gt;
+&lt;p&gt;  &lt;a href=&quot;&#x2F;2020&#x2F;02&#x2F;06&#x2F;weishenmelishixuanzeleririka&#x2F;&quot;&gt;为什么剑崎梨梨花是北宇治吹奏部的下届部长？——驳《为什么历史选择了久石奏》&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;  第二个回答涉及吹学殿堂中的圣杯——伞学，笔者认为自己尚未达到能够对其做出评价的水平。因此，笔者将这个问题留给广大的伞学家们，由他们来做出专业的判断。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;jie-lun&quot;&gt;结论&lt;&#x2F;h1&gt;
+&lt;p&gt;  笔者的初步研究显示，目前的大模型在理解和推理能力、特别是全局注意力方面仍有所不足。尽管AI在解决实证吹学问题时表现良好，但要胜任诠释吹学和预测吹学研究工作，还有一段路需要走。可即便如此，长上下文技术的突破也已经让AI吹学的发展迈出了坚实的一步，随着未来更为强大的AI的到来（例如，山姆·奥特曼提到的在写作能力上取得巨大进步的GPT-5），AI吹学的发展前景更是不可限量。下一种即将奏响的吹学，正是AI吹学。&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;  P.S. 插播一条来自大模型的温馨提示&lt;&#x2F;p&gt;
+&lt;div style=&quot;width: 75%; margin: auto;&quot;&gt;&lt;blockquote style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;font-style:normal;border-left:none;padding:1em;border-radius:8px;color:rgba(0,0,0,0.5);background:#f7f7f7;margin:2em 8px;margin-top: 0&quot;&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;问：我要去梨梨花家作客，有哪些注意事项？&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;Gemini 1.5 Pro：&lt;&#x2F;p&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  去梨梨花家作客，需要注意以下事项：&lt;&#x2F;p&gt;&lt;ul style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:14px;margin-left:0;padding-left:1em;list-style:circle;color:#3f3f3f&quot;&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;礼貌待人。&lt;&#x2F;strong&gt;梨梨花的家教很好，所以你要有礼貌地对待她的家人，并尊重他们的生活习惯。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;注意安全。&lt;&#x2F;strong&gt;梨梨花的家在山腰上，所以你要注意安全，不要乱跑，以免发生意外。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;不要乱动东西。&lt;&#x2F;strong&gt;梨梨花的家虽然不是豪宅，但里面的东西都很精致，所以你要注意不要乱动，以免损坏。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;带一份小礼物。&lt;&#x2F;strong&gt;去别人家作客，最好带一份小礼物，以表达你的感谢之情。梨梨花喜欢可爱的东西，所以你可以选择一些可爱的礼物，比如小玩偶、钥匙圈、点心等等。&lt;&#x2F;li&gt;&lt;li style=&quot;text-align:left;line-height:1.75;text-indent:-1em;display:block;margin:0.2em 8px;color:#3f3f3f&quot;&gt;&lt;span&gt;• &lt;&#x2F;span&gt;&lt;strong style=&quot;text-align:left;line-height:1.75;color:rgba(15, 76, 129, 1);font-weight:bold&quot;&gt;不要太拘谨。&lt;&#x2F;strong&gt;梨梨花是个很随和的人，所以你不用太拘谨，放松地和她聊天就好。&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;&lt;p style=&quot;text-align:left;line-height:1.75;font-family:-apple-system-font,BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB , Microsoft YaHei UI , Microsoft YaHei ,Arial,sans-serif;font-size:1em;letter-spacing:0.1em;color:rgb(80, 80, 80);display:block&quot;&gt;  此外，如果你对梨梨花有好感，想要趁着这次机会向她表白，建议你还是慎重考虑。因为梨梨花和奏的关系非常亲密，你贸然表白可能会破坏她们之间的友谊。&lt;&#x2F;p&gt;&lt;&#x2F;blockquote&gt;&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>武田绫乃到底懂不懂京吹？——久一年结题报告</title>
+        <published>2021-08-15T00:00:00+00:00</published>
+        <updated>2021-08-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/jiuyinianjietibaogao/"/>
+        <id>https://hibikilogy.vercel.app/jiuyinianjietibaogao/</id>
+        
+        <content type="html" xml:base="https://hibikilogy.vercel.app/jiuyinianjietibaogao/">&lt;p&gt;作者：书虫(1, 2, 3, 4)； 当代闲人(1, 3, 4, 5) &lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院三香研究院； &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院北中研究院高坂丽奈研究中心；&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院川岛绿辉哲学思想研究中心；&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院南中研究院；&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院北中研究院黄前久美子研究中心 &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;通讯作者：书虫（ @神采洋），email：chong.shu@hibike.ac.cn                   &lt;&#x2F;p&gt;
+&lt;p&gt;                  当代闲人（ @当代闲人 ），email：xianren.dangdai@hibike.ac.cn&lt;&#x2F;p&gt;
+&lt;p&gt;前接：&lt;a href=&quot;&#x2F;2020&#x2F;11&#x2F;17&#x2F;congshizhengdejiaodurushou&#x2F;&quot;&gt;武田绫乃到底懂不懂京吹？—— 开题报告：从实证的角度入手&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;2021&#x2F;02&#x2F;06&#x2F;jiuyinianzhongqibaogao&#x2F;&quot;&gt;武田绫乃到底懂不懂京吹？—— 久一年中期报告&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“宇宙中只有两样事物是无限的：宇宙的大小，与武田绫乃对京吹的无知。而宇宙的大小我却不能肯定。”
+——艾尔伯特·爱吹斯坦&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;有一个问题，吹学家对它们的思考越是深沉和持久，它在吹学家心灵中唤起的困惑就会越来越历久弥新：武田绫乃到底懂不懂京吹？&lt;&#x2F;p&gt;
+&lt;p&gt;从分析的角度看，要搞明白这个问题，首先要弄清楚“武田绫乃”是谁，其次要理解“京吹”是什么意思，最后要看武田绫乃是否处于一种特定的认知状态中，即“懂京吹”。吹学家已就前两个问题达成共识：武田绫乃是小说《吹响！上低音号》（简称武吹）的作者，京吹是京都动画公司制作的《吹响！上低音号》动画。换句话说，“武田绫乃懂京吹”这一命题等价于&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;04&#x2F;29&#x2F;NohnZucLJT9aPe5.png&quot; alt=&quot;gongshi.png&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt; ，其中&lt;strong&gt;W&lt;&#x2F;strong&gt;代表撰写了《吹响！上低音号》，&lt;strong&gt;U&lt;&#x2F;strong&gt;代表懂得京吹。&lt;&#x2F;p&gt;
+&lt;p&gt;理清问题所代表命题的逻辑结构后，下一步就是判定这个命题是否是真命题。根据经典的JTB知识理论，“理解京吹”至少应该满足三个必要条件：一是持有若干关于京吹本质内涵的信念，二是这些信念是真实的，三是有可靠证据支持这些信念。由于这三条必要性标准中只需要否定任意一条，武田绫乃懂得京吹的命题就将是假的，下文中不再详述如何判定武田绫乃对京吹持有的信念是否真实和是否理性，而将关注点聚焦于武田绫乃是否持有相关的信念——吹学同仁不难根据下文总结的京吹和武吹的对比分析结果得出关于另两条标准是否满足的结论。&lt;&#x2F;p&gt;
+&lt;p&gt;需澄清的是，由于武田绫乃本人身份的特殊性，武田绫乃是否“持有若干关于京吹本质内涵的信念”指的并非是她否认识到京吹这部动画具有若干特点，而是她是否认识到京吹和武吹所共有的角色和相关事件应当以某种特定方式在武吹中呈现。前一个问题涉及的更多是武田绫乃自身的心理状态，是脱离于武吹的，对于吹学研究的价值不大——吹学关注的不是吹学家的心理状态，而是《吹响！上低音号》这部作品。后一个问题则代表了武田绫乃对《吹响！上低音号》中角色和事件的理解和认识，及这些理解和认识是否合理，而这正是笔者提出的“&lt;strong&gt;吹学研究的根本问题（The Fundamental Problem of Hibikeology）&lt;&#x2F;strong&gt;”之理论意涵。&lt;&#x2F;p&gt;
+&lt;p&gt;事物的本质是在比较之中得以展现的。因此，京吹的本质内涵应在与武吹的差异和不同中寻求。如果武吹和京吹存在不可忽视的重大差异，那么我们将有理由认为武田绫乃并不持有关于京吹本质内涵的信念。经过半年多的系统整理和若干吹学大家的指正，我们发现京吹与武吹确实存在大量实质性差异。第一季京吹和武吹的主要差异可参考我们先前的研究成果及相关综述。第二季京吹和武吹的不同可总结为以下几点：&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;yi-ma-mei-zi-xian-cheng-wei-zhong-yao-zhu-xian&quot;&gt;一、麻美子线成为重要主线&lt;&#x2F;h1&gt;
+&lt;p&gt;武吹多次强调过久美子小时候是因为憧憬、喜欢姐姐麻美子才开始吹奏乐器的。长大后久美子和姐姐逐渐疏远起来，虽然最后她们关系恢复正常，但并没有任何直接的情节表明久一年临近结束时久美子非常喜欢姐姐。京吹则中穿插了不少情节为麻美子线做了铺垫，原创的电车哭和告白彻底表露出久美子对姐姐的爱。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;er-zhong-ben-xiu-yi-cheng-wei-gong-ju-ren&quot;&gt;二、冢本秀一成为工具人&lt;&#x2F;h1&gt;
+&lt;p&gt;武吹中，冢本秀一作为男主角拥有大量戏份，经常在放学路上跟踪久美子。京吹中秀一沦为路人男三号，被砍掉大量戏份，但作为工具人，他对麻美子线的发展仍有重要帮助，如在第八集给出史诗级助攻。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;san-li-nai-long-sheng-xian-de-dao-zeng-qiang&quot;&gt;三、丽奈泷昇线得到增强&lt;&#x2F;h1&gt;
+&lt;p&gt;相较于武吹，京吹中新增了大量情节，丽奈对泷昇的爱刻画得更加充分。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;si-san-ying-xian-geng-jia-ji-ji-zheng-mian&quot;&gt;四、伞霙线更加积极正面&lt;&#x2F;h1&gt;
+&lt;p&gt;武吹中，伞哥哥的想法和态度更加阴暗，伞霙只达成了表面的和解，为久二年的青鸟线埋下了伏笔。京吹中，伞霙线达成阶段性圆满的结果，甚至开始发起了糖，让人想不到还会有青鸟线的存在。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;wu-jiu-mei-zi-geng-jia-zhu-dong-ji-ji&quot;&gt;五、久美子更加主动积极&lt;&#x2F;h1&gt;
+&lt;p&gt;相比武吹的被动触发，京吹中的久美子在许多剧情的推动上更加主动积极，其对姐姐和明日香的告白是这种差异导致的最终结果。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;liu-diao-zheng-liao-jiao-se-de-xing-ge-te-dian&quot;&gt;六、调整了角色的性格特点&lt;&#x2F;h1&gt;
+&lt;p&gt;相较于武吹，京吹中的角色性格有以下不同：&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;明日香：对自己的内心想法隐藏得更深，经常以假面待人；&lt;&#x2F;li&gt;
+&lt;li&gt;希美：想法不再如原著中那么阴暗；&lt;&#x2F;li&gt;
+&lt;li&gt;夏纪：为人更加温柔，堪称北宇治第一老好人；&lt;&#x2F;li&gt;
+&lt;li&gt;优子：对待霙更像妈妈照顾女儿&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;；&lt;&#x2F;li&gt;
+&lt;li&gt;丽奈：和久美子以外其她人的关系更像点头之交的普通同学，不如武吹中亲昵；&lt;&#x2F;li&gt;
+&lt;li&gt;香织：对明日香的占有欲不如武吹中那么明显。&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h1 id=&quot;qi-duo-tiao-ju-qing-xian-xiang-hu-ying-xiang&quot;&gt;七、多条剧情线相互影响&lt;&#x2F;h1&gt;
+&lt;p&gt;相比较于武吹，京吹中的多条剧情线同时推进，互相交织产生联系和影响，奏出一曲悠远的交响乐。&lt;&#x2F;p&gt;
+&lt;p&gt;第二季京吹的这些特点加上第一季的群像展开、角色成长、细微伏笔等特点正是京吹的魅力所在。当然，武吹也并非毫无优点，如某些角色的性格展现得更为充分，但相较于京吹，毕竟是相形见绌了。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;jie-lun&quot;&gt;结论&lt;&#x2F;h1&gt;
+&lt;p&gt;根据这些京吹和武吹的若干重大差异，武田绫乃懂不懂京吹这一问题的答案已然呼之欲出。然而，由于作品内容是动态的，作者可以进行修改，判断武田绫乃懂不懂京吹也需要在不同时间维度上考虑。武吹诞生和京吹诞生是吹学历史上的两件大事，因此武田绫乃懂不懂京吹这个问题可根据这两个时间节点切分为三个问题：&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;武田绫乃在创作武吹时懂不懂京吹？&lt;&#x2F;li&gt;
+&lt;li&gt;武田绫乃在京吹制作时懂不懂京吹？&lt;&#x2F;li&gt;
+&lt;li&gt;武田绫乃在京吹开播后懂不懂京吹？&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;这一分析模式可称为“&lt;strong&gt;武田绫乃京吹知识的时序模型（Temporal Model of Takeda&#x27;s Knowledge of HIBIKE, TMTK）&lt;&#x2F;strong&gt;”。&lt;&#x2F;p&gt;
+&lt;p&gt;根据前面对京吹和武吹的对比分析结果，武田绫乃在创作武吹时是不持有关于京吹本质内涵的信念的，亦即不懂京吹，因为当时她没有将《吹响！上低音号》中的角色、事件以合乎京吹的方式呈现，否则武吹和京吹将没有重大差异。&lt;&#x2F;p&gt;
+&lt;p&gt;那么武田绫乃在京吹制作期间是否懂得京吹呢？这一问题的关键是京吹对角色和事件的呈现方式是否是武田绫乃授意的。如果是，那么武田绫乃知错就改，自觉调整了武吹中的情节；如果不是，那么武田绫乃还是不持有京吹本质内涵的信念，没有理解京吹，而只是提供了京都动画创作的原始素材。众所周知，京都动画擅长魔改作品。众多京都动画制作的动画原著作者都被批“丧权辱国”。在缺乏可靠直接证据的情况下，我们可以合理推测，京吹的改编绝大多数都是京都动画主创“擅自妄为”，并非武田绫乃主动提出的。事实上，原作者深度参与动画改编本身就是极为不同寻常之事。至此，我们可以得出结论就是：武田绫乃在京吹制作时也是不懂京吹的。&lt;&#x2F;p&gt;
+&lt;p&gt;最后的问题是：京吹播出以后，武田绫乃是否修正了武吹的内容，或表达过想修正的意愿？经过深度调查，我们没有发现相关迹象。虽然与京吹相对应的武吹前三卷分别出版于2013年12月5日、2015年3月5日和2015年4月4日，早于京吹开播，但武吹前三卷中文翻译版（台版）分别出版于2017年10月26日、2018年8月30和2019年1月23日，而京吹于2016年12月28日已播完第二季。如果武田绫乃懂得了京吹，那么她应该借着武吹再版的机会，修正小说内容。然而，中文版武吹依然没有根据京吹做出相应修改。可见，如果不是编辑强行禁止或日本文化氛围反对修正小说内容，那么武田绫乃不仅在京吹开播后没有懂得京吹，而且她本人甚至不知道她不懂京吹这件事——我们可以称之为“&lt;strong&gt;二阶不懂（Second-order Ignorance）&lt;&#x2F;strong&gt;”。&lt;&#x2F;p&gt;
+&lt;p&gt;经过上述分析，广大吹学家关于 “武田绫乃也就图一乐，真京吹还得看山田尚子！”的著名论断已得到逻辑和事实的双重证明。&lt;strong&gt;在此，我们可以就“武田绫乃到底懂不懂京吹？”这一重大历史争议做出决议：她懂个锤子京吹！&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;zhi-xie&quot;&gt;致谢&lt;&#x2F;h1&gt;
+&lt;p&gt;感谢B站用户由暉子、一只备用的小熊等翻译校对人员提供的翻译文本，B站用户高谭魅影对相关研究内容的指正，及各位吹学巨擘、吹吹爱好者的捧场和支持。特别感谢吹学先驱武田绫乃老师、京都动画《吹响！上低音号》和《利兹与青鸟》制作团队及在京吹中出演的声优。&lt;&#x2F;p&gt;
+&lt;p&gt;参考&lt;&#x2F;p&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;我们注意到，武田绫乃在第三卷之后的小说中已经补充了优子妈妈的相关内容。可见，武田绫乃知错就改，正在主动试图理解京吹。然而，鉴于前三卷内容没有做出修正，本文主体结论不受影响。&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>武田绫乃到底懂不懂京吹？——久一年中期报告</title>
+        <published>2021-02-06T00:00:00+00:00</published>
+        <updated>2021-02-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/jiuyinianzhongqibaogao/"/>
+        <id>https://hibikilogy.vercel.app/jiuyinianzhongqibaogao/</id>
+        
+        <content type="html" xml:base="https://hibikilogy.vercel.app/jiuyinianzhongqibaogao/">&lt;p&gt;作者：书虫(1, 2, 3, 4)； 当代闲人(1, 3, 4, 5) &lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院三香研究院； &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院北中研究院高坂丽奈研究中心；&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院川岛绿辉哲学思想研究中心；&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院南中研究院；&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;中国吹学科学院北中研究院黄前久美子研究中心 &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;通讯作者：书虫（ @神采洋），email：chong.shu@hibike.ac.cn                   &lt;&#x2F;p&gt;
+&lt;p&gt;                  当代闲人（ @当代闲人 ），email：xianren.dangdai@hibike.ac.cn&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;前接：&lt;a href=&quot;&#x2F;2020&#x2F;11&#x2F;17&#x2F;congshizhengdejiaodurushou&#x2F;&quot;&gt;武田绫乃到底懂不懂京吹？—— 开题报告：从实证的角度入手&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;经过数月的努力，第一季的《武田绫乃到底懂不懂京吹？》整理工作已全部完成。虽然影响力有限，但本项目仍然得到了一些吹学家的大力支持。在此先谢过关注本项目的吹学家。&lt;&#x2F;p&gt;
+&lt;p&gt;回顾这一季的研究，我们可以发现我京在尊重原典的基础上，出色地完成了动画化工作。众多改编内容令人印象深刻，总结起来可以归为以下七个方面。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;yi-qun-xiang-de-zhan-kai-fang-shi&quot;&gt;一、群像的展开方式&lt;&#x2F;h1&gt;
+&lt;p&gt;原著中，整个故事剧情以久美子为视角展开的，读者就是历史转折中的久美子上位过程的见证人，有名有姓的只限于对剧情有帮助的大主角，配角往往只有“吹xx的学姐”这种代称。动画中，不论主角配角，所有角色都得到了或多或少、或直接或间接的刻画，而且这些角色可以不依附于久美子的视角独立存在，做到了真正的群像。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;er-shen-ke-de-cheng-chang-bian-hua&quot;&gt;二、深刻的成长变化&lt;&#x2F;h1&gt;
+&lt;p&gt;原著第一卷中，久美子个人的成长还看不太到。动画以初中府大赛上丽奈的一句“不甘心得要死”为引子，刻画了久美子从比原著更吊儿郎当的状态到日剧跑后发出“不甘心得要死”的心灵呼喊的全过程，成长巨大。不仅如此，叶月、晴香等人的成长也得到了亮眼的刻画，吹奏部的变化也要比原著中直观许多。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;san-yin-xing-de-zhong-ben-xiu-yi&quot;&gt;三、隐形的冢本秀一&lt;&#x2F;h1&gt;
+&lt;p&gt;原著中，男二号秀一戏份不少，完美再现高中生舔狗的真实生活，总是能在放学时“偶遇”久美子。动画中，男二号秀一彻底沦落为久美子的情报专员，乖乖为男&#x2F;女一号丽奈和久美子的百合大戏让路。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;si-tian-mi-di-bing-ru-gao-huang&quot;&gt;四、甜蜜地病入高黄&lt;&#x2F;h1&gt;
+&lt;p&gt;承接秀一的男二号化，动画大大增加了高黄之间的戏份，青春期少女之间那种橘里橘气的友谊得到了很好的刻画。第一季中久美子的成长始于丽奈在初中府大赛后的那句魔咒，成于丽奈在独奏事件中言行的影响，终于“私会”泷昇后丽奈的死亡凝视。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;wu-ruo-hua-de-li-shi-zui-ze&quot;&gt;五、弱化的历史罪责&lt;&#x2F;h1&gt;
+&lt;p&gt;相较于原著，动画从各方面弱化了南中派起义过程中现当权派的历史罪责，作恶的前辈都已毕业，现当权派没有为虎作伥的恶行，葵主要因学业而退部。独奏事件中，主要矛盾点也不再是前辈后辈关系，而是部员和泷昇之间的信任问题。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;liu-xi-wei-de-fu-bi-pu-dian&quot;&gt;六、细微的伏笔铺垫&lt;&#x2F;h1&gt;
+&lt;p&gt;动画中许多地方可以看到这种伏笔：第二季前半季的主角铠冢霙第一集就以专属座位的方式不露面登场，其后更是集集都有登场（虽然没有半句台词），伞哥哥则在第十二集就已露面。麻美子提前登场，在家宅了一学期，为第二季后半季的剧情做足了铺垫。&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;qi-zhen-shi-de-chui-zou-ti-yan&quot;&gt;七、真实的吹奏体验&lt;&#x2F;h1&gt;
+&lt;p&gt;动画开头便强调了初学者的视角，之后还专门花半集时间讲述久美子等人希望为叶月找到吹大号的乐趣的剧情。动画中有不少诸如此类让观众了解、认识吹奏乐的情节，它们借助动画这一独特载体增强了带入性，让观众拥有了更为真实的观看体验。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;04&#x2F;29&#x2F;xnG1AkZzXiPbUEd.jpg&quot; alt=&quot;header.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;jie-lun&quot;&gt;结论&lt;&#x2F;h1&gt;
+&lt;p&gt;从整体上来看，动画和原著充分利用了自身载体的优势，在都涉及的剧情上表现各有千秋，但动画新增了大量重要或有趣的情节，而删减的关键情节却只有少数几处。可见，单从第一季来看，武田绫乃对京吹的理解还很不到位，&lt;strong&gt;很难说她是真的懂得京吹&lt;&#x2F;strong&gt;。当然，我们也不否认原著中有些精华被动画舍弃了，如叶月和夏纪在谈及南中派起义事件时表现出来的耿直性格——&lt;strong&gt;这意味着武田绫乃竟然也不是完全不懂京吹的&lt;&#x2F;strong&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;不过，我们还未探讨第二季、剧场版等内容中动画和原著的差异，现有成果也仍需更细致的分析，因而要解决“武田绫乃到底懂不懂京吹？”这一问题还需要更深入的研究。春节过后，我们将着手其余动画内容的整理，敬请期待！&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;PS：我们已将第一季全部内容的Word文档上传至&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Shelling0&#x2F;EmpiricalHibikeology&quot;&gt;Github&lt;&#x2F;a&gt;、&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pan.baidu.com&#x2F;s&#x2F;1nxZSlQpxcNpVkc0LPIE5zw&quot;&gt;百度云（提取码：hibi）&lt;&#x2F;a&gt;，感兴趣的吹学家可自行下载研究，或在Github Fork该项目后修改、增添相关内容。我们欢迎广大吹学家参与本项目的研究，为把实证吹学研究推向新高度贡献自己的一份力量。&lt;&#x2F;p&gt;
+&lt;p&gt;本系列内容详见&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.bilibili.com&#x2F;read&#x2F;readlist&#x2F;rl350840?spm_id_from=333.999.0.0&quot;&gt;专栏文集&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>武田绫乃到底懂不懂京吹？——开题报告：从实证的角度入手</title>
+        <published>2020-11-17T00:00:00+00:00</published>
+        <updated>2020-11-17T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://hibikilogy.vercel.app/congshizhengdejiaodurushou/"/>
+        <id>https://hibikilogy.vercel.app/congshizhengdejiaodurushou/</id>
+        
+        <content type="html" xml:base="https://hibikilogy.vercel.app/congshizhengdejiaodurushou/">&lt;p&gt;    2015年4月7日，一个特别的日子。石原立也说，要有《京吹》，所以便有了《京吹》。自此，宇宙有了个新样貌。&lt;&#x2F;p&gt;
+&lt;p&gt;    《京吹》一开播，便感动了无数人民群众，也催生了吹学这门专门研究《京吹》的学科。五年多来，京蜜和扭曲的京蜜纷纷投身于这门高深学问的研究。在吹学蓬勃发展的时代背景下，有志之士还创办了《&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;&quot;&gt;京吹学报&lt;&#x2F;a&gt;（Hibikilogy）》。纵观浩如烟海的吹学文献，对京吹人物的赏析、重要历史事件的理性重构以及黄前部长卸任后北宇治吹奏部未来的展望构成了吹学研究三大支柱。&lt;&#x2F;p&gt;
+&lt;p&gt;    《京吹》人物赏析是吹学研究的重头戏。著名学者&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;space.bilibili.com&#x2F;37460327&#x2F;&quot;&gt;梓川枫&lt;&#x2F;a&gt;教授曾写下洋洋洒洒几十篇《京吹群像志》，深度解析《吹学》中各色人物的性格和人物之间的关系，为深入理解《京吹》奠定了重要的基础。无论是主角，还是配角，一个个栩栩如生的艺术形象，让广大人民群众无不感叹：prprprprprprprprpr！据我们观察，伞木希美同志（坊间尊称“伞哥哥”）在这一派研究中尤受关注。&lt;&#x2F;p&gt;
+&lt;p&gt;    重要历史事件的理性重构则拨开历史迷雾，还原了北宇治吹奏部在田中明日香同志和黄前部长带领下，奋三世之余烈，最终勇夺全国大赛金牌的艰苦创业历程。老仓唯教授的《北宇治吹奏部权力博弈考察》是这一派研究的代表，从政治科学的角度探究了北宇治吹奏部在三年间经历的诸多事件背后的权力博弈过程。施瓦兴国教授的《&lt;a href=&quot;&#x2F;2020&#x2F;03&#x2F;05&#x2F;%E5%8D%97%E4%B8%AD%E6%B2%89%E6%B5%AE%E5%BD%95&#x2F;&quot;&gt;南中沉浮录&lt;&#x2F;a&gt;》则解析了以伞木希美同志为核心的南中派兴起、衰败及复兴的曲折历史。&lt;&#x2F;p&gt;
+&lt;p&gt;    对北宇治吹奏部未来的展望是吹学研究中的一大热点。由于资料缺失，黄前部长卸任后吹奏部的未来如何始终没有定论。《&lt;a href=&quot;&#x2F;2020&#x2F;01&#x2F;07&#x2F;weishenmelishixuanzelekanade&#x2F;&quot;&gt;为什么历史选择了久石奏&lt;&#x2F;a&gt;》、《&lt;a href=&quot;&#x2F;2020&#x2F;02&#x2F;06&#x2F;weishenmelishixuanzeleririka&#x2F;&quot;&gt;为什么剑崎梨梨花是北宇治吹奏部的下届部长？&lt;&#x2F;a&gt;——驳&amp;lt;为什么历史选择了久石奏&amp;gt;》、《&lt;a href=&quot;https:&#x2F;&#x2F;hibikilogy.github.io&#x2F;2020&#x2F;02&#x2F;27&#x2F;postKumikochutan&#x2F;&quot;&gt;后黄前时代北宇治吹奏部中枢政局初探&lt;&#x2F;a&gt;》等名篇引经据典，试图描绘出后黄前时代吹奏部的具体面貌。&lt;&#x2F;p&gt;
+&lt;p&gt;    这三大研究方向已产出了丰硕的研究成果。然而，我们注意到，相关研究往往结合《京吹》和《吹响吧！上低音号》原典展开论述。这给不熟悉武田绫乃所著原典的学者批判性地分析各研究成果带来了困难。部分学者提出的 &lt;strong&gt;“京吹之所以是京吹，重点是京，而不是吹。武田懂个锤子京吹！”&lt;&#x2F;strong&gt;、&lt;strong&gt;“武田绫乃也就图一乐，真京吹还得看山田尚子！”&lt;&#x2F;strong&gt; 等观点也值得关注。原典和《京吹》之间存在重大差异，将二者混合容易造成研究偏差，不利于吹学的发展。据此，我们认为，吹学研究的基石应是《京吹》和原典之间的异同的辨析。这一问题可称为 &lt;strong&gt;“吹学研究的根本问题（The Fundamental Problem of Hibikeology）”&lt;&#x2F;strong&gt;。不解决这一问题，武田绫乃是否真的懂京吹这一问题将永远没有答案。&lt;&#x2F;p&gt;
+&lt;p&gt;    除此以外，吹学研究的一大特点是注重史料分析和逻辑推理，借鉴史学和政治学的研究方法和相关理论，而缺乏实证数据的积累。这一特点不利于吹学的精确化和系统化，更和当今社会科学的实证主义倾向有违背之处。我们认为，实证分析是吹学研究的重要方法。吹学研究应结合实证分析和逻辑分析，以推动吹学研究迈向下一个台阶。套用康德的话，没有实证基础的逻辑分析是空洞的，没有逻辑分析的实证研究是盲目的。&lt;&#x2F;p&gt;
+&lt;p&gt;    有感于此，我们意欲发起一项吹学研究，系统整理《京吹》和武田绫乃所著原典的差异，为吹学研究同仁提供认识《京吹》全貌的基础性资料。鉴于《京吹》在吹学研究中的核心地位，我们将以《京吹》每一集为单位，总结原典和《京吹》的重要差异，并附上原文和《京吹》截图，以证明所载差异的真实性。这一项目工作量极大，因此我们将采取连载的方式，争取每一星期整理一集的内容，并及时公布。相关工作将由书虫和当代闲人两人分工完成。&lt;&#x2F;p&gt;
+&lt;p&gt;    鉴于水平有限，我们的整理难免挂一漏万。错漏之处，还请方家指正。&lt;&#x2F;p&gt;
+&lt;p&gt;    回到标题，武田绫乃到底懂不懂京吹？或许懂，或许不懂，但只有全面认识原典和《京吹》的差异后，我们才能回答这一问题。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
